@@ -1,0 +1,7192 @@
+[
+  {
+    "english": "a/an",
+    "turkish": "bir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ability",
+    "turkish": "yetenek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "able",
+    "turkish": "yapabilir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "about",
+    "turkish": "hakkında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "above",
+    "turkish": "yukarıda",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "abroad",
+    "turkish": "yurtdışında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "absent",
+    "turkish": "yok",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "absolutely",
+    "turkish": "kesinlikle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "accept",
+    "turkish": "kabul etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "according to",
+    "turkish": "göre",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "account",
+    "turkish": "hesap",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "accurate",
+    "turkish": "doğru",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "achieve",
+    "turkish": "başarmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "across",
+    "turkish": "karşısında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "act",
+    "turkish": "hareket etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "action",
+    "turkish": "eylem",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "active",
+    "turkish": "aktif",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "activity",
+    "turkish": "etkinlik",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "actually",
+    "turkish": "aslında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "add",
+    "turkish": "eklemek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "addition",
+    "turkish": "ekleme",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "address",
+    "turkish": "adres",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "admire",
+    "turkish": "hayran olmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "admission",
+    "turkish": "kabul",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "admit",
+    "turkish": "kabul etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "adult",
+    "turkish": "yetişkin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "advance",
+    "turkish": "gelişme",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "advanced",
+    "turkish": "gelişmiş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "advantage",
+    "turkish": "avantaj",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "adventure",
+    "turkish": "macera",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "advice",
+    "turkish": "tavsiye",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "advise",
+    "turkish": "tavsiye etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "afford",
+    "turkish": "karşılayabilmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "afraid",
+    "turkish": "korkmuş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "after",
+    "turkish": "sonra",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "afternoon",
+    "turkish": "öğleden sonra",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "afterwards",
+    "turkish": "sonrasında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "again",
+    "turkish": "tekrar",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "against",
+    "turkish": "karşı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "age",
+    "turkish": "yaş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "aged",
+    "turkish": "yaşlı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "agency",
+    "turkish": "ajans",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ago",
+    "turkish": "önce",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "agree",
+    "turkish": "anlaşmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ahead",
+    "turkish": "ileri",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "aim",
+    "turkish": "hedef",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "air",
+    "turkish": "hava",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "alarm",
+    "turkish": "alarm",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "album",
+    "turkish": "albüm",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "alike",
+    "turkish": "benzer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "alive",
+    "turkish": "canlı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "all",
+    "turkish": "hepsi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "all right",
+    "turkish": "tamam",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "allow",
+    "turkish": "izin vermek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "almost",
+    "turkish": "neredeyse",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "alone",
+    "turkish": "yalnız",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "along",
+    "turkish": "boyunca",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "aloud",
+    "turkish": "yüksek sesle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "alphabet",
+    "turkish": "alfabe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "already",
+    "turkish": "zaten",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "also",
+    "turkish": "ayrıca",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "although",
+    "turkish": "rağmen",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "altogether",
+    "turkish": "toplamda",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "always",
+    "turkish": "her zaman",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "amazed",
+    "turkish": "hayret etmiş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "amazing",
+    "turkish": "şaşırtıcı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ambition",
+    "turkish": "hırs",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "among",
+    "turkish": "arasında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "amount",
+    "turkish": "miktar",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "amusing",
+    "turkish": "eğlenceli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ancient",
+    "turkish": "antik",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "angry",
+    "turkish": "kızgın",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "anniversary",
+    "turkish": "yıldönümü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "announce",
+    "turkish": "duyurmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "announcement",
+    "turkish": "duyuru",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "annoy",
+    "turkish": "rahatsız etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "annual",
+    "turkish": "yıllık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "another",
+    "turkish": "başka",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "answer",
+    "turkish": "cevap",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "anxious",
+    "turkish": "endişeli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "any",
+    "turkish": "herhangi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "anybody",
+    "turkish": "herhangi biri",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "anymore",
+    "turkish": "artık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "anyone",
+    "turkish": "herkes",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "anything",
+    "turkish": "herhangi şey",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "anyway",
+    "turkish": "her neyse",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "anywhere",
+    "turkish": "herhangi yer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "apart",
+    "turkish": "ayrı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "apart from",
+    "turkish": "dışında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "apologise",
+    "turkish": "özür dilemek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "apology",
+    "turkish": "özür",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "appear",
+    "turkish": "görünmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "appearance",
+    "turkish": "görünüş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "application",
+    "turkish": "başvuru",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "apply",
+    "turkish": "başvurmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "appointment",
+    "turkish": "randevu",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "approach",
+    "turkish": "yaklaşmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "approve",
+    "turkish": "onaylamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "area",
+    "turkish": "alan",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "argue",
+    "turkish": "tartışmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "argument",
+    "turkish": "tartışma",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "around",
+    "turkish": "etrafında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "arrange",
+    "turkish": "düzenlemek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "arrangement",
+    "turkish": "düzenleme",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "arrest",
+    "turkish": "tutuklamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "arrival",
+    "turkish": "varış",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "arrive",
+    "turkish": "varmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "article",
+    "turkish": "makale",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ashamed",
+    "turkish": "utanmış",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ask",
+    "turkish": "sormak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "asleep",
+    "turkish": "uyuyor",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "assistant",
+    "turkish": "asistan",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "as well",
+    "turkish": "aynı zamanda",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "at",
+    "turkish": "de/da",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "at all",
+    "turkish": "hiç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "at first",
+    "turkish": "ilk başta",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "at last",
+    "turkish": "sonunda",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "at least",
+    "turkish": "en azından",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "atmosphere",
+    "turkish": "atmosfer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "at once",
+    "turkish": "hemen",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "at present",
+    "turkish": "şu anda",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attach",
+    "turkish": "eklemek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attack",
+    "turkish": "saldırı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attempt",
+    "turkish": "deneme",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attend",
+    "turkish": "katılmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attention",
+    "turkish": "dikkat",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "at the same time",
+    "turkish": "aynı zamanda",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attitude",
+    "turkish": "tutum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attract",
+    "turkish": "çekmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attraction",
+    "turkish": "cazibe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "attractive",
+    "turkish": "çekici",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "audience",
+    "turkish": "izleyici",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "author",
+    "turkish": "yazar",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "autumn",
+    "turkish": "sonbahar",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "available",
+    "turkish": "mevcut",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "average",
+    "turkish": "ortalama",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "avoid",
+    "turkish": "kaçınmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "awake",
+    "turkish": "uyanık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "away",
+    "turkish": "uzakta",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "awful",
+    "turkish": "korkunç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "animal",
+    "turkish": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "ant",
+    "turkish": "karınca",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "bear",
+    "turkish": "ayı",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "bee",
+    "turkish": "arı",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "bird",
+    "turkish": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "butterfly",
+    "turkish": "kelebek",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "camel",
+    "turkish": "deve",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "cat",
+    "turkish": "kedi",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "cattle",
+    "turkish": "sığır",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "cow",
+    "turkish": "inek",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "dog",
+    "turkish": "köpek",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "dolphin",
+    "turkish": "yunus",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "donkey",
+    "turkish": "eşek",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "duck",
+    "turkish": "ördek",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "elephant",
+    "turkish": "fil",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "fish",
+    "turkish": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "frog",
+    "turkish": "kurbağa",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "giraffe",
+    "turkish": "zürafa",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "goat",
+    "turkish": "keçi",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "horse",
+    "turkish": "at",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "kangaroo",
+    "turkish": "kanguru",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "kitten",
+    "turkish": "yavru kedi",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "lion",
+    "turkish": "aslan",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "monkey",
+    "turkish": "maymun",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "mouse",
+    "turkish": "fare",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "parrot",
+    "turkish": "papağan",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "penguin",
+    "turkish": "penguen",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "pig",
+    "turkish": "domuz",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "puppy",
+    "turkish": "yavru köpek",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "rabbit",
+    "turkish": "tavşan",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "shark",
+    "turkish": "köpekbalığı",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "sheep",
+    "turkish": "koyun",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "snake",
+    "turkish": "yılan",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "tiger",
+    "turkish": "kaplan",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "whale",
+    "turkish": "balina",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "zebra",
+    "turkish": "zebra",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "apple",
+    "turkish": "elma",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "banana",
+    "turkish": "muz",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "bread",
+    "turkish": "ekmek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "breakfast",
+    "turkish": "kahvaltı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "burger",
+    "turkish": "hamburger",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "butter",
+    "turkish": "tereyağı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cake",
+    "turkish": "pasta",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "candy",
+    "turkish": "şeker",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cheese",
+    "turkish": "peynir",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "chicken",
+    "turkish": "tavuk",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "chocolate",
+    "turkish": "çikolata",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "coffee",
+    "turkish": "kahve",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "dinner",
+    "turkish": "akşam yemeği",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "drink",
+    "turkish": "içmek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "egg",
+    "turkish": "yumurta",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "fish",
+    "turkish": "balık",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "food",
+    "turkish": "yemek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "fruit",
+    "turkish": "meyve",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "lunch",
+    "turkish": "öğle yemeği",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "meal",
+    "turkish": "yemek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "meat",
+    "turkish": "et",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "milk",
+    "turkish": "süt",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "restaurant",
+    "turkish": "restoran",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "sugar",
+    "turkish": "şeker",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "tea",
+    "turkish": "çay",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "water",
+    "turkish": "su",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "beef",
+    "turkish": "sığır eti",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "bean",
+    "turkish": "fasulye",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "biscuit",
+    "turkish": "bisküvi",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "bottle",
+    "turkish": "şişe",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "bowl",
+    "turkish": "kase",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "broccoli",
+    "turkish": "brokoli",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "bunch",
+    "turkish": "demet",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "burn",
+    "turkish": "yanmak",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cabbage",
+    "turkish": "lahana",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cafe",
+    "turkish": "kafe",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "canteen",
+    "turkish": "kantin",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "carrot",
+    "turkish": "havuç",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cereal",
+    "turkish": "tahıl",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "chef",
+    "turkish": "aşçı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "chilli",
+    "turkish": "biber",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "chip",
+    "turkish": "cips",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "coconut",
+    "turkish": "hindistancevizi",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cod",
+    "turkish": "morina",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cola",
+    "turkish": "kola",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cook",
+    "turkish": "yemek pişirmek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cooker",
+    "turkish": "ocak",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cooking",
+    "turkish": "yemek pişirme",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "corn",
+    "turkish": "mısır",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cream",
+    "turkish": "krema",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cucumber",
+    "turkish": "salatalık",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cup",
+    "turkish": "fincan",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "curry",
+    "turkish": "köri",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "dessert",
+    "turkish": "tatlı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "diet",
+    "turkish": "diyet",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "dish",
+    "turkish": "yemek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "flour",
+    "turkish": "un",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "fork",
+    "turkish": "çatal",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "fried",
+    "turkish": "kızarmış",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "fry",
+    "turkish": "kızartmak",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "frying pan",
+    "turkish": "tava",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "garlic",
+    "turkish": "sarımsak",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "grill",
+    "turkish": "ızgara",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "grilled",
+    "turkish": "ızgarada pişmiş",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "honey",
+    "turkish": "bal",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "ice cream",
+    "turkish": "dondurma",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "ingredient",
+    "turkish": "malzeme",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "jam",
+    "turkish": "reçel",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "jar",
+    "turkish": "kavanoz",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "jug",
+    "turkish": "sürahi",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "juice",
+    "turkish": "meyve suyu",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "kettle",
+    "turkish": "su ısıtıcısı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "knife",
+    "turkish": "bıçak",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "lamb",
+    "turkish": "kuzu eti",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "lemon",
+    "turkish": "limon",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "lemonade",
+    "turkish": "limonata",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "lettuce",
+    "turkish": "marul",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "main course",
+    "turkish": "ana yemek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "mango",
+    "turkish": "mango",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "melon",
+    "turkish": "kavun",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "menu",
+    "turkish": "menü",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "mineral water",
+    "turkish": "maden suyu",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "mushroom",
+    "turkish": "mantar",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "oil",
+    "turkish": "yağ",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "olive",
+    "turkish": "zeytin",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "omelette",
+    "turkish": "omlet",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "onion",
+    "turkish": "soğan",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "orange",
+    "turkish": "turuncu",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "pan",
+    "turkish": "tava",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "pasta",
+    "turkish": "makarna",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "peach",
+    "turkish": "şeftali",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "peanut",
+    "turkish": "fıstık",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "pear",
+    "turkish": "armut",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "pepper",
+    "turkish": "biber",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "picnic",
+    "turkish": "piknik",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "pie",
+    "turkish": "turta",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "pineapple",
+    "turkish": "ananas",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "pizza",
+    "turkish": "pizza",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "plate",
+    "turkish": "tabak",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "potato",
+    "turkish": "patates",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "powder",
+    "turkish": "toz",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "raw",
+    "turkish": "çiğ",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "recipe",
+    "turkish": "tarif",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "refreshments",
+    "turkish": "ikramlar",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "refrigerator",
+    "turkish": "buzdolabı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "rice",
+    "turkish": "pirinç",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "roast",
+    "turkish": "kavurma",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "roll",
+    "turkish": "rulo",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "salad",
+    "turkish": "salata",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "salmon",
+    "turkish": "somon",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "salt",
+    "turkish": "tuz",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "sandwich",
+    "turkish": "sandviç",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "sauce",
+    "turkish": "sos",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "saucepan",
+    "turkish": "tencere",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "saucer",
+    "turkish": "tabak altlığı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "sausage",
+    "turkish": "sosis",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "slice",
+    "turkish": "dilim",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "snack",
+    "turkish": "atıştırmalık",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "soup",
+    "turkish": "çorba",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "sour",
+    "turkish": "ekşi",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "sparkling",
+    "turkish": "gazlı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "spice",
+    "turkish": "baharat",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "spicy",
+    "turkish": "baharatlı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "spill",
+    "turkish": "dökmek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "spinach",
+    "turkish": "ıspanak",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "spoon",
+    "turkish": "kaşık",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "steak",
+    "turkish": "biftek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "stir",
+    "turkish": "karıştırmak",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "strawberry",
+    "turkish": "çilek",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "supper",
+    "turkish": "akşam yemeği",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "sweet",
+    "turkish": "tatlı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "taste",
+    "turkish": "tat",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "tasty",
+    "turkish": "lezzetli",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "toast",
+    "turkish": "tost",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "tomato",
+    "turkish": "domates",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "tuna",
+    "turkish": "ton balığı",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "turkey",
+    "turkish": "hindi",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "vanilla",
+    "turkish": "vanilya",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "vegetable",
+    "turkish": "sebze",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "vegetarian",
+    "turkish": "vejetaryen",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "wine",
+    "turkish": "şarap",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "black",
+    "turkish": "siyah",
+    "category": "Renkler"
+  },
+  {
+    "english": "blue",
+    "turkish": "mavi",
+    "category": "Renkler"
+  },
+  {
+    "english": "brown",
+    "turkish": "kahverengi",
+    "category": "Renkler"
+  },
+  {
+    "english": "green",
+    "turkish": "yeşil",
+    "category": "Renkler"
+  },
+  {
+    "english": "grey",
+    "turkish": "gri",
+    "category": "Renkler"
+  },
+  {
+    "english": "orange",
+    "turkish": "turuncu",
+    "category": "Renkler"
+  },
+  {
+    "english": "pink",
+    "turkish": "pembe",
+    "category": "Renkler"
+  },
+  {
+    "english": "red",
+    "turkish": "kırmızı",
+    "category": "Renkler"
+  },
+  {
+    "english": "white",
+    "turkish": "beyaz",
+    "category": "Renkler"
+  },
+  {
+    "english": "yellow",
+    "turkish": "sarı",
+    "category": "Renkler"
+  },
+  {
+    "english": "golden",
+    "turkish": "altın rengi",
+    "category": "Renkler"
+  },
+  {
+    "english": "navy blue",
+    "turkish": "lacivert",
+    "category": "Renkler"
+  },
+  {
+    "english": "pale",
+    "turkish": "solgun",
+    "category": "Renkler"
+  },
+  {
+    "english": "bright",
+    "turkish": "parlak",
+    "category": "Renkler"
+  },
+  {
+    "english": "dark",
+    "turkish": "karanlık",
+    "category": "Renkler"
+  },
+  {
+    "english": "number",
+    "turkish": "number",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "one",
+    "turkish": "one",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "two",
+    "turkish": "two",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "three",
+    "turkish": "three",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "first",
+    "turkish": "ilk",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "second",
+    "turkish": "second",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "time",
+    "turkish": "zaman",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "day",
+    "turkish": "gün",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "week",
+    "turkish": "hafta",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "month",
+    "turkish": "ay",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "year",
+    "turkish": "yıl",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "hour",
+    "turkish": "saat",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "minute",
+    "turkish": "dakika",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "today",
+    "turkish": "bugün",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "tomorrow",
+    "turkish": "yarın",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "yesterday",
+    "turkish": "dün",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "morning",
+    "turkish": "sabah",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "afternoon",
+    "turkish": "öğleden sonra",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "evening",
+    "turkish": "akşam",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "night",
+    "turkish": "gece",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "midnight",
+    "turkish": "gece yarısı",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "noon",
+    "turkish": "öğle",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "century",
+    "turkish": "yüzyıl",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "date",
+    "turkish": "tarih",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "early",
+    "turkish": "erken",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "late",
+    "turkish": "geç",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "lately",
+    "turkish": "son zamanlarda",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "later",
+    "turkish": "sonra",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "latest",
+    "turkish": "en son",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "midnight",
+    "turkish": "gece yarısı",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "moment",
+    "turkish": "an",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "period",
+    "turkish": "dönem",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "recently",
+    "turkish": "son zamanlarda",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "season",
+    "turkish": "mevsim",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "shortly",
+    "turkish": "kısaca",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "since",
+    "turkish": "beri",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "soon",
+    "turkish": "yakında",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "sunset",
+    "turkish": "gün batımı",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "sunrise",
+    "turkish": "gün doğumu",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "term",
+    "turkish": "dönem",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "till",
+    "turkish": "e kadar",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "timetable",
+    "turkish": "zaman çizelgesi",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "tonight",
+    "turkish": "bu gece",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "twice",
+    "turkish": "iki kez",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "weekday",
+    "turkish": "hafta içi",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "weekend",
+    "turkish": "hafta sonu",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "while",
+    "turkish": "süresince",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "within",
+    "turkish": "içinde",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "yet",
+    "turkish": "henüz",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "arm",
+    "turkish": "kol",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "back",
+    "turkish": "sırt",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "body",
+    "turkish": "vücut",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "ear",
+    "turkish": "kulak",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "eye",
+    "turkish": "göz",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "face",
+    "turkish": "yüz",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "finger",
+    "turkish": "parmak",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "foot",
+    "turkish": "ayak",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "hair",
+    "turkish": "saç",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "hand",
+    "turkish": "el",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "head",
+    "turkish": "kafa",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "heart",
+    "turkish": "kalp",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "leg",
+    "turkish": "bacak",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "mouth",
+    "turkish": "ağız",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "neck",
+    "turkish": "boyun",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "nose",
+    "turkish": "burun",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "shoulder",
+    "turkish": "omuz",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "skin",
+    "turkish": "deri",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "tooth",
+    "turkish": "diş",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "ankle",
+    "turkish": "ayak bileği",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "beard",
+    "turkish": "sakal",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "blood",
+    "turkish": "kan",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "bone",
+    "turkish": "kemik",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "brain",
+    "turkish": "beyin",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "breath",
+    "turkish": "nefes",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "calf",
+    "turkish": "buzağı",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "cheek",
+    "turkish": "yanak",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "chest",
+    "turkish": "göğüs",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "chin",
+    "turkish": "çene",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "elbow",
+    "turkish": "dirsek",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "heel",
+    "turkish": "topuk",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "hip",
+    "turkish": "hip",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "knee",
+    "turkish": "diz",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "lip",
+    "turkish": "dudak",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "stomach",
+    "turkish": "mide",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "thumb",
+    "turkish": "başparmak",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "toe",
+    "turkish": "ayak parmağı",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "tongue",
+    "turkish": "dil",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "teeth",
+    "turkish": "dişler",
+    "category": "Vücut Parçaları"
+  },
+  {
+    "english": "baby",
+    "turkish": "bebek",
+    "category": "Aile"
+  },
+  {
+    "english": "brother",
+    "turkish": "erkek kardeş",
+    "category": "Aile"
+  },
+  {
+    "english": "child",
+    "turkish": "çocuk",
+    "category": "Aile"
+  },
+  {
+    "english": "dad",
+    "turkish": "baba",
+    "category": "Aile"
+  },
+  {
+    "english": "daughter",
+    "turkish": "kız",
+    "category": "Aile"
+  },
+  {
+    "english": "family",
+    "turkish": "aile",
+    "category": "Aile"
+  },
+  {
+    "english": "father",
+    "turkish": "baba",
+    "category": "Aile"
+  },
+  {
+    "english": "grandfather",
+    "turkish": "büyükbaba",
+    "category": "Aile"
+  },
+  {
+    "english": "grandmother",
+    "turkish": "büyükanne",
+    "category": "Aile"
+  },
+  {
+    "english": "husband",
+    "turkish": "koca",
+    "category": "Aile"
+  },
+  {
+    "english": "mother",
+    "turkish": "anne",
+    "category": "Aile"
+  },
+  {
+    "english": "parent",
+    "turkish": "ebeveyn",
+    "category": "Aile"
+  },
+  {
+    "english": "sister",
+    "turkish": "kız kardeş",
+    "category": "Aile"
+  },
+  {
+    "english": "son",
+    "turkish": "oğul",
+    "category": "Aile"
+  },
+  {
+    "english": "wife",
+    "turkish": "eş",
+    "category": "Aile"
+  },
+  {
+    "english": "aunt",
+    "turkish": "teyze",
+    "category": "Aile"
+  },
+  {
+    "english": "bride",
+    "turkish": "gelin",
+    "category": "Aile"
+  },
+  {
+    "english": "cousin",
+    "turkish": "kuzen",
+    "category": "Aile"
+  },
+  {
+    "english": "elder",
+    "turkish": "yaşlı",
+    "category": "Aile"
+  },
+  {
+    "english": "elderly",
+    "turkish": "yaşlı",
+    "category": "Aile"
+  },
+  {
+    "english": "engaged",
+    "turkish": "nişanlı",
+    "category": "Aile"
+  },
+  {
+    "english": "grandchild",
+    "turkish": "torun",
+    "category": "Aile"
+  },
+  {
+    "english": "granddad",
+    "turkish": "dede",
+    "category": "Aile"
+  },
+  {
+    "english": "granddaughter",
+    "turkish": "kız torun",
+    "category": "Aile"
+  },
+  {
+    "english": "grandma",
+    "turkish": "büyükanne",
+    "category": "Aile"
+  },
+  {
+    "english": "grandpa",
+    "turkish": "büyükbaba",
+    "category": "Aile"
+  },
+  {
+    "english": "grandparent",
+    "turkish": "büyük ebeveyn",
+    "category": "Aile"
+  },
+  {
+    "english": "grandson",
+    "turkish": "erkek torun",
+    "category": "Aile"
+  },
+  {
+    "english": "granny",
+    "turkish": "nine",
+    "category": "Aile"
+  },
+  {
+    "english": "groom",
+    "turkish": "damat",
+    "category": "Aile"
+  },
+  {
+    "english": "marriage",
+    "turkish": "evlilik",
+    "category": "Aile"
+  },
+  {
+    "english": "married",
+    "turkish": "evli",
+    "category": "Aile"
+  },
+  {
+    "english": "marry",
+    "turkish": "evlenmek",
+    "category": "Aile"
+  },
+  {
+    "english": "nephew",
+    "turkish": "yeğen",
+    "category": "Aile"
+  },
+  {
+    "english": "niece",
+    "turkish": "yeğen kız",
+    "category": "Aile"
+  },
+  {
+    "english": "relative",
+    "turkish": "akraba",
+    "category": "Aile"
+  },
+  {
+    "english": "uncle",
+    "turkish": "amca",
+    "category": "Aile"
+  },
+  {
+    "english": "wedding",
+    "turkish": "düğün",
+    "category": "Aile"
+  },
+  {
+    "english": "youth",
+    "turkish": "gençlik",
+    "category": "Aile"
+  },
+  {
+    "english": "apartment",
+    "turkish": "daire",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bathroom",
+    "turkish": "banyo",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bed",
+    "turkish": "yatak",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bedroom",
+    "turkish": "yatak odası",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "chair",
+    "turkish": "sandalye",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "door",
+    "turkish": "kapı",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "floor",
+    "turkish": "zemin",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "furniture",
+    "turkish": "mobilya",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "garden",
+    "turkish": "garden",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "home",
+    "turkish": "ev",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "house",
+    "turkish": "ev",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "kitchen",
+    "turkish": "mutfak",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "room",
+    "turkish": "oda",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "table",
+    "turkish": "masa",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "wall",
+    "turkish": "duvar",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "window",
+    "turkish": "pencere",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "address",
+    "turkish": "adres",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "air conditioning",
+    "turkish": "klima",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "alarm clock",
+    "turkish": "çalar saat",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "apartment building",
+    "turkish": "apartman",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "armchair",
+    "turkish": "koltuk",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "balcony",
+    "turkish": "balkon",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "basement",
+    "turkish": "basement",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bath",
+    "turkish": "banyo",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bathtub",
+    "turkish": "küvet",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bell",
+    "turkish": "zil",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "blanket",
+    "turkish": "battaniye",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bookcase",
+    "turkish": "kitaplık",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bookshelf",
+    "turkish": "kitap rafı",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bucket",
+    "turkish": "kova",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "building",
+    "turkish": "bina",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bulb",
+    "turkish": "ampul",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "cabinet",
+    "turkish": "dolap",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "ceiling",
+    "turkish": "tavan",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "central heating",
+    "turkish": "merkezi ısıtma",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "changing room",
+    "turkish": "soyunma odası",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "chest of drawers",
+    "turkish": "şifonyer",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "chimney",
+    "turkish": "chimney",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "clock",
+    "turkish": "saat",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "cottage",
+    "turkish": "kulübe",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "cupboard",
+    "turkish": "dolap",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "curtain",
+    "turkish": "perde",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "cushion",
+    "turkish": "yastık",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "dining room",
+    "turkish": "yemek odası",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "downstairs",
+    "turkish": "alt kat",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "drawer",
+    "turkish": "çekmece",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "dustbin",
+    "turkish": "çöp kutusu",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "duvet",
+    "turkish": "yorgan",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "entrance",
+    "turkish": "giriş",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "facilities",
+    "turkish": "tesis",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "fence",
+    "turkish": "fence",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "fireplace",
+    "turkish": "şömine",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "frame",
+    "turkish": "çerçeve",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "freezer",
+    "turkish": "dondurucu",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "fridge",
+    "turkish": "buzdolabı",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "front",
+    "turkish": "ön",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "garage",
+    "turkish": "garaj",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "gate",
+    "turkish": "kapı",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "guest-house",
+    "turkish": "misafirhane",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "hall",
+    "turkish": "hol",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "heating",
+    "turkish": "ısıtma",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "heater",
+    "turkish": "ısıtıcı",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "hostel",
+    "turkish": "pansiyon",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "hotel",
+    "turkish": "otel",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "hut",
+    "turkish": "kulübe",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "iron",
+    "turkish": "ütü",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "ironing",
+    "turkish": "ütüleme",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "lamp",
+    "turkish": "lamba",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "lift",
+    "turkish": "asansör",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "living room",
+    "turkish": "oturma odası",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "locker",
+    "turkish": "dolap",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "mirror",
+    "turkish": "ayna",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "palace",
+    "turkish": "saray",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "pillow",
+    "turkish": "yastık",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "plug",
+    "turkish": "fiş",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "roof",
+    "turkish": "çatı",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "rug",
+    "turkish": "halı",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "sheet",
+    "turkish": "çarşaf",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "shelf",
+    "turkish": "raf",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "shower",
+    "turkish": "duş",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "sink",
+    "turkish": "lavabo",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "sitting room",
+    "turkish": "oturma odası",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "stairs",
+    "turkish": "merdiven",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "toilet",
+    "turkish": "tuvalet",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "tower",
+    "turkish": "kule",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "upstairs",
+    "turkish": "üst kat",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "wardrobe",
+    "turkish": "dolap",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "washing machine",
+    "turkish": "çamaşır makinesi",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "belt",
+    "turkish": "kemer",
+    "category": "Giyim"
+  },
+  {
+    "english": "boot",
+    "turkish": "bot",
+    "category": "Giyim"
+  },
+  {
+    "english": "clothes",
+    "turkish": "kıyafet",
+    "category": "Giyim"
+  },
+  {
+    "english": "coat",
+    "turkish": "palto",
+    "category": "Giyim"
+  },
+  {
+    "english": "dress",
+    "turkish": "elbise",
+    "category": "Giyim"
+  },
+  {
+    "english": "hat",
+    "turkish": "şapka",
+    "category": "Giyim"
+  },
+  {
+    "english": "jacket",
+    "turkish": "ceket",
+    "category": "Giyim"
+  },
+  {
+    "english": "jeans",
+    "turkish": "jeans",
+    "category": "Giyim"
+  },
+  {
+    "english": "shirt",
+    "turkish": "gömlek",
+    "category": "Giyim"
+  },
+  {
+    "english": "shoe",
+    "turkish": "ayakkabı",
+    "category": "Giyim"
+  },
+  {
+    "english": "skirt",
+    "turkish": "skirt",
+    "category": "Giyim"
+  },
+  {
+    "english": "sock",
+    "turkish": "çorap",
+    "category": "Giyim"
+  },
+  {
+    "english": "suit",
+    "turkish": "suit",
+    "category": "Giyim"
+  },
+  {
+    "english": "tie",
+    "turkish": "tie",
+    "category": "Giyim"
+  },
+  {
+    "english": "bathing suit",
+    "turkish": "mayo",
+    "category": "Giyim"
+  },
+  {
+    "english": "blouse",
+    "turkish": "bluz",
+    "category": "Giyim"
+  },
+  {
+    "english": "bracelet",
+    "turkish": "bilezik",
+    "category": "Giyim"
+  },
+  {
+    "english": "button",
+    "turkish": "düğme",
+    "category": "Giyim"
+  },
+  {
+    "english": "cap",
+    "turkish": "şapka",
+    "category": "Giyim"
+  },
+  {
+    "english": "casual",
+    "turkish": "gündelik",
+    "category": "Giyim"
+  },
+  {
+    "english": "collar",
+    "turkish": "yaka",
+    "category": "Giyim"
+  },
+  {
+    "english": "costume",
+    "turkish": "kostüm",
+    "category": "Giyim"
+  },
+  {
+    "english": "cotton",
+    "turkish": "pamuk",
+    "category": "Giyim"
+  },
+  {
+    "english": "dressed",
+    "turkish": "giyinmiş",
+    "category": "Giyim"
+  },
+  {
+    "english": "earring",
+    "turkish": "küpe",
+    "category": "Giyim"
+  },
+  {
+    "english": "fashion",
+    "turkish": "moda",
+    "category": "Giyim"
+  },
+  {
+    "english": "fashionable",
+    "turkish": "moda",
+    "category": "Giyim"
+  },
+  {
+    "english": "fur",
+    "turkish": "kürk",
+    "category": "Giyim"
+  },
+  {
+    "english": "glove",
+    "turkish": "eldiven",
+    "category": "Giyim"
+  },
+  {
+    "english": "handbag",
+    "turkish": "el çantası",
+    "category": "Giyim"
+  },
+  {
+    "english": "handkerchief",
+    "turkish": "mendil",
+    "category": "Giyim"
+  },
+  {
+    "english": "jewellery",
+    "turkish": "mücevher",
+    "category": "Giyim"
+  },
+  {
+    "english": "jumper",
+    "turkish": "kazak",
+    "category": "Giyim"
+  },
+  {
+    "english": "leather",
+    "turkish": "deri",
+    "category": "Giyim"
+  },
+  {
+    "english": "necklace",
+    "turkish": "kolye",
+    "category": "Giyim"
+  },
+  {
+    "english": "pocket",
+    "turkish": "cep",
+    "category": "Giyim"
+  },
+  {
+    "english": "pullover",
+    "turkish": "kazak",
+    "category": "Giyim"
+  },
+  {
+    "english": "purse",
+    "turkish": "çanta",
+    "category": "Giyim"
+  },
+  {
+    "english": "pyjamas",
+    "turkish": "pijama",
+    "category": "Giyim"
+  },
+  {
+    "english": "ring",
+    "turkish": "yüzük",
+    "category": "Giyim"
+  },
+  {
+    "english": "sandal",
+    "turkish": "sandalet",
+    "category": "Giyim"
+  },
+  {
+    "english": "scarf",
+    "turkish": "eşarp",
+    "category": "Giyim"
+  },
+  {
+    "english": "silk",
+    "turkish": "ipek",
+    "category": "Giyim"
+  },
+  {
+    "english": "size",
+    "turkish": "beden",
+    "category": "Giyim"
+  },
+  {
+    "english": "sleeve",
+    "turkish": "kol",
+    "category": "Giyim"
+  },
+  {
+    "english": "style",
+    "turkish": "stil",
+    "category": "Giyim"
+  },
+  {
+    "english": "stylish",
+    "turkish": "şık",
+    "category": "Giyim"
+  },
+  {
+    "english": "suitcase",
+    "turkish": "bavul",
+    "category": "Giyim"
+  },
+  {
+    "english": "sweater",
+    "turkish": "kazak",
+    "category": "Giyim"
+  },
+  {
+    "english": "sweatshirt",
+    "turkish": "sweatshirt",
+    "category": "Giyim"
+  },
+  {
+    "english": "swimming costume",
+    "turkish": "mayo",
+    "category": "Giyim"
+  },
+  {
+    "english": "swimsuit",
+    "turkish": "mayo",
+    "category": "Giyim"
+  },
+  {
+    "english": "tights",
+    "turkish": "külotlu çorap",
+    "category": "Giyim"
+  },
+  {
+    "english": "tracksuit",
+    "turkish": "eşofman",
+    "category": "Giyim"
+  },
+  {
+    "english": "trainer",
+    "turkish": "spor ayakkabısı",
+    "category": "Giyim"
+  },
+  {
+    "english": "trouser",
+    "turkish": "pantolon",
+    "category": "Giyim"
+  },
+  {
+    "english": "T-shirt",
+    "turkish": "tişört",
+    "category": "Giyim"
+  },
+  {
+    "english": "underpants",
+    "turkish": "iç çamaşırı",
+    "category": "Giyim"
+  },
+  {
+    "english": "underwear",
+    "turkish": "iç çamaşırı",
+    "category": "Giyim"
+  },
+  {
+    "english": "uniform",
+    "turkish": "üniforma",
+    "category": "Giyim"
+  },
+  {
+    "english": "wallet",
+    "turkish": "cüzdan",
+    "category": "Giyim"
+  },
+  {
+    "english": "wear",
+    "turkish": "giymek",
+    "category": "Giyim"
+  },
+  {
+    "english": "wool",
+    "turkish": "yün",
+    "category": "Giyim"
+  },
+  {
+    "english": "airplane",
+    "turkish": "airplane",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "airport",
+    "turkish": "havaalanı",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "bicycle",
+    "turkish": "bisiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "bike",
+    "turkish": "bisiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "boat",
+    "turkish": "tekne",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "bus",
+    "turkish": "otobüs",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "car",
+    "turkish": "araba",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "drive",
+    "turkish": "sürmek",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "flight",
+    "turkish": "uçuş",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "plane",
+    "turkish": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "ship",
+    "turkish": "gemi",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "station",
+    "turkish": "istasyon",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "taxi",
+    "turkish": "taksi",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "train",
+    "turkish": "tren",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "travel",
+    "turkish": "seyahat etmek",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "aeroplane",
+    "turkish": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "airline",
+    "turkish": "havayolu",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "boarding pass",
+    "turkish": "biniş kartı",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "brake",
+    "turkish": "fren",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "bus station",
+    "turkish": "otobüs durağı",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "bus stop",
+    "turkish": "otobüs durağı",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "cab",
+    "turkish": "taksi",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "canal",
+    "turkish": "kanal",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "captain",
+    "turkish": "kaptan",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "car park",
+    "turkish": "otopark",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "coach",
+    "turkish": "antrenör",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "crash",
+    "turkish": "çarpışma",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "crew",
+    "turkish": "mürettebat",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "crossing",
+    "turkish": "geçiş",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "cruise",
+    "turkish": "gemi turu",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "cycle",
+    "turkish": "bisiklet sürmek",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "cycling",
+    "turkish": "bisiklet sürme",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "cyclist",
+    "turkish": "bisikletçi",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "driver",
+    "turkish": "şoför",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "driving licence",
+    "turkish": "ehliyet",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "engine",
+    "turkish": "motor",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "ferry",
+    "turkish": "feribot",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "fuel",
+    "turkish": "yakıt",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "gas",
+    "turkish": "benzin",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "gas station",
+    "turkish": "benzin istasyonu",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "helicopter",
+    "turkish": "helikopter",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "highway",
+    "turkish": "otoyol",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "hitchhike",
+    "turkish": "otostop yapmak",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "journey",
+    "turkish": "yolculuk",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "land",
+    "turkish": "inmek",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "lorry",
+    "turkish": "kamyon",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "motorbike",
+    "turkish": "motosiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "motorcycle",
+    "turkish": "motosiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "motor-racing",
+    "turkish": "motor yarışı",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "motorway",
+    "turkish": "otoyol",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "parking",
+    "turkish": "park etme",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "parking lot",
+    "turkish": "otopark",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "passenger",
+    "turkish": "yolcu",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "passport",
+    "turkish": "pasaport",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "petrol",
+    "turkish": "benzin",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "petrol station",
+    "turkish": "benzin istasyonu",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "pilot",
+    "turkish": "pilot",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "port",
+    "turkish": "liman",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "railway",
+    "turkish": "demiryolu",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "rider",
+    "turkish": "binici",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "road",
+    "turkish": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "route",
+    "turkish": "rota",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "sail",
+    "turkish": "yelken açmak",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "sailing",
+    "turkish": "yelkencilik",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "scooter",
+    "turkish": "scooter",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "seat belt",
+    "turkish": "emniyet kemeri",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "ship",
+    "turkish": "gemi",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "subway",
+    "turkish": "metro",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "ticket",
+    "turkish": "bilet",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "traffic",
+    "turkish": "trafik",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "traffic jam",
+    "turkish": "trafik sıkışıklığı",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "traffic light",
+    "turkish": "trafik ışığı",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "tram",
+    "turkish": "tramvay",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "transport",
+    "turkish": "ulaşım",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "truck",
+    "turkish": "kamyon",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "underground",
+    "turkish": "metro",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "vehicle",
+    "turkish": "araç",
+    "category": "Ulaşım"
+  },
+  {
+    "english": "book",
+    "turkish": "kitap",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "class",
+    "turkish": "sınıf",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "education",
+    "turkish": "eğitim",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "exam",
+    "turkish": "sınav",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "learn",
+    "turkish": "öğrenmek",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "lesson",
+    "turkish": "ders",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "library",
+    "turkish": "library",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "paper",
+    "turkish": "kağıt",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "pen",
+    "turkish": "kalem",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "pencil",
+    "turkish": "kurşun kalem",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "read",
+    "turkish": "okumak",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "school",
+    "turkish": "okul",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "student",
+    "turkish": "öğrenci",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "study",
+    "turkish": "çalışmak",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "teacher",
+    "turkish": "öğretmen",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "university",
+    "turkish": "university",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "write",
+    "turkish": "yazmak",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "alphabet",
+    "turkish": "alfabe",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "answer",
+    "turkish": "cevap",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "art",
+    "turkish": "sanat",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "artist",
+    "turkish": "sanatçı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "biology",
+    "turkish": "biyoloji",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "blackboard",
+    "turkish": "kara tahta",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "bookshop",
+    "turkish": "kitapçı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "bookstore",
+    "turkish": "kitapçı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "chemistry",
+    "turkish": "kimya",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "classmate",
+    "turkish": "sınıf arkadaşı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "classroom",
+    "turkish": "sınıf",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "college",
+    "turkish": "kolej",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "comma",
+    "turkish": "virgül",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "composition",
+    "turkish": "kompozisyon",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "course",
+    "turkish": "kurs",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "curriculum",
+    "turkish": "müfredat",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "degree",
+    "turkish": "derece",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "dictionary",
+    "turkish": "sözlük",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "document",
+    "turkish": "belge",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "draw",
+    "turkish": "çizmek",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "drawing",
+    "turkish": "çizim",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "economics",
+    "turkish": "ekonomi",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "elementary",
+    "turkish": "temel",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "eraser",
+    "turkish": "silgi",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "essay",
+    "turkish": "deneme",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "examination",
+    "turkish": "sınav",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "examiner",
+    "turkish": "sınav görevlisi",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "example",
+    "turkish": "örnek",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "exercise",
+    "turkish": "egzersiz",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "explain",
+    "turkish": "açıklamak",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "explanation",
+    "turkish": "açıklama",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "geography",
+    "turkish": "coğrafya",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "grade",
+    "turkish": "not",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "graduation",
+    "turkish": "mezuniyet",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "grammar",
+    "turkish": "gramer",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "handwriting",
+    "turkish": "el yazısı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "headteacher",
+    "turkish": "okul müdürü",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "history",
+    "turkish": "tarih",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "homework",
+    "turkish": "ödev",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "ink",
+    "turkish": "mürekkep",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "instruction",
+    "turkish": "talimat",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "instructor",
+    "turkish": "eğitmen",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "laboratory",
+    "turkish": "laboratuvar",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "lecture",
+    "turkish": "ders",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "line",
+    "turkish": "çizgi",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "literature",
+    "turkish": "edebiyat",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "mark",
+    "turkish": "işaret",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "mathematics",
+    "turkish": "matematik",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "maths",
+    "turkish": "matematik",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "method",
+    "turkish": "yöntem",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "mistake",
+    "turkish": "hata",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "notebook",
+    "turkish": "defter",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "notepaper",
+    "turkish": "not kağıdı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "page",
+    "turkish": "sayfa",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "paragraph",
+    "turkish": "paragraf",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "pencil case",
+    "turkish": "kalem kutusu",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "phrase",
+    "turkish": "ifade",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "physics",
+    "turkish": "fizik",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "poem",
+    "turkish": "şiir",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "poet",
+    "turkish": "şair",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "poetry",
+    "turkish": "şiir",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "primary school",
+    "turkish": "ilkokul",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "principal",
+    "turkish": "müdür",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "project",
+    "turkish": "proje",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "pronunciation",
+    "turkish": "telaffuz",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "pupil",
+    "turkish": "öğrenci",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "qualification",
+    "turkish": "yeterlilik",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "qualified",
+    "turkish": "nitelikli",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "question",
+    "turkish": "soru",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "questionnaire",
+    "turkish": "anket",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "quiz",
+    "turkish": "yarışma",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "read",
+    "turkish": "okumak",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "reader",
+    "turkish": "okuyucu",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "reading",
+    "turkish": "okuma",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "register",
+    "turkish": "kayıt olmak",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "registration",
+    "turkish": "kayıt",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "revision",
+    "turkish": "gözden geçirme",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "rubber",
+    "turkish": "silgi",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "ruler",
+    "turkish": "cetvel",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "science",
+    "turkish": "bilim",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "scientific",
+    "turkish": "bilimsel",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "scientist",
+    "turkish": "bilim insanı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "secondary",
+    "turkish": "orta",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "sentence",
+    "turkish": "cümle",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "spell",
+    "turkish": "hecelemek",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "spelling",
+    "turkish": "heceleme",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "studies",
+    "turkish": "çalışmalar",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "subject",
+    "turkish": "konu",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "subtract",
+    "turkish": "çıkarmak",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "textbook",
+    "turkish": "ders kitabı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "title",
+    "turkish": "başlık",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "translate",
+    "turkish": "çevirmek",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "translation",
+    "turkish": "çeviri",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "underline",
+    "turkish": "altını çizmek",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "vocabulary",
+    "turkish": "kelime hazinesi",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "vowel",
+    "turkish": "sesli harf",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "write",
+    "turkish": "yazmak",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "writer",
+    "turkish": "yazar",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "writing",
+    "turkish": "yazma",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "written",
+    "turkish": "yazılı",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "beach",
+    "turkish": "plaj",
+    "category": "Doğa"
+  },
+  {
+    "english": "flower",
+    "turkish": "çiçek",
+    "category": "Doğa"
+  },
+  {
+    "english": "forest",
+    "turkish": "orman",
+    "category": "Doğa"
+  },
+  {
+    "english": "hill",
+    "turkish": "hill",
+    "category": "Doğa"
+  },
+  {
+    "english": "lake",
+    "turkish": "lake",
+    "category": "Doğa"
+  },
+  {
+    "english": "mountain",
+    "turkish": "mountain",
+    "category": "Doğa"
+  },
+  {
+    "english": "ocean",
+    "turkish": "ocean",
+    "category": "Doğa"
+  },
+  {
+    "english": "plant",
+    "turkish": "plant",
+    "category": "Doğa"
+  },
+  {
+    "english": "rain",
+    "turkish": "rain",
+    "category": "Doğa"
+  },
+  {
+    "english": "river",
+    "turkish": "river",
+    "category": "Doğa"
+  },
+  {
+    "english": "sea",
+    "turkish": "sea",
+    "category": "Doğa"
+  },
+  {
+    "english": "sky",
+    "turkish": "sky",
+    "category": "Doğa"
+  },
+  {
+    "english": "snow",
+    "turkish": "snow",
+    "category": "Doğa"
+  },
+  {
+    "english": "star",
+    "turkish": "star",
+    "category": "Doğa"
+  },
+  {
+    "english": "sun",
+    "turkish": "sun",
+    "category": "Doğa"
+  },
+  {
+    "english": "tree",
+    "turkish": "tree",
+    "category": "Doğa"
+  },
+  {
+    "english": "water",
+    "turkish": "su",
+    "category": "Doğa"
+  },
+  {
+    "english": "weather",
+    "turkish": "weather",
+    "category": "Doğa"
+  },
+  {
+    "english": "wind",
+    "turkish": "wind",
+    "category": "Doğa"
+  },
+  {
+    "english": "bay",
+    "turkish": "körfez",
+    "category": "Doğa"
+  },
+  {
+    "english": "breeze",
+    "turkish": "esinti",
+    "category": "Doğa"
+  },
+  {
+    "english": "cave",
+    "turkish": "mağara",
+    "category": "Doğa"
+  },
+  {
+    "english": "cliff",
+    "turkish": "uçurum",
+    "category": "Doğa"
+  },
+  {
+    "english": "climate",
+    "turkish": "iklim",
+    "category": "Doğa"
+  },
+  {
+    "english": "cloud",
+    "turkish": "bulut",
+    "category": "Doğa"
+  },
+  {
+    "english": "cloudy",
+    "turkish": "bulutlu",
+    "category": "Doğa"
+  },
+  {
+    "english": "coast",
+    "turkish": "sahil",
+    "category": "Doğa"
+  },
+  {
+    "english": "countryside",
+    "turkish": "kırsal",
+    "category": "Doğa"
+  },
+  {
+    "english": "desert",
+    "turkish": "çöl",
+    "category": "Doğa"
+  },
+  {
+    "english": "earth",
+    "turkish": "dünya",
+    "category": "Doğa"
+  },
+  {
+    "english": "east",
+    "turkish": "doğu",
+    "category": "Doğa"
+  },
+  {
+    "english": "eastern",
+    "turkish": "doğu",
+    "category": "Doğa"
+  },
+  {
+    "english": "environment",
+    "turkish": "çevre",
+    "category": "Doğa"
+  },
+  {
+    "english": "environmental",
+    "turkish": "çevresel",
+    "category": "Doğa"
+  },
+  {
+    "english": "field",
+    "turkish": "alan",
+    "category": "Doğa"
+  },
+  {
+    "english": "flood",
+    "turkish": "sel",
+    "category": "Doğa"
+  },
+  {
+    "english": "flow",
+    "turkish": "akmak",
+    "category": "Doğa"
+  },
+  {
+    "english": "fog",
+    "turkish": "sis",
+    "category": "Doğa"
+  },
+  {
+    "english": "foggy",
+    "turkish": "sisli",
+    "category": "Doğa"
+  },
+  {
+    "english": "fountain",
+    "turkish": "çeşme",
+    "category": "Doğa"
+  },
+  {
+    "english": "freezing",
+    "turkish": "dondurucu",
+    "category": "Doğa"
+  },
+  {
+    "english": "frozen",
+    "turkish": "donmuş",
+    "category": "Doğa"
+  },
+  {
+    "english": "global warming",
+    "turkish": "küresel ısınma",
+    "category": "Doğa"
+  },
+  {
+    "english": "grass",
+    "turkish": "çimen",
+    "category": "Doğa"
+  },
+  {
+    "english": "ground",
+    "turkish": "yer",
+    "category": "Doğa"
+  },
+  {
+    "english": "harbour",
+    "turkish": "liman",
+    "category": "Doğa"
+  },
+  {
+    "english": "ice",
+    "turkish": "buz",
+    "category": "Doğa"
+  },
+  {
+    "english": "icy",
+    "turkish": "buzlu",
+    "category": "Doğa"
+  },
+  {
+    "english": "island",
+    "turkish": "ada",
+    "category": "Doğa"
+  },
+  {
+    "english": "landscape",
+    "turkish": "manzara",
+    "category": "Doğa"
+  },
+  {
+    "english": "leaf",
+    "turkish": "yaprak",
+    "category": "Doğa"
+  },
+  {
+    "english": "lightning",
+    "turkish": "şimşek",
+    "category": "Doğa"
+  },
+  {
+    "english": "moon",
+    "turkish": "ay",
+    "category": "Doğa"
+  },
+  {
+    "english": "nature",
+    "turkish": "doğa",
+    "category": "Doğa"
+  },
+  {
+    "english": "north",
+    "turkish": "kuzey",
+    "category": "Doğa"
+  },
+  {
+    "english": "northeast",
+    "turkish": "kuzeydoğu",
+    "category": "Doğa"
+  },
+  {
+    "english": "northern",
+    "turkish": "kuzey",
+    "category": "Doğa"
+  },
+  {
+    "english": "northwest",
+    "turkish": "kuzeybatı",
+    "category": "Doğa"
+  },
+  {
+    "english": "park",
+    "turkish": "park",
+    "category": "Doğa"
+  },
+  {
+    "english": "path",
+    "turkish": "patika",
+    "category": "Doğa"
+  },
+  {
+    "english": "peak",
+    "turkish": "zirve",
+    "category": "Doğa"
+  },
+  {
+    "english": "planet",
+    "turkish": "gezegen",
+    "category": "Doğa"
+  },
+  {
+    "english": "raincoat",
+    "turkish": "yağmurluk",
+    "category": "Doğa"
+  },
+  {
+    "english": "rainforest",
+    "turkish": "yağmur ormanı",
+    "category": "Doğa"
+  },
+  {
+    "english": "rise",
+    "turkish": "yükselmek",
+    "category": "Doğa"
+  },
+  {
+    "english": "rock",
+    "turkish": "rock",
+    "category": "Doğa"
+  },
+  {
+    "english": "sand",
+    "turkish": "kum",
+    "category": "Doğa"
+  },
+  {
+    "english": "scenery",
+    "turkish": "manzara",
+    "category": "Doğa"
+  },
+  {
+    "english": "seaside",
+    "turkish": "sahil",
+    "category": "Doğa"
+  },
+  {
+    "english": "shade",
+    "turkish": "gölge",
+    "category": "Doğa"
+  },
+  {
+    "english": "shadow",
+    "turkish": "gölge",
+    "category": "Doğa"
+  },
+  {
+    "english": "shine",
+    "turkish": "parlamak",
+    "category": "Doğa"
+  },
+  {
+    "english": "shiny",
+    "turkish": "parlak",
+    "category": "Doğa"
+  },
+  {
+    "english": "shore",
+    "turkish": "kıyı",
+    "category": "Doğa"
+  },
+  {
+    "english": "snow",
+    "turkish": "snow",
+    "category": "Doğa"
+  },
+  {
+    "english": "snowboard",
+    "turkish": "snowboard",
+    "category": "Doğa"
+  },
+  {
+    "english": "snowboarding",
+    "turkish": "snowboard",
+    "category": "Doğa"
+  },
+  {
+    "english": "soil",
+    "turkish": "toprak",
+    "category": "Doğa"
+  },
+  {
+    "english": "south",
+    "turkish": "güney",
+    "category": "Doğa"
+  },
+  {
+    "english": "southeast",
+    "turkish": "güneydoğu",
+    "category": "Doğa"
+  },
+  {
+    "english": "southern",
+    "turkish": "güney",
+    "category": "Doğa"
+  },
+  {
+    "english": "southwest",
+    "turkish": "güneybatı",
+    "category": "Doğa"
+  },
+  {
+    "english": "storm",
+    "turkish": "fırtına",
+    "category": "Doğa"
+  },
+  {
+    "english": "stream",
+    "turkish": "dere",
+    "category": "Doğa"
+  },
+  {
+    "english": "sunbathe",
+    "turkish": "güneşlenmek",
+    "category": "Doğa"
+  },
+  {
+    "english": "sunglasses",
+    "turkish": "güneş gözlüğü",
+    "category": "Doğa"
+  },
+  {
+    "english": "sunny",
+    "turkish": "güneşli",
+    "category": "Doğa"
+  },
+  {
+    "english": "sunrise",
+    "turkish": "gün doğumu",
+    "category": "Doğa"
+  },
+  {
+    "english": "sunset",
+    "turkish": "gün batımı",
+    "category": "Doğa"
+  },
+  {
+    "english": "sunshine",
+    "turkish": "güneş ışığı",
+    "category": "Doğa"
+  },
+  {
+    "english": "temperature",
+    "turkish": "sıcaklık",
+    "category": "Doğa"
+  },
+  {
+    "english": "thunder",
+    "turkish": "gök gürültüsü",
+    "category": "Doğa"
+  },
+  {
+    "english": "thunderstorm",
+    "turkish": "gök gürültülü fırtına",
+    "category": "Doğa"
+  },
+  {
+    "english": "valley",
+    "turkish": "vadi",
+    "category": "Doğa"
+  },
+  {
+    "english": "waterfall",
+    "turkish": "şelale",
+    "category": "Doğa"
+  },
+  {
+    "english": "wave",
+    "turkish": "dalga",
+    "category": "Doğa"
+  },
+  {
+    "english": "west",
+    "turkish": "batı",
+    "category": "Doğa"
+  },
+  {
+    "english": "western",
+    "turkish": "batı",
+    "category": "Doğa"
+  },
+  {
+    "english": "wet",
+    "turkish": "ıslak",
+    "category": "Doğa"
+  },
+  {
+    "english": "wild",
+    "turkish": "vahşi",
+    "category": "Doğa"
+  },
+  {
+    "english": "wildlife",
+    "turkish": "vahşi yaşam",
+    "category": "Doğa"
+  },
+  {
+    "english": "windy",
+    "turkish": "rüzgarlı",
+    "category": "Doğa"
+  },
+  {
+    "english": "angry",
+    "turkish": "kızgın",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "excited",
+    "turkish": "heyecanlı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "fear",
+    "turkish": "korku",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "feel",
+    "turkish": "hissetmek",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "feeling",
+    "turkish": "duygu",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "happy",
+    "turkish": "happy",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "love",
+    "turkish": "love",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "sad",
+    "turkish": "sad",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "scared",
+    "turkish": "scared",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "smile",
+    "turkish": "smile",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "surprised",
+    "turkish": "surprised",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "worry",
+    "turkish": "worry",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "amazed",
+    "turkish": "hayret etmiş",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "amazing",
+    "turkish": "şaşırtıcı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "amused",
+    "turkish": "eğlenmiş",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "amusing",
+    "turkish": "eğlenceli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "annoyed",
+    "turkish": "rahatsız olmuş",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "anxious",
+    "turkish": "endişeli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "ashamed",
+    "turkish": "utanmış",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "attitude",
+    "turkish": "tutum",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "attractive",
+    "turkish": "çekici",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "awful",
+    "turkish": "korkunç",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "brave",
+    "turkish": "cesur",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "calm",
+    "turkish": "sakin",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "careful",
+    "turkish": "dikkatli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "carefully",
+    "turkish": "dikkatli bir şekilde",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "careless",
+    "turkish": "dikkatsiz",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "charming",
+    "turkish": "büyüleyici",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "cheerful",
+    "turkish": "neşeli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "clever",
+    "turkish": "zeki",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "comfortable",
+    "turkish": "rahat",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "confident",
+    "turkish": "güvenli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "confused",
+    "turkish": "kafası karışmış",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "confusing",
+    "turkish": "kafa karıştırıcı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "cruel",
+    "turkish": "zalim",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "curious",
+    "turkish": "meraklı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "curiously",
+    "turkish": "merakla",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "delighted",
+    "turkish": "memnun",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "depressed",
+    "turkish": "depresyonda",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "disappointed",
+    "turkish": "hayal kırıklığına uğramış",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "disappointing",
+    "turkish": "hayal kırıklığına uğratan",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "disappointment",
+    "turkish": "hayal kırıklığı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "disgusting",
+    "turkish": "iğrenç",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "embarrassed",
+    "turkish": "utanmış",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "embarrassing",
+    "turkish": "utandırıcı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "enjoyable",
+    "turkish": "keyifli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "enthusiastic",
+    "turkish": "coşkulu",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "excited",
+    "turkish": "heyecanlı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "excitement",
+    "turkish": "heyecan",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "exciting",
+    "turkish": "heyecan verici",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "exhausted",
+    "turkish": "bitkin",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "frightened",
+    "turkish": "korkmuş",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "frightening",
+    "turkish": "korkutucu",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "generous",
+    "turkish": "cömert",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "gentle",
+    "turkish": "nazik",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "glad",
+    "turkish": "memnun",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "good-looking",
+    "turkish": "yakışıklı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "gorgeous",
+    "turkish": "muhteşem",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "grateful",
+    "turkish": "minnettarlık",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "handsome",
+    "turkish": "yakışıklı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "happiness",
+    "turkish": "mutluluk",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "hopeful",
+    "turkish": "umutlu",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "hopefully",
+    "turkish": "umarım",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "horrible",
+    "turkish": "korkunç",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "independent",
+    "turkish": "bağımsız",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "interested",
+    "turkish": "ilgilenen",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "interesting",
+    "turkish": "ilginç",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "jealous",
+    "turkish": "kıskanç",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "keen",
+    "turkish": "istekli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "kind",
+    "turkish": "nazik",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "lazy",
+    "turkish": "tembel",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "lovely",
+    "turkish": "sevimli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "lucky",
+    "turkish": "şanslı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "mad",
+    "turkish": "çılgın",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "miserable",
+    "turkish": "mutsuz",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "mood",
+    "turkish": "ruh hali",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "nervous",
+    "turkish": "gergin",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "optimistic",
+    "turkish": "iyimser",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "patient",
+    "turkish": "hasta",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "personality",
+    "turkish": "kişilik",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "pessimistic",
+    "turkish": "kötümser",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "pleased",
+    "turkish": "memnun",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "pleasure",
+    "turkish": "zevk",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "polite",
+    "turkish": "kibarlık",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "popular",
+    "turkish": "popüler",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "positive",
+    "turkish": "olumlu",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "proud",
+    "turkish": "gururlu",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "relaxed",
+    "turkish": "rahat",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "relieved",
+    "turkish": "rahatlamış",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "romantic",
+    "turkish": "romantik",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "rude",
+    "turkish": "kaba",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "satisfied",
+    "turkish": "memnun",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "scary",
+    "turkish": "korkutucu",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "selfish",
+    "turkish": "bencil",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "sensible",
+    "turkish": "mantıklı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "serious",
+    "turkish": "ciddi",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "seriously",
+    "turkish": "ciddi olarak",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "shocked",
+    "turkish": "şok olmuş",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "shocking",
+    "turkish": "şok edici",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "shy",
+    "turkish": "utangaç",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "smart",
+    "turkish": "akıllı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "stressed",
+    "turkish": "stresli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "stressful",
+    "turkish": "stresli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "strict",
+    "turkish": "sıkı",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "stupid",
+    "turkish": "aptal",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "surprised",
+    "turkish": "surprised",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "surprising",
+    "turkish": "surprising",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "terrified",
+    "turkish": "dehşete düşmüş",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "terrific",
+    "turkish": "harika",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "tired",
+    "turkish": "yorgun",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "tiring",
+    "turkish": "yorucu",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "unkind",
+    "turkish": "nazik olmayan",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "unpleasant",
+    "turkish": "hoş olmayan",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "upset",
+    "turkish": "üzgün",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "wise",
+    "turkish": "bilge",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "wonderful",
+    "turkish": "harika",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "worried",
+    "turkish": "endişeli",
+    "category": "Duygular ve Kişilik"
+  },
+  {
+    "english": "ball",
+    "turkish": "top",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "basketball",
+    "turkish": "basketbol",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "football",
+    "turkish": "futbol",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "game",
+    "turkish": "game",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "golf",
+    "turkish": "golf",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "play",
+    "turkish": "play",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "player",
+    "turkish": "player",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "run",
+    "turkish": "run",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "sport",
+    "turkish": "sport",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "swim",
+    "turkish": "yüzmek",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "team",
+    "turkish": "team",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "tennis",
+    "turkish": "tennis",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "win",
+    "turkish": "win",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "athletics",
+    "turkish": "atletizm",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "badminton",
+    "turkish": "badminton",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "baseball",
+    "turkish": "beyzbol",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "bat",
+    "turkish": "yarasa",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "beat",
+    "turkish": "yenmek",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "board game",
+    "turkish": "masa oyunu",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "champion",
+    "turkish": "şampiyon",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "championship",
+    "turkish": "şampiyonluk",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "chess",
+    "turkish": "satranç",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "climb",
+    "turkish": "tırmanmak",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "climbing",
+    "turkish": "tırmanma",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "coach",
+    "turkish": "antrenör",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "compete",
+    "turkish": "rekabet etmek",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "competition",
+    "turkish": "yarışma",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "competitor",
+    "turkish": "rakip",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "court",
+    "turkish": "mahkeme",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "cricket",
+    "turkish": "kriket",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "cycle",
+    "turkish": "bisiklet sürmek",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "cycling",
+    "turkish": "bisiklet sürme",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "defeat",
+    "turkish": "yenmek",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "dive",
+    "turkish": "dalmak",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "diver",
+    "turkish": "dalgıç",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "diving",
+    "turkish": "dalma",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "extreme sport",
+    "turkish": "ekstrem spor",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "fan",
+    "turkish": "hayran",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "fast",
+    "turkish": "hızlı",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "field",
+    "turkish": "alan",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "fight",
+    "turkish": "dövüşmek",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "final",
+    "turkish": "son",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "fitness",
+    "turkish": "kondisyon",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "fit",
+    "turkish": "uygun",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "goal",
+    "turkish": "gol",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "goalkeeper",
+    "turkish": "kaleci",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "gym",
+    "turkish": "spor salonu",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "gymnastics",
+    "turkish": "jimnastik",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "hit",
+    "turkish": "vurmak",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "hockey",
+    "turkish": "hokey",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "ice hockey",
+    "turkish": "buz hokeyi",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "ice skating",
+    "turkish": "buz pateni",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "jog",
+    "turkish": "koşmak",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "jogging",
+    "turkish": "koşu",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "jump",
+    "turkish": "zıplamak",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "kick",
+    "turkish": "tekmelemek",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "league",
+    "turkish": "lig",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "match",
+    "turkish": "maç",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "pitch",
+    "turkish": "saha",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "playground",
+    "turkish": "oyun alanı",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "racket",
+    "turkish": "raket",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "race",
+    "turkish": "yarış",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "rugby",
+    "turkish": "rugby",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "runner",
+    "turkish": "koşucu",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "running",
+    "turkish": "koşu",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "score",
+    "turkish": "skor",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "ski",
+    "turkish": "kayak yapmak",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "skiing",
+    "turkish": "kayak",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "skateboard",
+    "turkish": "kaykay",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "skateboarding",
+    "turkish": "kaykay yapma",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "skating",
+    "turkish": "paten",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "soccer",
+    "turkish": "futbol",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "sports centre",
+    "turkish": "spor merkezi",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "squash",
+    "turkish": "squash",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "stadium",
+    "turkish": "stadyum",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "supporter",
+    "turkish": "taraftar",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "surf",
+    "turkish": "sörf yapmak",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "surfboard",
+    "turkish": "sörf tahtası",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "surfing",
+    "turkish": "sörf",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "swim",
+    "turkish": "yüzmek",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "swimmer",
+    "turkish": "yüzücü",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "swimming",
+    "turkish": "yüzme",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "swimming pool",
+    "turkish": "yüzme havuzu",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "table tennis",
+    "turkish": "masa tenisi",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "train",
+    "turkish": "tren",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "trainer",
+    "turkish": "spor ayakkabısı",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "training",
+    "turkish": "antrenman",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "tournament",
+    "turkish": "turnuva",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "track",
+    "turkish": "pist",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "volleyball",
+    "turkish": "voleybol",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "windsurfing",
+    "turkish": "rüzgar sörfü",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "winner",
+    "turkish": "kazanan",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "workout",
+    "turkish": "antrenman",
+    "category": "Spor ve Oyunlar"
+  },
+  {
+    "english": "camera",
+    "turkish": "kamera",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "computer",
+    "turkish": "bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "email",
+    "turkish": "e-posta",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "internet",
+    "turkish": "internet",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "phone",
+    "turkish": "phone",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "television",
+    "turkish": "television",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "website",
+    "turkish": "website",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "blog",
+    "turkish": "blog",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "blogger",
+    "turkish": "blogger",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "calculator",
+    "turkish": "hesap makinesi",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "CD",
+    "turkish": "CD",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "CD player",
+    "turkish": "CD çalar",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "CD-Rom",
+    "turkish": "CD-ROM",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "channel",
+    "turkish": "kanal",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "chatroom",
+    "turkish": "sohbet odası",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "click",
+    "turkish": "tıklamak",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "connection",
+    "turkish": "bağlantı",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "copy",
+    "turkish": "kopya",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "digital",
+    "turkish": "dijital",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "digital camera",
+    "turkish": "dijital kamera",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "disc",
+    "turkish": "disk",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "disk",
+    "turkish": "disk",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "documentary",
+    "turkish": "belgesel",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "download",
+    "turkish": "indirmek",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "DVD",
+    "turkish": "DVD",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "DVD player",
+    "turkish": "DVD oynatıcı",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "electrical",
+    "turkish": "elektriksel",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "electricity",
+    "turkish": "elektrik",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "electronic",
+    "turkish": "elektronik",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "file",
+    "turkish": "dosya",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "hardware",
+    "turkish": "donanım",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "homepage",
+    "turkish": "ana sayfa",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "install",
+    "turkish": "yüklemek",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "IT",
+    "turkish": "bilgi teknolojileri",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "keyboard",
+    "turkish": "klavye",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "laptop",
+    "turkish": "dizüstü bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "link",
+    "turkish": "bağlantı",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "mobile",
+    "turkish": "mobil",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "MP3 player",
+    "turkish": "MP3 çalar",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "network",
+    "turkish": "ağ",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "online",
+    "turkish": "çevrimiçi",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "password",
+    "turkish": "şifre",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "PC",
+    "turkish": "kişisel bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "phone",
+    "turkish": "phone",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "print",
+    "turkish": "yazdırmak",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "printer",
+    "turkish": "yazıcı",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "program",
+    "turkish": "program",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "programming",
+    "turkish": "programlama",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "radio",
+    "turkish": "radyo",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "record",
+    "turkish": "kaydetmek",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "recording",
+    "turkish": "kayıt",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "satellite",
+    "turkish": "uydu",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "screen",
+    "turkish": "ekran",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "server",
+    "turkish": "sunucu",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "software",
+    "turkish": "yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "system",
+    "turkish": "sistem",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "technology",
+    "turkish": "teknoloji",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "telephone",
+    "turkish": "telefon",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "text",
+    "turkish": "metin",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "text message",
+    "turkish": "kısa mesaj",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "TV",
+    "turkish": "televizyon",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "type",
+    "turkish": "yazmak",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "update",
+    "turkish": "güncelleme",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "upload",
+    "turkish": "yüklemek",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "user",
+    "turkish": "kullanıcı",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "video",
+    "turkish": "video",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "video clip",
+    "turkish": "video klip",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "video game",
+    "turkish": "video oyunu",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "virus",
+    "turkish": "virüs",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "web",
+    "turkish": "web",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "webcam",
+    "turkish": "web kamerası",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "web page",
+    "turkish": "web sayfası",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "boss",
+    "turkish": "patron",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "business",
+    "turkish": "iş",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "job",
+    "turkish": "job",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "manager",
+    "turkish": "manager",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "office",
+    "turkish": "office",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "work",
+    "turkish": "work",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "worker",
+    "turkish": "worker",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "accountant",
+    "turkish": "muhasebeci",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "actor",
+    "turkish": "aktör",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "actress",
+    "turkish": "aktris",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "architect",
+    "turkish": "mimar",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "architecture",
+    "turkish": "mimarlık",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "artist",
+    "turkish": "sanatçı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "assistant",
+    "turkish": "asistan",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "baker",
+    "turkish": "fırıncı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "banker",
+    "turkish": "bankacı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "banking",
+    "turkish": "bankacılık",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "businessman",
+    "turkish": "işadamı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "businesswoman",
+    "turkish": "iş kadını",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "butcher",
+    "turkish": "kasap",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "captain",
+    "turkish": "kaptan",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "career",
+    "turkish": "kariyer",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "cashier",
+    "turkish": "kasiyer",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "chef",
+    "turkish": "aşçı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "cleaner",
+    "turkish": "temizlikçi",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "colleague",
+    "turkish": "meslektaş",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "company",
+    "turkish": "şirket",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "contract",
+    "turkish": "sözleşme",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "customer",
+    "turkish": "müşteri",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "dentist",
+    "turkish": "diş hekimi",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "designer",
+    "turkish": "tasarımcı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "detective",
+    "turkish": "dedektif",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "director",
+    "turkish": "yönetmen",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "doctor",
+    "turkish": "doktor",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "driver",
+    "turkish": "şoför",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "employee",
+    "turkish": "çalışan",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "employer",
+    "turkish": "işveren",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "employment",
+    "turkish": "istihdam",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "engineer",
+    "turkish": "mühendis",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "engineering",
+    "turkish": "mühendislik",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "explorer",
+    "turkish": "kaşif",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "farmer",
+    "turkish": "çiftçi",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "farming",
+    "turkish": "çiftçilik",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "firefighter",
+    "turkish": "itfaiyeci",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "guard",
+    "turkish": "güvenlik görevlisi",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "hairdresser",
+    "turkish": "kuaför",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "instructor",
+    "turkish": "eğitmen",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "journalist",
+    "turkish": "gazeteci",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "judge",
+    "turkish": "hakim",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "lawyer",
+    "turkish": "avukat",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "librarian",
+    "turkish": "kütüphaneci",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "mechanic",
+    "turkish": "tamirci",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "musician",
+    "turkish": "müzisyen",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "nurse",
+    "turkish": "hemşire",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "officer",
+    "turkish": "memur",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "painter",
+    "turkish": "boyacı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "photographer",
+    "turkish": "fotoğrafçı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "pilot",
+    "turkish": "pilot",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "police",
+    "turkish": "polis",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "policeman",
+    "turkish": "polis memuru",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "police officer",
+    "turkish": "polis memuru",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "politician",
+    "turkish": "politikacı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "postman",
+    "turkish": "postacı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "president",
+    "turkish": "başkan",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "professional",
+    "turkish": "profesyonel",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "professor",
+    "turkish": "profesör",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "receptionist",
+    "turkish": "resepsiyonist",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "reporter",
+    "turkish": "muhabir",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "sailor",
+    "turkish": "denizci",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "salesman",
+    "turkish": "satış elemanı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "saleswoman",
+    "turkish": "satış elemanı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "scientist",
+    "turkish": "bilim insanı",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "secretary",
+    "turkish": "sekreter",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "soldier",
+    "turkish": "asker",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "teacher",
+    "turkish": "öğretmen",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "vet",
+    "turkish": "veteriner",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "waiter",
+    "turkish": "garson",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "waitress",
+    "turkish": "garson",
+    "category": "İş ve Meslek"
+  },
+  {
+    "english": "doctor",
+    "turkish": "doktor",
+    "category": "Sağlık"
+  },
+  {
+    "english": "health",
+    "turkish": "health",
+    "category": "Sağlık"
+  },
+  {
+    "english": "hospital",
+    "turkish": "hospital",
+    "category": "Sağlık"
+  },
+  {
+    "english": "medicine",
+    "turkish": "medicine",
+    "category": "Sağlık"
+  },
+  {
+    "english": "pain",
+    "turkish": "pain",
+    "category": "Sağlık"
+  },
+  {
+    "english": "sick",
+    "turkish": "sick",
+    "category": "Sağlık"
+  },
+  {
+    "english": "ache",
+    "turkish": "ağrı",
+    "category": "Sağlık"
+  },
+  {
+    "english": "ambulance",
+    "turkish": "ambulans",
+    "category": "Sağlık"
+  },
+  {
+    "english": "appointment",
+    "turkish": "randevu",
+    "category": "Sağlık"
+  },
+  {
+    "english": "aspirin",
+    "turkish": "aspirin",
+    "category": "Sağlık"
+  },
+  {
+    "english": "clinic",
+    "turkish": "klinik",
+    "category": "Sağlık"
+  },
+  {
+    "english": "cough",
+    "turkish": "öksürük",
+    "category": "Sağlık"
+  },
+  {
+    "english": "cure",
+    "turkish": "tedavi",
+    "category": "Sağlık"
+  },
+  {
+    "english": "deaf",
+    "turkish": "sağır",
+    "category": "Sağlık"
+  },
+  {
+    "english": "dentist",
+    "turkish": "diş hekimi",
+    "category": "Sağlık"
+  },
+  {
+    "english": "diet",
+    "turkish": "diyet",
+    "category": "Sağlık"
+  },
+  {
+    "english": "earache",
+    "turkish": "kulak ağrısı",
+    "category": "Sağlık"
+  },
+  {
+    "english": "examination",
+    "turkish": "sınav",
+    "category": "Sağlık"
+  },
+  {
+    "english": "fever",
+    "turkish": "ateş",
+    "category": "Sağlık"
+  },
+  {
+    "english": "fit",
+    "turkish": "uygun",
+    "category": "Sağlık"
+  },
+  {
+    "english": "flu",
+    "turkish": "grip",
+    "category": "Sağlık"
+  },
+  {
+    "english": "headache",
+    "turkish": "baş ağrısı",
+    "category": "Sağlık"
+  },
+  {
+    "english": "healthy",
+    "turkish": "sağlıklı",
+    "category": "Sağlık"
+  },
+  {
+    "english": "hurt",
+    "turkish": "incitmek",
+    "category": "Sağlık"
+  },
+  {
+    "english": "ill",
+    "turkish": "hasta",
+    "category": "Sağlık"
+  },
+  {
+    "english": "illness",
+    "turkish": "hastalık",
+    "category": "Sağlık"
+  },
+  {
+    "english": "injury",
+    "turkish": "yaralanma",
+    "category": "Sağlık"
+  },
+  {
+    "english": "medical",
+    "turkish": "tıbbi",
+    "category": "Sağlık"
+  },
+  {
+    "english": "nurse",
+    "turkish": "hemşire",
+    "category": "Sağlık"
+  },
+  {
+    "english": "operation",
+    "turkish": "ameliyat",
+    "category": "Sağlık"
+  },
+  {
+    "english": "patient",
+    "turkish": "hasta",
+    "category": "Sağlık"
+  },
+  {
+    "english": "pharmacy",
+    "turkish": "eczane",
+    "category": "Sağlık"
+  },
+  {
+    "english": "pill",
+    "turkish": "hap",
+    "category": "Sağlık"
+  },
+  {
+    "english": "prescription",
+    "turkish": "reçete",
+    "category": "Sağlık"
+  },
+  {
+    "english": "recover",
+    "turkish": "iyileşmek",
+    "category": "Sağlık"
+  },
+  {
+    "english": "stomach ache",
+    "turkish": "karın ağrısı",
+    "category": "Sağlık"
+  },
+  {
+    "english": "suffer",
+    "turkish": "acı çekmek",
+    "category": "Sağlık"
+  },
+  {
+    "english": "temperature",
+    "turkish": "sıcaklık",
+    "category": "Sağlık"
+  },
+  {
+    "english": "throat",
+    "turkish": "boğaz",
+    "category": "Sağlık"
+  },
+  {
+    "english": "tired",
+    "turkish": "yorgun",
+    "category": "Sağlık"
+  },
+  {
+    "english": "tiring",
+    "turkish": "yorucu",
+    "category": "Sağlık"
+  },
+  {
+    "english": "toothache",
+    "turkish": "diş ağrısı",
+    "category": "Sağlık"
+  },
+  {
+    "english": "toothbrush",
+    "turkish": "diş fırçası",
+    "category": "Sağlık"
+  },
+  {
+    "english": "toothpaste",
+    "turkish": "diş macunu",
+    "category": "Sağlık"
+  },
+  {
+    "english": "treatment",
+    "turkish": "tedavi",
+    "category": "Sağlık"
+  },
+  {
+    "english": "unwell",
+    "turkish": "hasta",
+    "category": "Sağlık"
+  },
+  {
+    "english": "vet",
+    "turkish": "veteriner",
+    "category": "Sağlık"
+  },
+  {
+    "english": "virus",
+    "turkish": "virüs",
+    "category": "Sağlık"
+  },
+  {
+    "english": "weak",
+    "turkish": "zayıf",
+    "category": "Sağlık"
+  },
+  {
+    "english": "band",
+    "turkish": "grup",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "dance",
+    "turkish": "dans",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "music",
+    "turkish": "music",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "piano",
+    "turkish": "piano",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "sing",
+    "turkish": "sing",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "song",
+    "turkish": "song",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "album",
+    "turkish": "albüm",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "artist",
+    "turkish": "sanatçı",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "ballet",
+    "turkish": "bale",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "classical",
+    "turkish": "klasik",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "concert",
+    "turkish": "konser",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "culture",
+    "turkish": "kültür",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "cultural",
+    "turkish": "kültürel",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "drum",
+    "turkish": "davul",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "flute",
+    "turkish": "flüt",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "folk",
+    "turkish": "halk",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "gallery",
+    "turkish": "galeri",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "guitar",
+    "turkish": "gitar",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "guitarist",
+    "turkish": "gitarist",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "hip hop",
+    "turkish": "hip hop",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "instrument",
+    "turkish": "enstrüman",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "jazz",
+    "turkish": "caz",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "musical",
+    "turkish": "müzikal",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "musician",
+    "turkish": "müzisyen",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "opera",
+    "turkish": "opera",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "orchestra",
+    "turkish": "orkestra",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "performance",
+    "turkish": "performans",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "performer",
+    "turkish": "sanatçı",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "photograph",
+    "turkish": "fotoğraf",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "photographer",
+    "turkish": "fotoğrafçı",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "photography",
+    "turkish": "fotoğrafçılık",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "pop",
+    "turkish": "pop",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "rap",
+    "turkish": "rap",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "rock",
+    "turkish": "rock",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "sculpture",
+    "turkish": "heykel",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "singer",
+    "turkish": "şarkıcı",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "singing",
+    "turkish": "şarkı söyleme",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "soul",
+    "turkish": "soul",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "studio",
+    "turkish": "stüdyo",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "theatre",
+    "turkish": "tiyatro",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "trumpet",
+    "turkish": "trompet",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "tune",
+    "turkish": "melodi",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "violin",
+    "turkish": "keman",
+    "category": "Müzik ve Sanat"
+  },
+  {
+    "english": "clean",
+    "turkish": "temiz",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "cleaner",
+    "turkish": "temizlikçi",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "cooking",
+    "turkish": "yemek pişirme",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "dishes",
+    "turkish": "bulaşık",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "dust",
+    "turkish": "toz",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "dusty",
+    "turkish": "tozlu",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "housework",
+    "turkish": "ev işi",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "ironing",
+    "turkish": "ütüleme",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "laundry",
+    "turkish": "çamaşır",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "mess",
+    "turkish": "dağınıklık",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "messy",
+    "turkish": "dağınık",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "polish",
+    "turkish": "parlatmak",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "sweep",
+    "turkish": "süpürmek",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "tidy",
+    "turkish": "düzenli",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "vacuum",
+    "turkish": "elektrikli süpürge",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "wash",
+    "turkish": "yıkamak",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "washing",
+    "turkish": "yıkama",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "washing machine",
+    "turkish": "çamaşır makinesi",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "washing-up",
+    "turkish": "bulaşık yıkama",
+    "category": "Ev İşleri ve Günlük Yaşam"
+  },
+  {
+    "english": "bank",
+    "turkish": "banka",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "bank account",
+    "turkish": "banka hesabı",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "banking",
+    "turkish": "bankacılık",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "bill",
+    "turkish": "fatura",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "buy",
+    "turkish": "satın almak",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "buyer",
+    "turkish": "alıcı",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "cash",
+    "turkish": "nakit",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "cashpoint",
+    "turkish": "bankamatik",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "cent",
+    "turkish": "sent",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "change",
+    "turkish": "değişiklik",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "charge",
+    "turkish": "ücret",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "cheap",
+    "turkish": "ucuz",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "cheque",
+    "turkish": "çek",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "coin",
+    "turkish": "bozuk para",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "cost",
+    "turkish": "mal olmak",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "credit",
+    "turkish": "kredi",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "credit card",
+    "turkish": "kredi kartı",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "currency",
+    "turkish": "para birimi",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "customer",
+    "turkish": "müşteri",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "department store",
+    "turkish": "büyük mağaza",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "discount",
+    "turkish": "indirim",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "dollar",
+    "turkish": "dolar",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "euro",
+    "turkish": "euro",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "exchange",
+    "turkish": "değişim",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "exchange rate",
+    "turkish": "döviz kuru",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "expensive",
+    "turkish": "pahalı",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "fare",
+    "turkish": "ücret",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "fee",
+    "turkish": "ücret",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "free",
+    "turkish": "özgür",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "grocery store",
+    "turkish": "bakkal",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "half-price",
+    "turkish": "yarı fiyat",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "item",
+    "turkish": "ürün",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "lottery",
+    "turkish": "piyango",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "market",
+    "turkish": "pazar",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "money",
+    "turkish": "money",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "on sale",
+    "turkish": "satışta",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "pay",
+    "turkish": "ödemek",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "payment",
+    "turkish": "ödeme",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "pence",
+    "turkish": "peni",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "penny",
+    "turkish": "peni",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "pound",
+    "turkish": "sterlin",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "price",
+    "turkish": "fiyat",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "product",
+    "turkish": "ürün",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "purse",
+    "turkish": "çanta",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "receipt",
+    "turkish": "makbuz",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "refund",
+    "turkish": "iade",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "salary",
+    "turkish": "maaş",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "save",
+    "turkish": "biriktirmek",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "sell",
+    "turkish": "satmak",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "shop",
+    "turkish": "dükkan",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "shop assistant",
+    "turkish": "satış danışmanı",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "shopping",
+    "turkish": "alışveriş",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "spend",
+    "turkish": "harcamak",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "store",
+    "turkish": "mağaza",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "supermarket",
+    "turkish": "süpermarket",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "tax",
+    "turkish": "vergi",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "tip",
+    "turkish": "bahşiş",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "trade",
+    "turkish": "ticaret",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "value",
+    "turkish": "değer",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "wage",
+    "turkish": "ücret",
+    "category": "Alışveriş ve Para"
+  },
+  {
+    "english": "wallet",
+    "turkish": "cüzdan",
+    "category": "Alışveriş ve Para"
+  }
+]

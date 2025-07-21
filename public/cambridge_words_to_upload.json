@@ -1,0 +1,8132 @@
+[
+  {
+    "english": "a.m",
+    "turkish": "sabah",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "an",
+    "turkish": "bir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "as",
+    "turkish": "gibi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "be",
+    "turkish": "olmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "because",
+    "turkish": "çünkü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "before",
+    "turkish": "önce",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "by",
+    "turkish": "tarafından",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "for",
+    "turkish": "for",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "from",
+    "turkish": "from",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "if",
+    "turkish": "if",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in",
+    "turkish": "in",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "of",
+    "turkish": "of",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on",
+    "turkish": "on",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "the",
+    "turkish": "the",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "to",
+    "turkish": "to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "with",
+    "turkish": "with",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "without",
+    "turkish": "without",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "accent",
+    "turkish": "aksan",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "accident",
+    "turkish": "kaza",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "accommodation",
+    "turkish": "konaklama",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "accompany",
+    "turkish": "eşlik etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "advertise",
+    "turkish": "reklam yapmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "air force",
+    "turkish": "hava kuvvetleri",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "all right/alright",
+    "turkish": "all right/alright",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "answerphone",
+    "turkish": "telejsekretér",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "antique",
+    "turkish": "antika",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "army",
+    "turkish": "ordu",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "athlete",
+    "turkish": "atlet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "babysit",
+    "turkish": "bebek bakmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "babysitter",
+    "turkish": "bebek bakıcısı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "background",
+    "turkish": "arka plan",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "backpack",
+    "turkish": "sırt çantası",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "backpacker",
+    "turkish": "sırt çantalı gezgin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "backpacking",
+    "turkish": "sırt çantalı seyahat",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "backwards",
+    "turkish": "geriye doğru",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "badly",
+    "turkish": "kötü bir şekilde",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "baggage",
+    "turkish": "bagaj",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bald",
+    "turkish": "kel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bar",
+    "turkish": "bar",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "barbecue",
+    "turkish": "barbekü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "base on",
+    "turkish": "dayanmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "basic",
+    "turkish": "temel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "battle",
+    "turkish": "savaş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "be over",
+    "turkish": "bitmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "beauty",
+    "turkish": "güzellik",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "because of",
+    "turkish": "nedeniyle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "become",
+    "turkish": "olmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "begin",
+    "turkish": "başlamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "beginner",
+    "turkish": "beginner",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "beginning",
+    "turkish": "başlangıç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "behave",
+    "turkish": "davranmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "behaviour",
+    "turkish": "davranış",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "behind",
+    "turkish": "behind",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "believe",
+    "turkish": "inanmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "belong",
+    "turkish": "ait olmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "below",
+    "turkish": "below",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "beneath",
+    "turkish": "altında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "benefit",
+    "turkish": "fayda",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "beside",
+    "turkish": "yanında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "besides",
+    "turkish": "ayrıca",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "best",
+    "turkish": "en iyi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "better",
+    "turkish": "daha iyi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "beyond",
+    "turkish": "ötesinde",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bin",
+    "turkish": "çöp kutusu",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "biography",
+    "turkish": "biyografi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "birth",
+    "turkish": "doğum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "birthday",
+    "turkish": "doğum günü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bit",
+    "turkish": "parça",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bitter",
+    "turkish": "acı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "blame",
+    "turkish": "suçlamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "blank",
+    "turkish": "boş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bleed",
+    "turkish": "kanamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "blind",
+    "turkish": "kör",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "block",
+    "turkish": "blok",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "blond",
+    "turkish": "blond",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "board",
+    "turkish": "tahta",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "boiled",
+    "turkish": "haşlanmış",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bold",
+    "turkish": "cesur",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bomb",
+    "turkish": "bomba",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "booking",
+    "turkish": "rezervasyon",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "booking office",
+    "turkish": "bilet gişesi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "border",
+    "turkish": "sınır",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bored",
+    "turkish": "sıkılmış",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "boring",
+    "turkish": "sıkıcı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "born",
+    "turkish": "doğmuş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "both",
+    "turkish": "ikisi de",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bother",
+    "turkish": "rahatsız etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bottom",
+    "turkish": "alt",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "boy",
+    "turkish": "erkek çocuk",
+    "category": "Aile"
+  },
+  {
+    "english": "boyfriend",
+    "turkish": "erkek arkadaş",
+    "category": "Aile"
+  },
+  {
+    "english": "branch",
+    "turkish": "dal",
+    "category": "Doğa"
+  },
+  {
+    "english": "brand new",
+    "turkish": "sıfır",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "break",
+    "turkish": "kırmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "break down",
+    "turkish": "bozulmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "break in",
+    "turkish": "zorla girmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "break up",
+    "turkish": "ayrılmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bridge",
+    "turkish": "köprü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "brief",
+    "turkish": "kısa",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "brilliant",
+    "turkish": "parlak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bring up",
+    "turkish": "büyütmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "broad",
+    "turkish": "geniş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "brochure",
+    "turkish": "broşür",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "broken",
+    "turkish": "kırık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bug",
+    "turkish": "böcek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "build",
+    "turkish": "inşa etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bull",
+    "turkish": "boğa",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "burning",
+    "turkish": "yanan",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bury",
+    "turkish": "gömmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "busy",
+    "turkish": "meşgul",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "but",
+    "turkish": "ama",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "by accident",
+    "turkish": "kazara",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "by hand",
+    "turkish": "elle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "by mistake",
+    "turkish": "yanlışlıkla",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "by name",
+    "turkish": "ismiyle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bye",
+    "turkish": "güle güle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cabin",
+    "turkish": "kabin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cable",
+    "turkish": "kablo",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "cafe/cafe",
+    "turkish": "cafe/cafe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cafeteria",
+    "turkish": "kafeterya",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cage",
+    "turkish": "kafes",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "calendar",
+    "turkish": "takvim",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "call",
+    "turkish": "aramak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "call for",
+    "turkish": "çağırmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "call in",
+    "turkish": "uğramak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "camp",
+    "turkish": "kamp",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "camping",
+    "turkish": "kamp yapmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "campsite",
+    "turkish": "kamp alanı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "can",
+    "turkish": "teneke kutu",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cancel",
+    "turkish": "iptal etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "candidate",
+    "turkish": "aday",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "candle",
+    "turkish": "mum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "capital",
+    "turkish": "başkent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "card",
+    "turkish": "kart",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cardboard",
+    "turkish": "karton",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "care",
+    "turkish": "önemsemek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "carpet",
+    "turkish": "halı",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "carry on",
+    "turkish": "devam etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "carry out",
+    "turkish": "gerçekleştirmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cartoon",
+    "turkish": "çizgi film",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "case",
+    "turkish": "durum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "castle",
+    "turkish": "kale",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cathedral",
+    "turkish": "katedral",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "celebrate",
+    "turkish": "kutlamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "celebration",
+    "turkish": "kutlama",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "celebrity",
+    "turkish": "ünlü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cell phone",
+    "turkish": "cep telefonu",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "centimetre",
+    "turkish": "santimetre",
+    "category": "Sayılar ve Zaman"
+  },
+  {
+    "english": "central",
+    "turkish": "merkezi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "centre/center",
+    "turkish": "centre/center",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ceremony",
+    "turkish": "tören",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "certain",
+    "turkish": "kesin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "certainly",
+    "turkish": "kesinlikle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "certificate",
+    "turkish": "sertifika",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "chain",
+    "turkish": "zincir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "challenge",
+    "turkish": "meydan okuma",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "challenging",
+    "turkish": "zorlayıcı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "chance",
+    "turkish": "şans",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "chapter",
+    "turkish": "bölüm",
+    "category": "Okul ve Eğitim"
+  },
+  {
+    "english": "character",
+    "turkish": "karakter",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "charity",
+    "turkish": "yardım kuruluşu",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "chat",
+    "turkish": "sohbet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cheat",
+    "turkish": "kopya çekmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "check",
+    "turkish": "kontrol etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "check in",
+    "turkish": "kayıt yaptırmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "check out",
+    "turkish": "çıkış yapmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "check-in",
+    "turkish": "kayıt",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "checkout",
+    "turkish": "kasa",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "chemist",
+    "turkish": "eczacı",
+    "category": "Sağlık"
+  },
+  {
+    "english": "childhood",
+    "turkish": "çocukluk",
+    "category": "Aile"
+  },
+  {
+    "english": "choice",
+    "turkish": "seçim",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "choose",
+    "turkish": "seçmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cinema",
+    "turkish": "sinema",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "circle",
+    "turkish": "daire",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "circus",
+    "turkish": "sirk",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "city",
+    "turkish": "şehir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "clap",
+    "turkish": "alkışlamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "clear",
+    "turkish": "açık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "clearly",
+    "turkish": "açıkça",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "close",
+    "turkish": "yakın",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "closed",
+    "turkish": "kapalı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "clown",
+    "turkish": "palyaço",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "club",
+    "turkish": "kulüp",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "collect",
+    "turkish": "toplamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "collection",
+    "turkish": "koleksiyon",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "colour",
+    "turkish": "renk",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "colourful",
+    "turkish": "renkli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "comb",
+    "turkish": "tarak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "come",
+    "turkish": "gelmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "come on",
+    "turkish": "hadi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "comedy",
+    "turkish": "komedi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "comfort",
+    "turkish": "rahatlık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "comic",
+    "turkish": "komik",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "common",
+    "turkish": "yaygın",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "communicate",
+    "turkish": "iletişim kurmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "communication",
+    "turkish": "iletişim",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "compare",
+    "turkish": "karşılaştırmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "complain",
+    "turkish": "şikayet etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "complaint",
+    "turkish": "şikayet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "complete",
+    "turkish": "tam",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "complicated",
+    "turkish": "karmaşık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "concentrate",
+    "turkish": "konsantre olmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "conclusion",
+    "turkish": "sonuç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "condition",
+    "turkish": "durum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "conference",
+    "turkish": "konferans",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "confirm",
+    "turkish": "onaylamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "connect",
+    "turkish": "bağlamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "consider",
+    "turkish": "düşünmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "consonant",
+    "turkish": "ünsüz",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "contact",
+    "turkish": "iletişim",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "contain",
+    "turkish": "içermek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "contents",
+    "turkish": "içerik",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "contest",
+    "turkish": "yarışma",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "continent",
+    "turkish": "kıta",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "continue",
+    "turkish": "devam etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "control",
+    "turkish": "kontrol",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "convenient",
+    "turkish": "uygun",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "conversation",
+    "turkish": "konuşma",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "convince",
+    "turkish": "ikna etmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cookie",
+    "turkish": "kurabiye",
+    "category": "Yiyecek ve İçecek"
+  },
+  {
+    "english": "cool",
+    "turkish": "serin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "corner",
+    "turkish": "köşe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "correct",
+    "turkish": "doğru",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "correction",
+    "turkish": "düzeltme",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cosy",
+    "turkish": "rahat",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "could",
+    "turkish": "edebilirdi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "count",
+    "turkish": "saymak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "country",
+    "turkish": "ülke",
+    "category": "Doğa"
+  },
+  {
+    "english": "couple",
+    "turkish": "çift",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "courage",
+    "turkish": "cesaret",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cover",
+    "turkish": "kapak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "crazy",
+    "turkish": "çılgın",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "create",
+    "turkish": "yaratmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "creative",
+    "turkish": "yaratıcı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "creature",
+    "turkish": "yaratık",
+    "category": "Hayvanlar"
+  },
+  {
+    "english": "crime",
+    "turkish": "suç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "criminal",
+    "turkish": "suçlu",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "crop",
+    "turkish": "ürün",
+    "category": "Doğa"
+  },
+  {
+    "english": "cross",
+    "turkish": "haç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cross out",
+    "turkish": "çizmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "crossroads",
+    "turkish": "kavşak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "crowd",
+    "turkish": "kalabalık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "crowded",
+    "turkish": "kalabalık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cry",
+    "turkish": "ağlamak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "curly",
+    "turkish": "kıvırcık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "custom",
+    "turkish": "gelenek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "customs",
+    "turkish": "gümrük",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cut",
+    "turkish": "kesmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cut up",
+    "turkish": "doğramak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cute",
+    "turkish": "sevimli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cv",
+    "turkish": "cv",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "daily",
+    "turkish": "daily",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "damage",
+    "turkish": "damage",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "damaged",
+    "turkish": "damaged",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dancer",
+    "turkish": "dancer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dancing",
+    "turkish": "dancing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "danger",
+    "turkish": "danger",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dangerous",
+    "turkish": "tehlikeli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dead",
+    "turkish": "ölü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "deal",
+    "turkish": "deal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "deal with",
+    "turkish": "deal with",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dear",
+    "turkish": "dear",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "death",
+    "turkish": "death",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "decide",
+    "turkish": "decide",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "decision",
+    "turkish": "decision",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "declare",
+    "turkish": "declare",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "decorate",
+    "turkish": "decorate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "decrease",
+    "turkish": "decrease",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "deep",
+    "turkish": "derin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "defence",
+    "turkish": "defence",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "defend",
+    "turkish": "defend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "definitely",
+    "turkish": "definitely",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "delay",
+    "turkish": "delay",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "delete",
+    "turkish": "delete",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "delicious",
+    "turkish": "lezzetli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "deliver",
+    "turkish": "deliver",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "delivery",
+    "turkish": "delivery",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "demand",
+    "turkish": "demand",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "depart",
+    "turkish": "depart",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "department",
+    "turkish": "department",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "departure",
+    "turkish": "departure",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "depend",
+    "turkish": "depend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "deposit",
+    "turkish": "deposit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "depth",
+    "turkish": "depth",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "describe",
+    "turkish": "describe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "description",
+    "turkish": "description",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "deserve",
+    "turkish": "deserve",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "design",
+    "turkish": "design",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "desk",
+    "turkish": "desk",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "despite",
+    "turkish": "despite",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "destination",
+    "turkish": "destination",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "destroy",
+    "turkish": "destroy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "detail",
+    "turkish": "detail",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "develop",
+    "turkish": "develop",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "development",
+    "turkish": "development",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "diagram",
+    "turkish": "diagram",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dial",
+    "turkish": "dial",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "diary",
+    "turkish": "diary",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "die",
+    "turkish": "die",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "difference",
+    "turkish": "difference",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "different",
+    "turkish": "farklı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "difficult",
+    "turkish": "zor",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "difficulty",
+    "turkish": "difficulty",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dig",
+    "turkish": "dig",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dinosaur",
+    "turkish": "dinosaur",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "diploma",
+    "turkish": "diploma",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "direct",
+    "turkish": "direct",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "direction",
+    "turkish": "direction",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "directly",
+    "turkish": "directly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dirt",
+    "turkish": "dirt",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dirty",
+    "turkish": "kirli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disabled",
+    "turkish": "disabled",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disadvantage",
+    "turkish": "disadvantage",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disagree",
+    "turkish": "disagree",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disappear",
+    "turkish": "disappear",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disappoint",
+    "turkish": "disappoint",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disc jockey",
+    "turkish": "disc jockey",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disc/disk",
+    "turkish": "disc/disk",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disco",
+    "turkish": "disco",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "discover",
+    "turkish": "discover",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "discuss",
+    "turkish": "discuss",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "discussion",
+    "turkish": "discussion",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disease",
+    "turkish": "disease",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dislike",
+    "turkish": "dislike",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "display",
+    "turkish": "display",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "distance",
+    "turkish": "distance",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "district",
+    "turkish": "district",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "disturb",
+    "turkish": "disturb",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "divide",
+    "turkish": "divide",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dj",
+    "turkish": "dj",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "do",
+    "turkish": "do",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "doll",
+    "turkish": "doll",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dot",
+    "turkish": "dot",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "double",
+    "turkish": "double",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "doubt",
+    "turkish": "doubt",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "down",
+    "turkish": "aşağı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dozen",
+    "turkish": "dozen",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dr",
+    "turkish": "dr",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "drag",
+    "turkish": "drag",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "drama",
+    "turkish": "drama",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dream",
+    "turkish": "dream",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "drop",
+    "turkish": "drop",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "drugstore",
+    "turkish": "drugstore",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dry",
+    "turkish": "dry",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "due",
+    "turkish": "due",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "due to",
+    "turkish": "due to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "dull",
+    "turkish": "dull",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "during",
+    "turkish": "during",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "duty",
+    "turkish": "duty",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "duty-free",
+    "turkish": "duty-free",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "each",
+    "turkish": "each",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "earn",
+    "turkish": "earn",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "easily",
+    "turkish": "easily",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "easy",
+    "turkish": "kolay",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "easygoing",
+    "turkish": "easygoing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "eat",
+    "turkish": "eat",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "edge",
+    "turkish": "edge",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "effect",
+    "turkish": "effect",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "efficient",
+    "turkish": "efficient",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "effort",
+    "turkish": "effort",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "either",
+    "turkish": "either",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "election",
+    "turkish": "election",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "electric",
+    "turkish": "elektrikli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "elevator",
+    "turkish": "elevator",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "else",
+    "turkish": "else",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "embassy",
+    "turkish": "embassy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "emergency",
+    "turkish": "emergency",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "employ",
+    "turkish": "employ",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "empty",
+    "turkish": "boş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "encourage",
+    "turkish": "encourage",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "end",
+    "turkish": "end",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "end up",
+    "turkish": "end up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ending",
+    "turkish": "ending",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "enemy",
+    "turkish": "enemy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "energy",
+    "turkish": "energy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "enjoy",
+    "turkish": "enjoy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "enormous",
+    "turkish": "büyük",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "enough",
+    "turkish": "enough",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "enquiry",
+    "turkish": "enquiry",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "enter",
+    "turkish": "enter",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "entertain",
+    "turkish": "entertain",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "entertainment",
+    "turkish": "entertainment",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "entry",
+    "turkish": "entry",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "envelope",
+    "turkish": "envelope",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "equal",
+    "turkish": "equal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "equipment",
+    "turkish": "equipment",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "especially",
+    "turkish": "especially",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "essential",
+    "turkish": "essential",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "even",
+    "turkish": "bile",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "event",
+    "turkish": "event",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ever",
+    "turkish": "ever",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "every",
+    "turkish": "every",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "everybody",
+    "turkish": "everybody",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "everyone",
+    "turkish": "everyone",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "everything",
+    "turkish": "everything",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "everywhere",
+    "turkish": "her yerde",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "exact",
+    "turkish": "exact",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "exactly",
+    "turkish": "exactly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "examination/exam",
+    "turkish": "examination/exam",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "excellent",
+    "turkish": "mükemmel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "except",
+    "turkish": "except",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "excuse",
+    "turkish": "excuse",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "exhibition",
+    "turkish": "exhibition",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "exist",
+    "turkish": "exist",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "exit",
+    "turkish": "exit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "expect",
+    "turkish": "expect",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "expedition",
+    "turkish": "expedition",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "experienced",
+    "turkish": "experienced",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "experiment",
+    "turkish": "experiment",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "expert",
+    "turkish": "expert",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "explode",
+    "turkish": "explode",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "explore",
+    "turkish": "explore",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "extra",
+    "turkish": "extra",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "extraordinary",
+    "turkish": "extraordinary",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "extremely",
+    "turkish": "extremely",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "face to face",
+    "turkish": "face to face",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "face-to-face",
+    "turkish": "face-to-face",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fact",
+    "turkish": "fact",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "factory",
+    "turkish": "factory",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fail",
+    "turkish": "fail",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fair",
+    "turkish": "adil",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fairly",
+    "turkish": "fairly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fall",
+    "turkish": "fall",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "false",
+    "turkish": "false",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "familiar",
+    "turkish": "tanıdık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "famous",
+    "turkish": "ünlü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fancy",
+    "turkish": "fancy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fantastic",
+    "turkish": "fantastic",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "far",
+    "turkish": "uzak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "farm",
+    "turkish": "farm",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fast food",
+    "turkish": "fast food",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fasten",
+    "turkish": "fasten",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fat",
+    "turkish": "şişman",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fault",
+    "turkish": "fault",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "favour",
+    "turkish": "favour",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "favourite",
+    "turkish": "favourite",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fax",
+    "turkish": "fax",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "feed",
+    "turkish": "feed",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "feel like",
+    "turkish": "feel like",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "female",
+    "turkish": "female",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "festival",
+    "turkish": "festival",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fetch",
+    "turkish": "fetch",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "few",
+    "turkish": "few",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fiction",
+    "turkish": "fiction",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "figure",
+    "turkish": "figure",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fill",
+    "turkish": "fill",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fill in",
+    "turkish": "fill in",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fill up",
+    "turkish": "fill up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "film",
+    "turkish": "film",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "film maker",
+    "turkish": "film maker",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "finally",
+    "turkish": "finally",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "financial",
+    "turkish": "financial",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "find",
+    "turkish": "find",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "find out",
+    "turkish": "find out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fine",
+    "turkish": "iyi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "finish",
+    "turkish": "finish",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fire",
+    "turkish": "fire",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "firework",
+    "turkish": "firework",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "firm",
+    "turkish": "firm",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "first name",
+    "turkish": "first name",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fishing",
+    "turkish": "fishing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fix",
+    "turkish": "fix",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "flag",
+    "turkish": "flag",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "flat",
+    "turkish": "düz",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "flavour",
+    "turkish": "flavour",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "float",
+    "turkish": "float",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fly",
+    "turkish": "fly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fold",
+    "turkish": "fold",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "follow",
+    "turkish": "follow",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "following",
+    "turkish": "following",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fond",
+    "turkish": "fond",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fool",
+    "turkish": "fool",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "footballer",
+    "turkish": "footballer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "forbidden",
+    "turkish": "forbidden",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "forecast",
+    "turkish": "forecast",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "foreign",
+    "turkish": "yabancı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "foreigner",
+    "turkish": "foreigner",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "forever",
+    "turkish": "forever",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "forget",
+    "turkish": "forget",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "forgive",
+    "turkish": "forgive",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "form",
+    "turkish": "form",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "former",
+    "turkish": "former",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fortnight",
+    "turkish": "fortnight",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fortunately",
+    "turkish": "fortunately",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "forward",
+    "turkish": "forward",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "freeze",
+    "turkish": "freeze",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "french fries",
+    "turkish": "french fries",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "frequent",
+    "turkish": "frequent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fresh",
+    "turkish": "taze",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "friend",
+    "turkish": "friend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "friendly",
+    "turkish": "dost canlısı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "friendship",
+    "turkish": "friendship",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "frighten",
+    "turkish": "frighten",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "full",
+    "turkish": "dolu",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "full stop",
+    "turkish": "full stop",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "full time",
+    "turkish": "full time",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "full-time",
+    "turkish": "full-time",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fully",
+    "turkish": "fully",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "fun",
+    "turkish": "fun",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "funny",
+    "turkish": "komik",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "further",
+    "turkish": "further",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "furthest",
+    "turkish": "furthest",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "future",
+    "turkish": "future",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "gain",
+    "turkish": "gain",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "gap",
+    "turkish": "gap",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "general",
+    "turkish": "general",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "generally",
+    "turkish": "generally",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "generation",
+    "turkish": "generation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get",
+    "turkish": "get",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get along",
+    "turkish": "get along",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get back",
+    "turkish": "get back",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get down",
+    "turkish": "get down",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get fit",
+    "turkish": "get fit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get in",
+    "turkish": "get in",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get off",
+    "turkish": "get off",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get on",
+    "turkish": "get on",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get on with",
+    "turkish": "get on with",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get rid of",
+    "turkish": "get rid of",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "get up",
+    "turkish": "get up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "giant",
+    "turkish": "giant",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "gift",
+    "turkish": "gift",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "girl",
+    "turkish": "girl",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "girlfriend",
+    "turkish": "girlfriend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "give",
+    "turkish": "give",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "give back",
+    "turkish": "give back",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "give in",
+    "turkish": "give in",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "give out",
+    "turkish": "give out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "give up",
+    "turkish": "give up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "give way",
+    "turkish": "give way",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "glance",
+    "turkish": "glance",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "glass",
+    "turkish": "glass",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "glasses",
+    "turkish": "glasses",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "go",
+    "turkish": "go",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "go for",
+    "turkish": "go for",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "go off",
+    "turkish": "go off",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "go on",
+    "turkish": "go on",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "go with",
+    "turkish": "go with",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "gold",
+    "turkish": "gold",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "good afternoon",
+    "turkish": "good afternoon",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "good morning",
+    "turkish": "good morning",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "government",
+    "turkish": "government",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "grab",
+    "turkish": "grab",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "gram",
+    "turkish": "gram",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "grand",
+    "turkish": "grand",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "grant",
+    "turkish": "grant",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "grape",
+    "turkish": "grape",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "graphics",
+    "turkish": "graphics",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "great",
+    "turkish": "harika",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "greet",
+    "turkish": "greet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "greeting",
+    "turkish": "greeting",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "group",
+    "turkish": "group",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "grow",
+    "turkish": "grow",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "grow up",
+    "turkish": "grow up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "guess",
+    "turkish": "guess",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "guest",
+    "turkish": "guest",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "guide",
+    "turkish": "guide",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "guidebook",
+    "turkish": "guidebook",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "guilty",
+    "turkish": "guilty",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "gum",
+    "turkish": "gum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "gun",
+    "turkish": "gun",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "guy",
+    "turkish": "guy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "habit",
+    "turkish": "habit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "haircut",
+    "turkish": "haircut",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hairdryer",
+    "turkish": "hairdryer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "half",
+    "turkish": "half",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hand in",
+    "turkish": "hand in",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hand out",
+    "turkish": "hand out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hand-held",
+    "turkish": "hand-held",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "handle",
+    "turkish": "handle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hang",
+    "turkish": "hang",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hang out",
+    "turkish": "hang out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hang up",
+    "turkish": "hang up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "happen",
+    "turkish": "happen",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "happily",
+    "turkish": "happily",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hard",
+    "turkish": "zor",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hardly",
+    "turkish": "hardly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hate",
+    "turkish": "hate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "have",
+    "turkish": "have",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "have got to",
+    "turkish": "have got to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "have to",
+    "turkish": "have to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "he",
+    "turkish": "he",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "headline",
+    "turkish": "headline",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hear",
+    "turkish": "hear",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "heat",
+    "turkish": "heat",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "heavy",
+    "turkish": "ağır",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "height",
+    "turkish": "height",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hello",
+    "turkish": "hello",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "helmet",
+    "turkish": "helmet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "help",
+    "turkish": "help",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "her",
+    "turkish": "her",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "herb",
+    "turkish": "herb",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "here",
+    "turkish": "burada",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hero",
+    "turkish": "hero",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "heroine",
+    "turkish": "heroine",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hers",
+    "turkish": "hers",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "herself",
+    "turkish": "herself",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hey",
+    "turkish": "hey",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hi",
+    "turkish": "hi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hidden",
+    "turkish": "hidden",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "high",
+    "turkish": "yüksek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "him",
+    "turkish": "him",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "himself",
+    "turkish": "himself",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hire",
+    "turkish": "hire",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "his",
+    "turkish": "his",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "historic",
+    "turkish": "historic",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "historical",
+    "turkish": "historical",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hobby",
+    "turkish": "hobby",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hold",
+    "turkish": "hold",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hold up",
+    "turkish": "hold up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hole",
+    "turkish": "hole",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "holiday",
+    "turkish": "holiday",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "honest",
+    "turkish": "honest",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "honestly",
+    "turkish": "honestly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "honeymoon",
+    "turkish": "honeymoon",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hope",
+    "turkish": "hope",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hopeless",
+    "turkish": "hopeless",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "horror",
+    "turkish": "horror",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "housewife",
+    "turkish": "housewife",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "how",
+    "turkish": "how",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "how much",
+    "turkish": "how much",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "however",
+    "turkish": "however",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hug",
+    "turkish": "hug",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "huge",
+    "turkish": "büyük",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "human",
+    "turkish": "human",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "humid",
+    "turkish": "humid",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hunger",
+    "turkish": "hunger",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hungry",
+    "turkish": "aç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hunt",
+    "turkish": "hunt",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hurry",
+    "turkish": "hurry",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "id",
+    "turkish": "id",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "id card",
+    "turkish": "id card",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "idea",
+    "turkish": "idea",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "identification",
+    "turkish": "identification",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "identity card",
+    "turkish": "identity card",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "imagination",
+    "turkish": "imagination",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "imagine",
+    "turkish": "imagine",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "immediately",
+    "turkish": "immediately",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "immigration",
+    "turkish": "immigration",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "importance",
+    "turkish": "importance",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "important",
+    "turkish": "önemli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "impossible",
+    "turkish": "imkansız",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "improve",
+    "turkish": "improve",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "improvement",
+    "turkish": "improvement",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in advance",
+    "turkish": "in advance",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in fact",
+    "turkish": "in fact",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in front of",
+    "turkish": "in front of",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in half",
+    "turkish": "in half",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in ink",
+    "turkish": "in ink",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in love",
+    "turkish": "in love",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in order",
+    "turkish": "in order",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in order to",
+    "turkish": "in order to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in pencil",
+    "turkish": "in pencil",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in the end",
+    "turkish": "in the end",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in time",
+    "turkish": "in time",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in two",
+    "turkish": "in two",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "inch",
+    "turkish": "inch",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "include",
+    "turkish": "include",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "including",
+    "turkish": "including",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "incorrect",
+    "turkish": "incorrect",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "increase",
+    "turkish": "increase",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "incredible",
+    "turkish": "inanılmaz",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "indeed",
+    "turkish": "indeed",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "individual",
+    "turkish": "individual",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "indoor",
+    "turkish": "indoor",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "indoors",
+    "turkish": "indoors",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "industry",
+    "turkish": "industry",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "inform",
+    "turkish": "inform",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "information",
+    "turkish": "information",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "initial",
+    "turkish": "initial",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "injure",
+    "turkish": "injure",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "inquiry",
+    "turkish": "inquiry",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "insect",
+    "turkish": "insect",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "inside",
+    "turkish": "inside",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "insist",
+    "turkish": "insist",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "instance",
+    "turkish": "instance",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "instead",
+    "turkish": "instead",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "instructions",
+    "turkish": "instructions",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "intelligent",
+    "turkish": "zeki",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "intend",
+    "turkish": "intend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "intermediate",
+    "turkish": "intermediate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "international",
+    "turkish": "international",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "interrupt",
+    "turkish": "interrupt",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "interval",
+    "turkish": "interval",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "interview",
+    "turkish": "interview",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "into",
+    "turkish": "into",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "introduce",
+    "turkish": "introduce",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "introduction",
+    "turkish": "introduction",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "invent",
+    "turkish": "invent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "invention",
+    "turkish": "invention",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "invitation",
+    "turkish": "invitation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "invite",
+    "turkish": "invite",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "involve",
+    "turkish": "involve",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "issue",
+    "turkish": "issue",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "its",
+    "turkish": "its",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "itself",
+    "turkish": "itself",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "jail",
+    "turkish": "jail",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "jet",
+    "turkish": "jet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "join",
+    "turkish": "join",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "joke",
+    "turkish": "joke",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "jungle",
+    "turkish": "jungle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "just",
+    "turkish": "just",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "keep",
+    "turkish": "keep",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "keep in",
+    "turkish": "keep in",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "keep on",
+    "turkish": "keep on",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "keep up",
+    "turkish": "keep up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "keeper",
+    "turkish": "keeper",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "key",
+    "turkish": "key",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "kid",
+    "turkish": "kid",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "kill",
+    "turkish": "kill",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "kilogramme",
+    "turkish": "kilogramme",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "kilometre",
+    "turkish": "kilometre",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "king",
+    "turkish": "king",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "kiss",
+    "turkish": "kiss",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "kit",
+    "turkish": "kit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "kite",
+    "turkish": "kite",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "knit",
+    "turkish": "knit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "knock",
+    "turkish": "knock",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "knock down",
+    "turkish": "knock down",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "know",
+    "turkish": "know",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "knowledge",
+    "turkish": "knowledge",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "label",
+    "turkish": "label",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lack",
+    "turkish": "lack",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ladder",
+    "turkish": "ladder",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lady",
+    "turkish": "lady",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "language",
+    "turkish": "language",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "large",
+    "turkish": "büyük",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "last",
+    "turkish": "son",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "laugh",
+    "turkish": "laugh",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "law",
+    "turkish": "law",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lay",
+    "turkish": "lay",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lead",
+    "turkish": "lead",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "leader",
+    "turkish": "leader",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "least",
+    "turkish": "least",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "leave",
+    "turkish": "leave",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "left",
+    "turkish": "sol",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "left-hand",
+    "turkish": "left-hand",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "leisure",
+    "turkish": "leisure",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lend",
+    "turkish": "lend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "length",
+    "turkish": "length",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "less",
+    "turkish": "less",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "let",
+    "turkish": "let",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "letter",
+    "turkish": "letter",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "level",
+    "turkish": "level",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "licence",
+    "turkish": "licence",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lie",
+    "turkish": "lie",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lie down",
+    "turkish": "lie down",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "life",
+    "turkish": "life",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "light",
+    "turkish": "light",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lighter",
+    "turkish": "lighter",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "like",
+    "turkish": "like",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "likely",
+    "turkish": "likely",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "limit",
+    "turkish": "limit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "limited",
+    "turkish": "limited",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "liquid",
+    "turkish": "liquid",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "list",
+    "turkish": "list",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "listen",
+    "turkish": "listen",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "litre",
+    "turkish": "litre",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "litter",
+    "turkish": "litter",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "little",
+    "turkish": "küçük",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "live",
+    "turkish": "canlı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lively",
+    "turkish": "lively",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "load",
+    "turkish": "load",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "loan",
+    "turkish": "loan",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "local",
+    "turkish": "yerel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "locate",
+    "turkish": "locate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "location",
+    "turkish": "location",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lock",
+    "turkish": "lock",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "logo",
+    "turkish": "logo",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lonely",
+    "turkish": "yalnız",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "long",
+    "turkish": "uzun",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "look",
+    "turkish": "look",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "look after",
+    "turkish": "look after",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "look at",
+    "turkish": "look at",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "look for",
+    "turkish": "look for",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "look forward to",
+    "turkish": "look forward to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "look like",
+    "turkish": "look like",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "look out",
+    "turkish": "look out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "look up",
+    "turkish": "look up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "loose",
+    "turkish": "loose",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lose",
+    "turkish": "lose",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lost",
+    "turkish": "lost",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lots",
+    "turkish": "lots",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "loud",
+    "turkish": "yüksek sesli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "low",
+    "turkish": "alçak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "luck",
+    "turkish": "luck",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "luggage",
+    "turkish": "luggage",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "lunchtime",
+    "turkish": "lunchtime",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "luxury",
+    "turkish": "luxury",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "machine",
+    "turkish": "machine",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "madam",
+    "turkish": "madam",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "made of",
+    "turkish": "made of",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "magazine",
+    "turkish": "magazine",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "magic",
+    "turkish": "magic",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "magnificent",
+    "turkish": "magnificent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mail",
+    "turkish": "mail",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "main",
+    "turkish": "ana",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "make",
+    "turkish": "make",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "make sure",
+    "turkish": "make sure",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "make-up",
+    "turkish": "make-up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "male",
+    "turkish": "male",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "man",
+    "turkish": "man",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "manage",
+    "turkish": "manage",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "many",
+    "turkish": "many",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "map",
+    "turkish": "map",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "marvellous",
+    "turkish": "marvellous",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mate",
+    "turkish": "mate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "material",
+    "turkish": "material",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "matter",
+    "turkish": "matter",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "maximum",
+    "turkish": "maximum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "may",
+    "turkish": "may",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "maybe",
+    "turkish": "maybe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "me",
+    "turkish": "me",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mean",
+    "turkish": "mean",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "meaning",
+    "turkish": "meaning",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "meanwhile",
+    "turkish": "meanwhile",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "medium",
+    "turkish": "medium",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "meet",
+    "turkish": "meet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "meeting",
+    "turkish": "meeting",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "member",
+    "turkish": "member",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "membership",
+    "turkish": "membership",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "memory",
+    "turkish": "memory",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mend",
+    "turkish": "mend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mention",
+    "turkish": "mention",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "message",
+    "turkish": "message",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "metal",
+    "turkish": "metal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "metre",
+    "turkish": "metre",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "microwave",
+    "turkish": "microwave",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "middle",
+    "turkish": "middle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "middle-aged",
+    "turkish": "middle-aged",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "might",
+    "turkish": "might",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mild",
+    "turkish": "mild",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mile",
+    "turkish": "mile",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "millimetre",
+    "turkish": "millimetre",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "million",
+    "turkish": "million",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mind",
+    "turkish": "mind",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mine",
+    "turkish": "mine",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "minimum",
+    "turkish": "minimum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "minus",
+    "turkish": "minus",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "miss",
+    "turkish": "miss",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "missing",
+    "turkish": "missing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "model",
+    "turkish": "model",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "modern",
+    "turkish": "modern",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "monument",
+    "turkish": "monument",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "more",
+    "turkish": "more",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mosquito",
+    "turkish": "mosquito",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "most",
+    "turkish": "most",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "moustache",
+    "turkish": "moustache",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "move",
+    "turkish": "move",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "movie",
+    "turkish": "movie",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "movie star",
+    "turkish": "movie star",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "movie theater",
+    "turkish": "movie theater",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mr",
+    "turkish": "mr",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mrs",
+    "turkish": "mrs",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ms",
+    "turkish": "ms",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "much",
+    "turkish": "much",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mug",
+    "turkish": "mug",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "multiply",
+    "turkish": "multiply",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mum",
+    "turkish": "mum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "museum",
+    "turkish": "museum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "must",
+    "turkish": "must",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "my",
+    "turkish": "my",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "myself",
+    "turkish": "myself",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "mystery",
+    "turkish": "mystery",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "name",
+    "turkish": "name",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "narrow",
+    "turkish": "dar",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nasty",
+    "turkish": "kötü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "national",
+    "turkish": "ulusal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nationality",
+    "turkish": "nationality",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "natural",
+    "turkish": "doğal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "near",
+    "turkish": "near",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nearby",
+    "turkish": "yakında",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nearly",
+    "turkish": "nearly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "neat",
+    "turkish": "neat",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "necessary",
+    "turkish": "gerekli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "need",
+    "turkish": "need",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "negative",
+    "turkish": "negative",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "neighbour",
+    "turkish": "neighbour",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "neighbourhood",
+    "turkish": "neighbourhood",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "net",
+    "turkish": "net",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "never",
+    "turkish": "never",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "new",
+    "turkish": "yeni",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "news",
+    "turkish": "news",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "newspaper",
+    "turkish": "newspaper",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "next",
+    "turkish": "sonraki",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "next to",
+    "turkish": "next to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nightclub",
+    "turkish": "nightclub",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nightlife",
+    "turkish": "nightlife",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nightmare",
+    "turkish": "nightmare",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "no",
+    "turkish": "no",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "no one",
+    "turkish": "no one",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nobody",
+    "turkish": "nobody",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "noise",
+    "turkish": "noise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "noisy",
+    "turkish": "noisy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "none",
+    "turkish": "none",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "normal",
+    "turkish": "normal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "normally",
+    "turkish": "normally",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "not",
+    "turkish": "not",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "note",
+    "turkish": "note",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nothing",
+    "turkish": "nothing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "notice",
+    "turkish": "notice",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "noticeboard",
+    "turkish": "noticeboard",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "novel",
+    "turkish": "novel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "now",
+    "turkish": "now",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nowadays",
+    "turkish": "nowadays",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nowhere",
+    "turkish": "hiçbir yerde",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "o'clock",
+    "turkish": "o'clock",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "object",
+    "turkish": "object",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "obvious",
+    "turkish": "obvious",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "obviously",
+    "turkish": "obviously",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "occasion",
+    "turkish": "occasion",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "occupation",
+    "turkish": "occupation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "of course",
+    "turkish": "of course",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "off",
+    "turkish": "off",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "offer",
+    "turkish": "offer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "often",
+    "turkish": "often",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "oh",
+    "turkish": "oh",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ok",
+    "turkish": "ok",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "old",
+    "turkish": "yaşlı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "old-fashioned",
+    "turkish": "old-fashioned",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on board",
+    "turkish": "on board",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on business",
+    "turkish": "on business",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on fire",
+    "turkish": "on fire",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on foot",
+    "turkish": "on foot",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on holiday",
+    "turkish": "on holiday",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on purpose",
+    "turkish": "on purpose",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on request",
+    "turkish": "on request",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on time",
+    "turkish": "on time",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "once",
+    "turkish": "once",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "only",
+    "turkish": "only",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "onto",
+    "turkish": "onto",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "open",
+    "turkish": "açık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "opening hours",
+    "turkish": "opening hours",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "operate",
+    "turkish": "operate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "opinion",
+    "turkish": "opinion",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "opportunity",
+    "turkish": "opportunity",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "opposite",
+    "turkish": "opposite",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "option",
+    "turkish": "option",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "or",
+    "turkish": "or",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "order",
+    "turkish": "order",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ordinary",
+    "turkish": "sıradan",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "organisation",
+    "turkish": "organisation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "organise",
+    "turkish": "organise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "original",
+    "turkish": "original",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "other",
+    "turkish": "other",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "otherwise",
+    "turkish": "otherwise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ought",
+    "turkish": "ought",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "our",
+    "turkish": "our",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ours",
+    "turkish": "ours",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ourselves",
+    "turkish": "ourselves",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "out",
+    "turkish": "out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "out of",
+    "turkish": "out of",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "out of date",
+    "turkish": "out of date",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "out of order",
+    "turkish": "out of order",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "out of work",
+    "turkish": "out of work",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "outdoor",
+    "turkish": "outdoor",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "outside",
+    "turkish": "outside",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "oven",
+    "turkish": "oven",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "over",
+    "turkish": "over",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "overnight",
+    "turkish": "overnight",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "owe",
+    "turkish": "owe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "own",
+    "turkish": "own",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "owner",
+    "turkish": "owner",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "p.m.",
+    "turkish": "p.m.",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pack",
+    "turkish": "pack",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "packet",
+    "turkish": "packet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "painful",
+    "turkish": "painful",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "paint",
+    "turkish": "paint",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "painting",
+    "turkish": "painting",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pair",
+    "turkish": "pair",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pants",
+    "turkish": "pants",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "parcel",
+    "turkish": "parcel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pardon",
+    "turkish": "pardon",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "part",
+    "turkish": "part",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "part time",
+    "turkish": "part time",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "part-time",
+    "turkish": "part-time",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "particular",
+    "turkish": "particular",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "partly",
+    "turkish": "partly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "partner",
+    "turkish": "partner",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "party",
+    "turkish": "party",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pass",
+    "turkish": "pass",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "past",
+    "turkish": "past",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pattern",
+    "turkish": "pattern",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pause",
+    "turkish": "pause",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pavement",
+    "turkish": "pavement",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pea",
+    "turkish": "pea",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "peace",
+    "turkish": "peace",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "peaceful",
+    "turkish": "peaceful",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pedestrian",
+    "turkish": "pedestrian",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "penfriend",
+    "turkish": "penfriend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "people",
+    "turkish": "people",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "per",
+    "turkish": "per",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "percent",
+    "turkish": "percent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "perfect",
+    "turkish": "mükemmel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "perform",
+    "turkish": "perform",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "perfume",
+    "turkish": "perfume",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "perhaps",
+    "turkish": "perhaps",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "permanent",
+    "turkish": "permanent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "permission",
+    "turkish": "permission",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "permit",
+    "turkish": "permit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "permitted",
+    "turkish": "permitted",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "person",
+    "turkish": "person",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "personal",
+    "turkish": "personal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "personally",
+    "turkish": "personally",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "persuade",
+    "turkish": "persuade",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pet",
+    "turkish": "pet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "photo",
+    "turkish": "photo",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "photocopy",
+    "turkish": "photocopy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pick",
+    "turkish": "pick",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pick up",
+    "turkish": "pick up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "picture",
+    "turkish": "picture",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "piece",
+    "turkish": "piece",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pile",
+    "turkish": "pile",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pin",
+    "turkish": "pin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pipe",
+    "turkish": "pipe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pirate",
+    "turkish": "pirate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pity",
+    "turkish": "pity",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "place",
+    "turkish": "place",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "plain",
+    "turkish": "plain",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "plan",
+    "turkish": "plan",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "plastic",
+    "turkish": "plastic",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "platform",
+    "turkish": "platform",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pleasant",
+    "turkish": "pleasant",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "please",
+    "turkish": "please",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "plenty",
+    "turkish": "plenty",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "plus",
+    "turkish": "plus",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pocket money",
+    "turkish": "pocket money",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "point",
+    "turkish": "point",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "police station",
+    "turkish": "police station",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "political",
+    "turkish": "political",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "politics",
+    "turkish": "politics",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pollution",
+    "turkish": "pollution",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pool",
+    "turkish": "pool",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "poor",
+    "turkish": "fakir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "population",
+    "turkish": "population",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "position",
+    "turkish": "position",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "possibility",
+    "turkish": "possibility",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "possible",
+    "turkish": "mümkün",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "possibly",
+    "turkish": "possibly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "post",
+    "turkish": "post",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "post office",
+    "turkish": "post office",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "postcard",
+    "turkish": "postcard",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "poster",
+    "turkish": "poster",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "postpone",
+    "turkish": "postpone",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pot",
+    "turkish": "pot",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pour",
+    "turkish": "pour",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "power",
+    "turkish": "power",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "powerful",
+    "turkish": "güçlü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "practice",
+    "turkish": "practice",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "practise",
+    "turkish": "practise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pray",
+    "turkish": "pray",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prayer",
+    "turkish": "prayer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "predict",
+    "turkish": "predict",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prefer",
+    "turkish": "prefer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pregnant",
+    "turkish": "pregnant",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "preparation",
+    "turkish": "preparation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prepare",
+    "turkish": "prepare",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prepared",
+    "turkish": "prepared",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "present",
+    "turkish": "present",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "presentation",
+    "turkish": "presentation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "press",
+    "turkish": "press",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pretty",
+    "turkish": "güzel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prevent",
+    "turkish": "prevent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "previous",
+    "turkish": "previous",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "previously",
+    "turkish": "previously",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prince",
+    "turkish": "prince",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "princess",
+    "turkish": "princess",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prison",
+    "turkish": "prison",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prisoner",
+    "turkish": "prisoner",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "private",
+    "turkish": "özel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prize",
+    "turkish": "prize",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "probably",
+    "turkish": "probably",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "problem",
+    "turkish": "problem",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "profession",
+    "turkish": "profession",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "programme",
+    "turkish": "programme",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "progress",
+    "turkish": "progress",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "promise",
+    "turkish": "promise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "promote",
+    "turkish": "promote",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pronounce",
+    "turkish": "pronounce",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "proper",
+    "turkish": "uygun",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "property",
+    "turkish": "property",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "protect",
+    "turkish": "protect",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "prove",
+    "turkish": "prove",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "provide",
+    "turkish": "provide",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "public",
+    "turkish": "halka açık",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "public transport",
+    "turkish": "public transport",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "publish",
+    "turkish": "publish",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pull",
+    "turkish": "pull",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pump",
+    "turkish": "pump",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "punish",
+    "turkish": "punish",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "pure",
+    "turkish": "saf",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "purpose",
+    "turkish": "purpose",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "push",
+    "turkish": "push",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "put",
+    "turkish": "put",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "put away",
+    "turkish": "put away",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "put down",
+    "turkish": "put down",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "put off",
+    "turkish": "put off",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "put on",
+    "turkish": "put on",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "put out",
+    "turkish": "put out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "put through",
+    "turkish": "put through",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "put up",
+    "turkish": "put up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "puzzle",
+    "turkish": "puzzle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "quality",
+    "turkish": "quality",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "quantity",
+    "turkish": "quantity",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "quarter",
+    "turkish": "quarter",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "queen",
+    "turkish": "queen",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "queue",
+    "turkish": "queue",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "quick",
+    "turkish": "hızlı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "quickly",
+    "turkish": "quickly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "quiet",
+    "turkish": "sessiz",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "quit",
+    "turkish": "quit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "quite",
+    "turkish": "quite",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rail",
+    "turkish": "rail",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "raise",
+    "turkish": "raise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "range",
+    "turkish": "range",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rare",
+    "turkish": "nadir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rarely",
+    "turkish": "rarely",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rather",
+    "turkish": "rather",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reach",
+    "turkish": "reach",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ready",
+    "turkish": "hazır",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "real",
+    "turkish": "gerçek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "realise",
+    "turkish": "realise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "realistic",
+    "turkish": "realistic",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "really",
+    "turkish": "really",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reason",
+    "turkish": "reason",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reasonable",
+    "turkish": "reasonable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reasonably",
+    "turkish": "reasonably",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rebuild",
+    "turkish": "rebuild",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "receive",
+    "turkish": "receive",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "recent",
+    "turkish": "recent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reception",
+    "turkish": "reception",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "recognise",
+    "turkish": "recognise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "recommend",
+    "turkish": "recommend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "recycle",
+    "turkish": "recycle",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "recycled",
+    "turkish": "recycled",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "recycling",
+    "turkish": "recycling",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reduce",
+    "turkish": "reduce",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "refuse",
+    "turkish": "refuse",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "regarding",
+    "turkish": "regarding",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "regards",
+    "turkish": "regards",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "region",
+    "turkish": "region",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "regret",
+    "turkish": "regret",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "regular",
+    "turkish": "regular",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "relation",
+    "turkish": "relation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "relationship",
+    "turkish": "relationship",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "relax",
+    "turkish": "relax",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "relaxation",
+    "turkish": "relaxation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reliable",
+    "turkish": "reliable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "religion",
+    "turkish": "religion",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "remain",
+    "turkish": "remain",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "remember",
+    "turkish": "remember",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "remind",
+    "turkish": "remind",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "remote control",
+    "turkish": "remote control",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "remove",
+    "turkish": "remove",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rent",
+    "turkish": "rent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "repair",
+    "turkish": "repair",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "repeat",
+    "turkish": "repeat",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "replace",
+    "turkish": "replace",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reply",
+    "turkish": "reply",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "report",
+    "turkish": "report",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "request",
+    "turkish": "request",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "require",
+    "turkish": "require",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rescue",
+    "turkish": "rescue",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "research",
+    "turkish": "research",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reservation",
+    "turkish": "reservation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reserve",
+    "turkish": "reserve",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "resort",
+    "turkish": "resort",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "respect",
+    "turkish": "respect",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "responsible",
+    "turkish": "responsible",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rest",
+    "turkish": "rest",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "result",
+    "turkish": "result",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "retire",
+    "turkish": "retire",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "return",
+    "turkish": "return",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "review",
+    "turkish": "review",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "revise",
+    "turkish": "revise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "reward",
+    "turkish": "reward",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rich",
+    "turkish": "zengin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ride",
+    "turkish": "ride",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "right",
+    "turkish": "doğru",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "right-hand",
+    "turkish": "right-hand",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ring back",
+    "turkish": "ring back",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ring up",
+    "turkish": "ring up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rob",
+    "turkish": "rob",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "role",
+    "turkish": "role",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "romance",
+    "turkish": "romance",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rose",
+    "turkish": "rose",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rough",
+    "turkish": "pürüzlü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "round",
+    "turkish": "yuvarlak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "roundabout",
+    "turkish": "roundabout",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "routine",
+    "turkish": "routine",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "row",
+    "turkish": "row",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rubbish",
+    "turkish": "rubbish",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ruin",
+    "turkish": "ruin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "rule",
+    "turkish": "rule",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "run out",
+    "turkish": "run out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "safe",
+    "turkish": "güvenli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "safely",
+    "turkish": "safely",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sale",
+    "turkish": "sale",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "salesman/saleswoman",
+    "turkish": "salesman/saleswoman",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "same",
+    "turkish": "aynı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "satisfactory",
+    "turkish": "satisfactory",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "say",
+    "turkish": "say",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "scene",
+    "turkish": "scene",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "schoolchild",
+    "turkish": "schoolchild",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "science fiction",
+    "turkish": "science fiction",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "scissors",
+    "turkish": "scissors",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "scream",
+    "turkish": "scream",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "search",
+    "turkish": "search",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "seat",
+    "turkish": "seat",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "second-hand",
+    "turkish": "second-hand",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "secret",
+    "turkish": "gizli",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "section",
+    "turkish": "section",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "security",
+    "turkish": "security",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "see",
+    "turkish": "see",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "seem",
+    "turkish": "seem",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "select",
+    "turkish": "select",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "self-service",
+    "turkish": "self-service",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "send",
+    "turkish": "send",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sense",
+    "turkish": "sense",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "separate",
+    "turkish": "separate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "series",
+    "turkish": "series",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "serve",
+    "turkish": "serve",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "service",
+    "turkish": "service",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "session",
+    "turkish": "session",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "set",
+    "turkish": "set",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "set off",
+    "turkish": "set off",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "set up",
+    "turkish": "set up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "several",
+    "turkish": "several",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sew",
+    "turkish": "sew",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sex",
+    "turkish": "sex",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shake",
+    "turkish": "shake",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shall",
+    "turkish": "shall",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shame",
+    "turkish": "shame",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shampoo",
+    "turkish": "shampoo",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shape",
+    "turkish": "shape",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "share",
+    "turkish": "share",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sharp",
+    "turkish": "keskin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shave",
+    "turkish": "shave",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "she",
+    "turkish": "she",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shock",
+    "turkish": "shock",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shoot",
+    "turkish": "shoot",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "short",
+    "turkish": "kısa",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shorts",
+    "turkish": "shorts",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "should",
+    "turkish": "should",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shout",
+    "turkish": "shout",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "show",
+    "turkish": "show",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "shut",
+    "turkish": "shut",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "side",
+    "turkish": "side",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sight",
+    "turkish": "sight",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sightseeing",
+    "turkish": "sightseeing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sign",
+    "turkish": "sign",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "signal",
+    "turkish": "signal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "signpost",
+    "turkish": "signpost",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "silence",
+    "turkish": "silence",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "silent",
+    "turkish": "silent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "silly",
+    "turkish": "aptal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "silver",
+    "turkish": "silver",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "similar",
+    "turkish": "benzer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "simple",
+    "turkish": "basit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sincerely",
+    "turkish": "sincerely",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "single",
+    "turkish": "tek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sir",
+    "turkish": "sir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sit",
+    "turkish": "sit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sit down",
+    "turkish": "sit down",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "site",
+    "turkish": "site",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "situated",
+    "turkish": "situated",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "situation",
+    "turkish": "situation",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "skate",
+    "turkish": "skate",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sleep",
+    "turkish": "sleep",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "slim",
+    "turkish": "slim",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "slip",
+    "turkish": "slip",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "slow",
+    "turkish": "yavaş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "slowly",
+    "turkish": "slowly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "smell",
+    "turkish": "smell",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "smoke",
+    "turkish": "smoke",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "smoking",
+    "turkish": "smoking",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "smooth",
+    "turkish": "pürüzsüz",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "so",
+    "turkish": "so",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "so-so",
+    "turkish": "so-so",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "soap",
+    "turkish": "soap",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "soap opera",
+    "turkish": "soap opera",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sociable",
+    "turkish": "sociable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "social",
+    "turkish": "social",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "society",
+    "turkish": "society",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sofa",
+    "turkish": "sofa",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "soft",
+    "turkish": "yumuşak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "solution",
+    "turkish": "solution",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "solve",
+    "turkish": "solve",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "some",
+    "turkish": "some",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "somebody",
+    "turkish": "somebody",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "somehow",
+    "turkish": "somehow",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "someone",
+    "turkish": "someone",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "something",
+    "turkish": "something",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sometimes",
+    "turkish": "sometimes",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "somewhere",
+    "turkish": "bir yerde",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sore",
+    "turkish": "sore",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sorry",
+    "turkish": "sorry",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sort",
+    "turkish": "sort",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sound",
+    "turkish": "sound",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "souvenir",
+    "turkish": "souvenir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "space",
+    "turkish": "space",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "spare",
+    "turkish": "spare",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "speak",
+    "turkish": "speak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "speaker",
+    "turkish": "speaker",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "special",
+    "turkish": "özel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "spectacular",
+    "turkish": "spectacular",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "speech",
+    "turkish": "speech",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "speed",
+    "turkish": "speed",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "spite",
+    "turkish": "spite",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "split up",
+    "turkish": "split up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "spoil",
+    "turkish": "spoil",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "spot",
+    "turkish": "spot",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "spy",
+    "turkish": "spy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "square",
+    "turkish": "square",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "staff",
+    "turkish": "staff",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stage",
+    "turkish": "stage",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stall",
+    "turkish": "stall",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stamp",
+    "turkish": "stamp",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stand",
+    "turkish": "stand",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "start",
+    "turkish": "start",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "statue",
+    "turkish": "statue",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stay",
+    "turkish": "stay",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stay behind",
+    "turkish": "stay behind",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "steal",
+    "turkish": "steal",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "steep",
+    "turkish": "steep",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "step",
+    "turkish": "step",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stick",
+    "turkish": "stick",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sticky",
+    "turkish": "sticky",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "still",
+    "turkish": "still",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stone",
+    "turkish": "stone",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stop",
+    "turkish": "stop",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "story",
+    "turkish": "story",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "straight",
+    "turkish": "düz",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "strange",
+    "turkish": "garip",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stranger",
+    "turkish": "stranger",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "street",
+    "turkish": "street",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stress",
+    "turkish": "stress",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "strike",
+    "turkish": "strike",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stripe",
+    "turkish": "stripe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "strong",
+    "turkish": "güçlü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "stuff",
+    "turkish": "stuff",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "succeed",
+    "turkish": "succeed",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "success",
+    "turkish": "success",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "successful",
+    "turkish": "successful",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "such",
+    "turkish": "such",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sudden",
+    "turkish": "sudden",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "suddenly",
+    "turkish": "suddenly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "suggest",
+    "turkish": "suggest",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "suggestion",
+    "turkish": "suggestion",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "suitable",
+    "turkish": "suitable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sum",
+    "turkish": "sum",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "support",
+    "turkish": "support",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "suppose",
+    "turkish": "suppose",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "sure",
+    "turkish": "sure",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "surname",
+    "turkish": "surname",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "surprise",
+    "turkish": "surprise",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "surround",
+    "turkish": "surround",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "switch",
+    "turkish": "switch",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "table-cloth",
+    "turkish": "table-cloth",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tablet",
+    "turkish": "tablet",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "take",
+    "turkish": "take",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "take away",
+    "turkish": "take away",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "take care of",
+    "turkish": "take care of",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "take off",
+    "turkish": "take off",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "take part",
+    "turkish": "take part",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "take place",
+    "turkish": "take place",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "take up",
+    "turkish": "take up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "takeaway",
+    "turkish": "takeaway",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "talent",
+    "turkish": "talent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "talented",
+    "turkish": "talented",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "talk",
+    "turkish": "talk",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "talk show",
+    "turkish": "talk show",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tall",
+    "turkish": "uzun boylu",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tap",
+    "turkish": "tap",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "teach",
+    "turkish": "teach",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "teaching",
+    "turkish": "teaching",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tear",
+    "turkish": "tear",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "technique",
+    "turkish": "technique",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "teenager",
+    "turkish": "teenager",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tell",
+    "turkish": "tell",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "temporary",
+    "turkish": "temporary",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tent",
+    "turkish": "tent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "terrible",
+    "turkish": "korkunç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "terribly",
+    "turkish": "terribly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "test",
+    "turkish": "test",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "than",
+    "turkish": "than",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thank",
+    "turkish": "thank",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thank you",
+    "turkish": "thank you",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thanks",
+    "turkish": "thanks",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "that",
+    "turkish": "that",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "their",
+    "turkish": "their",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "theirs",
+    "turkish": "theirs",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "them",
+    "turkish": "them",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "themselves",
+    "turkish": "themselves",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "then",
+    "turkish": "then",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "there",
+    "turkish": "orada",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "therefore",
+    "turkish": "therefore",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "these",
+    "turkish": "these",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "they",
+    "turkish": "they",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thick",
+    "turkish": "kalın",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thief",
+    "turkish": "thief",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thin",
+    "turkish": "ince",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thing",
+    "turkish": "thing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "think",
+    "turkish": "think",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thirsty",
+    "turkish": "thirsty",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "this",
+    "turkish": "this",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "those",
+    "turkish": "those",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "though",
+    "turkish": "though",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thought",
+    "turkish": "thought",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "thriller",
+    "turkish": "thriller",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "through",
+    "turkish": "through",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "throw",
+    "turkish": "throw",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "throw away",
+    "turkish": "throw away",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tick",
+    "turkish": "tick",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tidy up",
+    "turkish": "tidy up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tight",
+    "turkish": "tight",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tin",
+    "turkish": "tin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tiny",
+    "turkish": "küçücük",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tissue",
+    "turkish": "tissue",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "together",
+    "turkish": "birlikte",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "too",
+    "turkish": "too",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tooth/teeth",
+    "turkish": "tooth/teeth",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "top",
+    "turkish": "top",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "topic",
+    "turkish": "topic",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "total",
+    "turkish": "total",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "totally",
+    "turkish": "totally",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "touch",
+    "turkish": "touch",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tour",
+    "turkish": "tour",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tour guide",
+    "turkish": "tour guide",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tourist",
+    "turkish": "tourist",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tourist information centre",
+    "turkish": "tourist information centre",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "toward",
+    "turkish": "toward",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "towel",
+    "turkish": "towel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "town",
+    "turkish": "town",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "toy",
+    "turkish": "toy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "traditional",
+    "turkish": "traditional",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "transfer",
+    "turkish": "transfer",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "trash can",
+    "turkish": "trash can",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "travel agent",
+    "turkish": "travel agent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "trend",
+    "turkish": "trend",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "trick",
+    "turkish": "trick",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "trip",
+    "turkish": "trip",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "trouble",
+    "turkish": "trouble",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "trousers",
+    "turkish": "trousers",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "true",
+    "turkish": "doğru",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "trunk",
+    "turkish": "trunk",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "trust",
+    "turkish": "trust",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "truth",
+    "turkish": "truth",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "try",
+    "turkish": "try",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "try on",
+    "turkish": "try on",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tube",
+    "turkish": "tube",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tunnel",
+    "turkish": "tunnel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "turn",
+    "turkish": "turn",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "turn down",
+    "turkish": "turn down",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "turn into",
+    "turkish": "turn into",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "turn off",
+    "turkish": "turn off",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "turn on",
+    "turkish": "turn on",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "turn up",
+    "turkish": "turn up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "turning",
+    "turkish": "turning",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "twin",
+    "turkish": "twin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "typical",
+    "turkish": "typical",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "typically",
+    "turkish": "typically",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "tyre",
+    "turkish": "tyre",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "ugly",
+    "turkish": "çirkin",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "umbrella",
+    "turkish": "umbrella",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unable",
+    "turkish": "unable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unbelievable",
+    "turkish": "unbelievable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "uncomfortable",
+    "turkish": "uncomfortable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "under",
+    "turkish": "under",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "underneath",
+    "turkish": "underneath",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "understand",
+    "turkish": "understand",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "undress",
+    "turkish": "undress",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unemployed",
+    "turkish": "unemployed",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unemployment",
+    "turkish": "unemployment",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unexpected",
+    "turkish": "unexpected",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unfair",
+    "turkish": "unfair",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unfit",
+    "turkish": "unfit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unforgettable",
+    "turkish": "unforgettable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unfortunately",
+    "turkish": "unfortunately",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unfriendly",
+    "turkish": "unfriendly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unhappy",
+    "turkish": "unhappy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unhealthy",
+    "turkish": "unhealthy",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unimportant",
+    "turkish": "unimportant",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "uninterested",
+    "turkish": "uninterested",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "uninteresting",
+    "turkish": "uninteresting",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "union",
+    "turkish": "union",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unit",
+    "turkish": "unit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "universe",
+    "turkish": "universe",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unknown",
+    "turkish": "unknown",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unless",
+    "turkish": "unless",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unlikey",
+    "turkish": "unlikey",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unlucky",
+    "turkish": "unlucky",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unnecessary",
+    "turkish": "unnecessary",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unpack",
+    "turkish": "unpack",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "until",
+    "turkish": "until",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "unusual",
+    "turkish": "unusual",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "up",
+    "turkish": "up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "up to",
+    "turkish": "up to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "up to date",
+    "turkish": "up to date",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "upon",
+    "turkish": "upon",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "upper",
+    "turkish": "upper",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "urgent",
+    "turkish": "urgent",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "urgently",
+    "turkish": "urgently",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "us",
+    "turkish": "us",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "use",
+    "turkish": "use",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "used to",
+    "turkish": "used to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "useful",
+    "turkish": "faydalı",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "usual",
+    "turkish": "usual",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "usually",
+    "turkish": "usually",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "valuable",
+    "turkish": "valuable",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "van",
+    "turkish": "van",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "variety",
+    "turkish": "variety",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "various",
+    "turkish": "various",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "vase",
+    "turkish": "vase",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "very",
+    "turkish": "very",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "via",
+    "turkish": "via",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "view",
+    "turkish": "view",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "village",
+    "turkish": "village",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "visa",
+    "turkish": "visa",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "visit",
+    "turkish": "visit",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "visitor",
+    "turkish": "visitor",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "voice",
+    "turkish": "voice",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "volume",
+    "turkish": "volume",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "vote",
+    "turkish": "vote",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wait",
+    "turkish": "wait",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "waiting room",
+    "turkish": "waiting room",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wake",
+    "turkish": "wake",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wake up",
+    "turkish": "wake up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "walk",
+    "turkish": "walk",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "walking",
+    "turkish": "walking",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "want",
+    "turkish": "want",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "war",
+    "turkish": "war",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "warm",
+    "turkish": "sıcak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "warn",
+    "turkish": "warn",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "warning",
+    "turkish": "warning",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wash up",
+    "turkish": "wash up",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "waste",
+    "turkish": "waste",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "watch",
+    "turkish": "watch",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "way",
+    "turkish": "way",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wear out",
+    "turkish": "wear out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "weather forecast",
+    "turkish": "weather forecast",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "weekly",
+    "turkish": "weekly",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "weigh",
+    "turkish": "weigh",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "weight",
+    "turkish": "weight",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "welcome",
+    "turkish": "welcome",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "well",
+    "turkish": "well",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "well made",
+    "turkish": "well made",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "well-dressed",
+    "turkish": "well-dressed",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "well-known",
+    "turkish": "well-known",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "what",
+    "turkish": "what",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "whatever",
+    "turkish": "whatever",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wheel",
+    "turkish": "wheel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wheelchair",
+    "turkish": "wheelchair",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "when",
+    "turkish": "when",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "whenever",
+    "turkish": "whenever",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "where",
+    "turkish": "where",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wherever",
+    "turkish": "wherever",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "whether",
+    "turkish": "whether",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "which",
+    "turkish": "which",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "who",
+    "turkish": "who",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "whole",
+    "turkish": "whole",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "whose",
+    "turkish": "whose",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "why",
+    "turkish": "why",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wide",
+    "turkish": "geniş",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "will",
+    "turkish": "will",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "willing",
+    "turkish": "willing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "windscreen",
+    "turkish": "windscreen",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wing",
+    "turkish": "wing",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wish",
+    "turkish": "wish",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "woman",
+    "turkish": "woman",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wonder",
+    "turkish": "wonder",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wood",
+    "turkish": "wood",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wooden",
+    "turkish": "wooden",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "word",
+    "turkish": "word",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "work out",
+    "turkish": "work out",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "working",
+    "turkish": "working",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "world",
+    "turkish": "world",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "worse",
+    "turkish": "worse",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "worst",
+    "turkish": "worst",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "worth",
+    "turkish": "worth",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "would",
+    "turkish": "would",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wow",
+    "turkish": "wow",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wrap",
+    "turkish": "wrap",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "write down",
+    "turkish": "write down",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "wrong",
+    "turkish": "yanlış",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "yard",
+    "turkish": "yard",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "yeah",
+    "turkish": "yeah",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "yes",
+    "turkish": "yes",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "yoga",
+    "turkish": "yoga",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "yoghurt",
+    "turkish": "yoghurt",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "you",
+    "turkish": "you",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "you know",
+    "turkish": "you know",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "young",
+    "turkish": "genç",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "your",
+    "turkish": "your",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "yours",
+    "turkish": "yours",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "yourself",
+    "turkish": "yourself",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "zero",
+    "turkish": "zero",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "zone",
+    "turkish": "zone",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "zoo",
+    "turkish": "zoo",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "access",
+    "turkish": "erişim",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "ad",
+    "turkish": "reklam",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "advert",
+    "turkish": "reklam",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "advertisement",
+    "turkish": "reklam",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "bad",
+    "turkish": "kötü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "beautiful",
+    "turkish": "güzel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "big",
+    "turkish": "büyük",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "cold",
+    "turkish": "soğuk",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "good",
+    "turkish": "iyi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "hot",
+    "turkish": "sıcak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "nice",
+    "turkish": "güzel",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "small",
+    "turkish": "küçük",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bag",
+    "turkish": "çanta",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "balloon",
+    "turkish": "balon",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bandage",
+    "turkish": "bandaj",
+    "category": "Sağlık"
+  },
+  {
+    "english": "basin",
+    "turkish": "leğen",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "basket",
+    "turkish": "sepet",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "battery",
+    "turkish": "pil",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "box",
+    "turkish": "kutu",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "brush",
+    "turkish": "fırça",
+    "category": "Ev ve Mobilya"
+  },
+  {
+    "english": "bake",
+    "turkish": "pişirmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "bite",
+    "turkish": "ısırmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "blow",
+    "turkish": "üflemek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "boil",
+    "turkish": "kaynatmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "borrow",
+    "turkish": "ödünç almak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "breathe",
+    "turkish": "nefes almak",
+    "category": "Sağlık"
+  },
+  {
+    "english": "bring",
+    "turkish": "getirmek",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "carry",
+    "turkish": "taşımak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "catch",
+    "turkish": "yakalamak",
+    "category": "Temel Kelimeler"
+  }
+]

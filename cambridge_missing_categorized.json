@@ -1,0 +1,8132 @@
+[
+  {
+    "english": "a.m",
+    "turkish": "sabah",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "an",
+    "turkish": "bir",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "as",
+    "turkish": "gibi",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "be",
+    "turkish": "olmak",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "because",
+    "turkish": "çünkü",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "before",
+    "turkish": "önce",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "by",
+    "turkish": "by",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "for",
+    "turkish": "for",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "from",
+    "turkish": "from",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "if",
+    "turkish": "if",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "in",
+    "turkish": "in",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "of",
+    "turkish": "of",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "on",
+    "turkish": "on",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "the",
+    "turkish": "the",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "to",
+    "turkish": "to",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "with",
+    "turkish": "with",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "without",
+    "turkish": "without",
+    "category": "Temel Kelimeler"
+  },
+  {
+    "english": "accent",
+    "turkish": "aksan",
+    "category": "Genel"
+  },
+  {
+    "english": "accident",
+    "turkish": "accident",
+    "category": "Genel"
+  },
+  {
+    "english": "accommodation",
+    "turkish": "accommodation",
+    "category": "Genel"
+  },
+  {
+    "english": "accompany",
+    "turkish": "accompany",
+    "category": "Genel"
+  },
+  {
+    "english": "advertise",
+    "turkish": "reklam yapmak",
+    "category": "Genel"
+  },
+  {
+    "english": "air force",
+    "turkish": "air force",
+    "category": "Genel"
+  },
+  {
+    "english": "all right/alright",
+    "turkish": "all right/alright",
+    "category": "Genel"
+  },
+  {
+    "english": "answerphone",
+    "turkish": "answerphone",
+    "category": "Genel"
+  },
+  {
+    "english": "antique",
+    "turkish": "antique",
+    "category": "Genel"
+  },
+  {
+    "english": "army",
+    "turkish": "army",
+    "category": "Genel"
+  },
+  {
+    "english": "athlete",
+    "turkish": "athlete",
+    "category": "Genel"
+  },
+  {
+    "english": "babysit",
+    "turkish": "babysit",
+    "category": "Genel"
+  },
+  {
+    "english": "babysitter",
+    "turkish": "babysitter",
+    "category": "Genel"
+  },
+  {
+    "english": "background",
+    "turkish": "arka plan",
+    "category": "Genel"
+  },
+  {
+    "english": "backpack",
+    "turkish": "sırt çantası",
+    "category": "Genel"
+  },
+  {
+    "english": "backpacker",
+    "turkish": "backpacker",
+    "category": "Genel"
+  },
+  {
+    "english": "backpacking",
+    "turkish": "backpacking",
+    "category": "Genel"
+  },
+  {
+    "english": "backwards",
+    "turkish": "geriye",
+    "category": "Genel"
+  },
+  {
+    "english": "badly",
+    "turkish": "kötü bir şekilde",
+    "category": "Genel"
+  },
+  {
+    "english": "baggage",
+    "turkish": "baggage",
+    "category": "Genel"
+  },
+  {
+    "english": "bald",
+    "turkish": "bald",
+    "category": "Genel"
+  },
+  {
+    "english": "bar",
+    "turkish": "bar",
+    "category": "Genel"
+  },
+  {
+    "english": "barbecue",
+    "turkish": "barbekü",
+    "category": "Genel"
+  },
+  {
+    "english": "base on",
+    "turkish": "base on",
+    "category": "Genel"
+  },
+  {
+    "english": "basic",
+    "turkish": "temel",
+    "category": "Genel"
+  },
+  {
+    "english": "battle",
+    "turkish": "savaş",
+    "category": "Genel"
+  },
+  {
+    "english": "be over",
+    "turkish": "be over",
+    "category": "Genel"
+  },
+  {
+    "english": "beauty",
+    "turkish": "güzellik",
+    "category": "Genel"
+  },
+  {
+    "english": "because of",
+    "turkish": "because of",
+    "category": "Genel"
+  },
+  {
+    "english": "become",
+    "turkish": "olmak",
+    "category": "Genel"
+  },
+  {
+    "english": "begin",
+    "turkish": "begin",
+    "category": "Genel"
+  },
+  {
+    "english": "beginner",
+    "turkish": "beginner",
+    "category": "Genel"
+  },
+  {
+    "english": "beginning",
+    "turkish": "beginning",
+    "category": "Genel"
+  },
+  {
+    "english": "behave",
+    "turkish": "behave",
+    "category": "Genel"
+  },
+  {
+    "english": "behaviour",
+    "turkish": "behaviour",
+    "category": "Genel"
+  },
+  {
+    "english": "behind",
+    "turkish": "behind",
+    "category": "Genel"
+  },
+  {
+    "english": "believe",
+    "turkish": "believe",
+    "category": "Genel"
+  },
+  {
+    "english": "belong",
+    "turkish": "belong",
+    "category": "Genel"
+  },
+  {
+    "english": "below",
+    "turkish": "below",
+    "category": "Genel"
+  },
+  {
+    "english": "beneath",
+    "turkish": "beneath",
+    "category": "Genel"
+  },
+  {
+    "english": "benefit",
+    "turkish": "benefit",
+    "category": "Genel"
+  },
+  {
+    "english": "beside",
+    "turkish": "beside",
+    "category": "Genel"
+  },
+  {
+    "english": "besides",
+    "turkish": "besides",
+    "category": "Genel"
+  },
+  {
+    "english": "best",
+    "turkish": "best",
+    "category": "Genel"
+  },
+  {
+    "english": "better",
+    "turkish": "better",
+    "category": "Genel"
+  },
+  {
+    "english": "beyond",
+    "turkish": "beyond",
+    "category": "Genel"
+  },
+  {
+    "english": "bin",
+    "turkish": "çöp kutusu",
+    "category": "Genel"
+  },
+  {
+    "english": "biography",
+    "turkish": "biography",
+    "category": "Genel"
+  },
+  {
+    "english": "birth",
+    "turkish": "birth",
+    "category": "Genel"
+  },
+  {
+    "english": "birthday",
+    "turkish": "birthday",
+    "category": "Genel"
+  },
+  {
+    "english": "bit",
+    "turkish": "bit",
+    "category": "Genel"
+  },
+  {
+    "english": "bitter",
+    "turkish": "acı",
+    "category": "Genel"
+  },
+  {
+    "english": "blame",
+    "turkish": "blame",
+    "category": "Genel"
+  },
+  {
+    "english": "blank",
+    "turkish": "boş",
+    "category": "Genel"
+  },
+  {
+    "english": "bleed",
+    "turkish": "bleed",
+    "category": "Genel"
+  },
+  {
+    "english": "blind",
+    "turkish": "kör",
+    "category": "Genel"
+  },
+  {
+    "english": "block",
+    "turkish": "block",
+    "category": "Genel"
+  },
+  {
+    "english": "blond",
+    "turkish": "blond",
+    "category": "Genel"
+  },
+  {
+    "english": "board",
+    "turkish": "tahta",
+    "category": "Genel"
+  },
+  {
+    "english": "boiled",
+    "turkish": "boiled",
+    "category": "Genel"
+  },
+  {
+    "english": "bold",
+    "turkish": "cesur",
+    "category": "Genel"
+  },
+  {
+    "english": "bomb",
+    "turkish": "bomba",
+    "category": "Genel"
+  },
+  {
+    "english": "booking",
+    "turkish": "booking",
+    "category": "Genel"
+  },
+  {
+    "english": "booking office",
+    "turkish": "booking office",
+    "category": "Genel"
+  },
+  {
+    "english": "border",
+    "turkish": "border",
+    "category": "Genel"
+  },
+  {
+    "english": "bored",
+    "turkish": "sıkılmış",
+    "category": "Genel"
+  },
+  {
+    "english": "boring",
+    "turkish": "sıkıcı",
+    "category": "Genel"
+  },
+  {
+    "english": "born",
+    "turkish": "born",
+    "category": "Genel"
+  },
+  {
+    "english": "both",
+    "turkish": "both",
+    "category": "Genel"
+  },
+  {
+    "english": "bother",
+    "turkish": "rahatsız etmek",
+    "category": "Genel"
+  },
+  {
+    "english": "bottom",
+    "turkish": "bottom",
+    "category": "Genel"
+  },
+  {
+    "english": "boy",
+    "turkish": "boy",
+    "category": "Genel"
+  },
+  {
+    "english": "boyfriend",
+    "turkish": "boyfriend",
+    "category": "Genel"
+  },
+  {
+    "english": "branch",
+    "turkish": "branch",
+    "category": "Genel"
+  },
+  {
+    "english": "brand new",
+    "turkish": "brand new",
+    "category": "Genel"
+  },
+  {
+    "english": "break",
+    "turkish": "break",
+    "category": "Genel"
+  },
+  {
+    "english": "break down",
+    "turkish": "break down",
+    "category": "Genel"
+  },
+  {
+    "english": "break in",
+    "turkish": "break in",
+    "category": "Genel"
+  },
+  {
+    "english": "break up",
+    "turkish": "break up",
+    "category": "Genel"
+  },
+  {
+    "english": "bridge",
+    "turkish": "bridge",
+    "category": "Genel"
+  },
+  {
+    "english": "brief",
+    "turkish": "kısa",
+    "category": "Genel"
+  },
+  {
+    "english": "brilliant",
+    "turkish": "parlak",
+    "category": "Genel"
+  },
+  {
+    "english": "bring up",
+    "turkish": "bring up",
+    "category": "Genel"
+  },
+  {
+    "english": "broad",
+    "turkish": "geniş",
+    "category": "Genel"
+  },
+  {
+    "english": "brochure",
+    "turkish": "brochure",
+    "category": "Genel"
+  },
+  {
+    "english": "broken",
+    "turkish": "kırık",
+    "category": "Genel"
+  },
+  {
+    "english": "bug",
+    "turkish": "bug",
+    "category": "Genel"
+  },
+  {
+    "english": "build",
+    "turkish": "build",
+    "category": "Genel"
+  },
+  {
+    "english": "bull",
+    "turkish": "bull",
+    "category": "Genel"
+  },
+  {
+    "english": "burning",
+    "turkish": "burning",
+    "category": "Genel"
+  },
+  {
+    "english": "bury",
+    "turkish": "gömmek",
+    "category": "Genel"
+  },
+  {
+    "english": "busy",
+    "turkish": "meşgul",
+    "category": "Genel"
+  },
+  {
+    "english": "but",
+    "turkish": "but",
+    "category": "Genel"
+  },
+  {
+    "english": "by accident",
+    "turkish": "by accident",
+    "category": "Genel"
+  },
+  {
+    "english": "by hand",
+    "turkish": "by hand",
+    "category": "Genel"
+  },
+  {
+    "english": "by mistake",
+    "turkish": "by mistake",
+    "category": "Genel"
+  },
+  {
+    "english": "by name",
+    "turkish": "by name",
+    "category": "Genel"
+  },
+  {
+    "english": "bye",
+    "turkish": "bye",
+    "category": "Genel"
+  },
+  {
+    "english": "cabin",
+    "turkish": "cabin",
+    "category": "Genel"
+  },
+  {
+    "english": "cable",
+    "turkish": "cable",
+    "category": "Genel"
+  },
+  {
+    "english": "cafe/cafe",
+    "turkish": "cafe/cafe",
+    "category": "Genel"
+  },
+  {
+    "english": "cafeteria",
+    "turkish": "cafeteria",
+    "category": "Genel"
+  },
+  {
+    "english": "cage",
+    "turkish": "cage",
+    "category": "Genel"
+  },
+  {
+    "english": "calendar",
+    "turkish": "calendar",
+    "category": "Genel"
+  },
+  {
+    "english": "call",
+    "turkish": "call",
+    "category": "Genel"
+  },
+  {
+    "english": "call for",
+    "turkish": "call for",
+    "category": "Genel"
+  },
+  {
+    "english": "call in",
+    "turkish": "call in",
+    "category": "Genel"
+  },
+  {
+    "english": "camp",
+    "turkish": "camp",
+    "category": "Genel"
+  },
+  {
+    "english": "camping",
+    "turkish": "camping",
+    "category": "Genel"
+  },
+  {
+    "english": "campsite",
+    "turkish": "campsite",
+    "category": "Genel"
+  },
+  {
+    "english": "can",
+    "turkish": "can",
+    "category": "Genel"
+  },
+  {
+    "english": "cancel",
+    "turkish": "cancel",
+    "category": "Genel"
+  },
+  {
+    "english": "candidate",
+    "turkish": "candidate",
+    "category": "Genel"
+  },
+  {
+    "english": "candle",
+    "turkish": "candle",
+    "category": "Genel"
+  },
+  {
+    "english": "capital",
+    "turkish": "capital",
+    "category": "Genel"
+  },
+  {
+    "english": "card",
+    "turkish": "card",
+    "category": "Genel"
+  },
+  {
+    "english": "cardboard",
+    "turkish": "cardboard",
+    "category": "Genel"
+  },
+  {
+    "english": "care",
+    "turkish": "care",
+    "category": "Genel"
+  },
+  {
+    "english": "carpet",
+    "turkish": "carpet",
+    "category": "Genel"
+  },
+  {
+    "english": "carry on",
+    "turkish": "carry on",
+    "category": "Genel"
+  },
+  {
+    "english": "carry out",
+    "turkish": "carry out",
+    "category": "Genel"
+  },
+  {
+    "english": "cartoon",
+    "turkish": "cartoon",
+    "category": "Genel"
+  },
+  {
+    "english": "case",
+    "turkish": "case",
+    "category": "Genel"
+  },
+  {
+    "english": "castle",
+    "turkish": "castle",
+    "category": "Genel"
+  },
+  {
+    "english": "cathedral",
+    "turkish": "cathedral",
+    "category": "Genel"
+  },
+  {
+    "english": "celebrate",
+    "turkish": "kutlamak",
+    "category": "Genel"
+  },
+  {
+    "english": "celebration",
+    "turkish": "celebration",
+    "category": "Genel"
+  },
+  {
+    "english": "celebrity",
+    "turkish": "celebrity",
+    "category": "Genel"
+  },
+  {
+    "english": "cell phone",
+    "turkish": "cell phone",
+    "category": "Genel"
+  },
+  {
+    "english": "centimetre",
+    "turkish": "centimetre",
+    "category": "Genel"
+  },
+  {
+    "english": "central",
+    "turkish": "central",
+    "category": "Genel"
+  },
+  {
+    "english": "centre/center",
+    "turkish": "centre/center",
+    "category": "Genel"
+  },
+  {
+    "english": "ceremony",
+    "turkish": "ceremony",
+    "category": "Genel"
+  },
+  {
+    "english": "certain",
+    "turkish": "certain",
+    "category": "Genel"
+  },
+  {
+    "english": "certainly",
+    "turkish": "certainly",
+    "category": "Genel"
+  },
+  {
+    "english": "certificate",
+    "turkish": "certificate",
+    "category": "Genel"
+  },
+  {
+    "english": "chain",
+    "turkish": "chain",
+    "category": "Genel"
+  },
+  {
+    "english": "challenge",
+    "turkish": "challenge",
+    "category": "Genel"
+  },
+  {
+    "english": "challenging",
+    "turkish": "challenging",
+    "category": "Genel"
+  },
+  {
+    "english": "chance",
+    "turkish": "chance",
+    "category": "Genel"
+  },
+  {
+    "english": "chapter",
+    "turkish": "chapter",
+    "category": "Genel"
+  },
+  {
+    "english": "character",
+    "turkish": "character",
+    "category": "Genel"
+  },
+  {
+    "english": "charity",
+    "turkish": "charity",
+    "category": "Genel"
+  },
+  {
+    "english": "chat",
+    "turkish": "chat",
+    "category": "Genel"
+  },
+  {
+    "english": "cheat",
+    "turkish": "cheat",
+    "category": "Genel"
+  },
+  {
+    "english": "check",
+    "turkish": "check",
+    "category": "Genel"
+  },
+  {
+    "english": "check in",
+    "turkish": "check in",
+    "category": "Genel"
+  },
+  {
+    "english": "check out",
+    "turkish": "check out",
+    "category": "Genel"
+  },
+  {
+    "english": "check-in",
+    "turkish": "check-in",
+    "category": "Genel"
+  },
+  {
+    "english": "checkout",
+    "turkish": "checkout",
+    "category": "Genel"
+  },
+  {
+    "english": "chemist",
+    "turkish": "chemist",
+    "category": "Genel"
+  },
+  {
+    "english": "childhood",
+    "turkish": "childhood",
+    "category": "Genel"
+  },
+  {
+    "english": "choice",
+    "turkish": "choice",
+    "category": "Genel"
+  },
+  {
+    "english": "choose",
+    "turkish": "choose",
+    "category": "Genel"
+  },
+  {
+    "english": "cinema",
+    "turkish": "cinema",
+    "category": "Genel"
+  },
+  {
+    "english": "circle",
+    "turkish": "circle",
+    "category": "Genel"
+  },
+  {
+    "english": "circus",
+    "turkish": "circus",
+    "category": "Genel"
+  },
+  {
+    "english": "city",
+    "turkish": "city",
+    "category": "Genel"
+  },
+  {
+    "english": "clap",
+    "turkish": "clap",
+    "category": "Genel"
+  },
+  {
+    "english": "clear",
+    "turkish": "açık",
+    "category": "Genel"
+  },
+  {
+    "english": "clearly",
+    "turkish": "clearly",
+    "category": "Genel"
+  },
+  {
+    "english": "close",
+    "turkish": "yakın",
+    "category": "Genel"
+  },
+  {
+    "english": "closed",
+    "turkish": "kapalı",
+    "category": "Genel"
+  },
+  {
+    "english": "clown",
+    "turkish": "clown",
+    "category": "Genel"
+  },
+  {
+    "english": "club",
+    "turkish": "club",
+    "category": "Genel"
+  },
+  {
+    "english": "collect",
+    "turkish": "collect",
+    "category": "Genel"
+  },
+  {
+    "english": "collection",
+    "turkish": "collection",
+    "category": "Genel"
+  },
+  {
+    "english": "colour",
+    "turkish": "colour",
+    "category": "Genel"
+  },
+  {
+    "english": "colourful",
+    "turkish": "colourful",
+    "category": "Genel"
+  },
+  {
+    "english": "comb",
+    "turkish": "comb",
+    "category": "Genel"
+  },
+  {
+    "english": "come",
+    "turkish": "come",
+    "category": "Genel"
+  },
+  {
+    "english": "come on",
+    "turkish": "come on",
+    "category": "Genel"
+  },
+  {
+    "english": "comedy",
+    "turkish": "comedy",
+    "category": "Genel"
+  },
+  {
+    "english": "comfort",
+    "turkish": "comfort",
+    "category": "Genel"
+  },
+  {
+    "english": "comic",
+    "turkish": "comic",
+    "category": "Genel"
+  },
+  {
+    "english": "common",
+    "turkish": "yaygın",
+    "category": "Genel"
+  },
+  {
+    "english": "communicate",
+    "turkish": "communicate",
+    "category": "Genel"
+  },
+  {
+    "english": "communication",
+    "turkish": "communication",
+    "category": "Genel"
+  },
+  {
+    "english": "compare",
+    "turkish": "compare",
+    "category": "Genel"
+  },
+  {
+    "english": "complain",
+    "turkish": "complain",
+    "category": "Genel"
+  },
+  {
+    "english": "complaint",
+    "turkish": "complaint",
+    "category": "Genel"
+  },
+  {
+    "english": "complete",
+    "turkish": "tam",
+    "category": "Genel"
+  },
+  {
+    "english": "complicated",
+    "turkish": "karmaşık",
+    "category": "Genel"
+  },
+  {
+    "english": "concentrate",
+    "turkish": "concentrate",
+    "category": "Genel"
+  },
+  {
+    "english": "conclusion",
+    "turkish": "conclusion",
+    "category": "Genel"
+  },
+  {
+    "english": "condition",
+    "turkish": "condition",
+    "category": "Genel"
+  },
+  {
+    "english": "conference",
+    "turkish": "conference",
+    "category": "Genel"
+  },
+  {
+    "english": "confirm",
+    "turkish": "confirm",
+    "category": "Genel"
+  },
+  {
+    "english": "connect",
+    "turkish": "connect",
+    "category": "Genel"
+  },
+  {
+    "english": "consider",
+    "turkish": "consider",
+    "category": "Genel"
+  },
+  {
+    "english": "consonant",
+    "turkish": "consonant",
+    "category": "Genel"
+  },
+  {
+    "english": "contact",
+    "turkish": "contact",
+    "category": "Genel"
+  },
+  {
+    "english": "contain",
+    "turkish": "contain",
+    "category": "Genel"
+  },
+  {
+    "english": "contents",
+    "turkish": "contents",
+    "category": "Genel"
+  },
+  {
+    "english": "contest",
+    "turkish": "contest",
+    "category": "Genel"
+  },
+  {
+    "english": "continent",
+    "turkish": "continent",
+    "category": "Genel"
+  },
+  {
+    "english": "continue",
+    "turkish": "continue",
+    "category": "Genel"
+  },
+  {
+    "english": "control",
+    "turkish": "control",
+    "category": "Genel"
+  },
+  {
+    "english": "convenient",
+    "turkish": "convenient",
+    "category": "Genel"
+  },
+  {
+    "english": "conversation",
+    "turkish": "conversation",
+    "category": "Genel"
+  },
+  {
+    "english": "convince",
+    "turkish": "convince",
+    "category": "Genel"
+  },
+  {
+    "english": "cookie",
+    "turkish": "cookie",
+    "category": "Genel"
+  },
+  {
+    "english": "cool",
+    "turkish": "serin",
+    "category": "Genel"
+  },
+  {
+    "english": "corner",
+    "turkish": "corner",
+    "category": "Genel"
+  },
+  {
+    "english": "correct",
+    "turkish": "doğru",
+    "category": "Genel"
+  },
+  {
+    "english": "correction",
+    "turkish": "correction",
+    "category": "Genel"
+  },
+  {
+    "english": "cosy",
+    "turkish": "cosy",
+    "category": "Genel"
+  },
+  {
+    "english": "could",
+    "turkish": "could",
+    "category": "Genel"
+  },
+  {
+    "english": "count",
+    "turkish": "count",
+    "category": "Genel"
+  },
+  {
+    "english": "country",
+    "turkish": "country",
+    "category": "Genel"
+  },
+  {
+    "english": "couple",
+    "turkish": "couple",
+    "category": "Genel"
+  },
+  {
+    "english": "courage",
+    "turkish": "courage",
+    "category": "Genel"
+  },
+  {
+    "english": "cover",
+    "turkish": "cover",
+    "category": "Genel"
+  },
+  {
+    "english": "crazy",
+    "turkish": "çılgın",
+    "category": "Genel"
+  },
+  {
+    "english": "create",
+    "turkish": "create",
+    "category": "Genel"
+  },
+  {
+    "english": "creative",
+    "turkish": "creative",
+    "category": "Genel"
+  },
+  {
+    "english": "creature",
+    "turkish": "creature",
+    "category": "Genel"
+  },
+  {
+    "english": "crime",
+    "turkish": "crime",
+    "category": "Genel"
+  },
+  {
+    "english": "criminal",
+    "turkish": "criminal",
+    "category": "Genel"
+  },
+  {
+    "english": "crop",
+    "turkish": "crop",
+    "category": "Genel"
+  },
+  {
+    "english": "cross",
+    "turkish": "cross",
+    "category": "Genel"
+  },
+  {
+    "english": "cross out",
+    "turkish": "cross out",
+    "category": "Genel"
+  },
+  {
+    "english": "crossroads",
+    "turkish": "crossroads",
+    "category": "Genel"
+  },
+  {
+    "english": "crowd",
+    "turkish": "crowd",
+    "category": "Genel"
+  },
+  {
+    "english": "crowded",
+    "turkish": "crowded",
+    "category": "Genel"
+  },
+  {
+    "english": "cry",
+    "turkish": "cry",
+    "category": "Genel"
+  },
+  {
+    "english": "curly",
+    "turkish": "curly",
+    "category": "Genel"
+  },
+  {
+    "english": "custom",
+    "turkish": "custom",
+    "category": "Genel"
+  },
+  {
+    "english": "customs",
+    "turkish": "customs",
+    "category": "Genel"
+  },
+  {
+    "english": "cut",
+    "turkish": "cut",
+    "category": "Genel"
+  },
+  {
+    "english": "cut up",
+    "turkish": "cut up",
+    "category": "Genel"
+  },
+  {
+    "english": "cute",
+    "turkish": "cute",
+    "category": "Genel"
+  },
+  {
+    "english": "cv",
+    "turkish": "cv",
+    "category": "Genel"
+  },
+  {
+    "english": "daily",
+    "turkish": "daily",
+    "category": "Genel"
+  },
+  {
+    "english": "damage",
+    "turkish": "damage",
+    "category": "Genel"
+  },
+  {
+    "english": "damaged",
+    "turkish": "damaged",
+    "category": "Genel"
+  },
+  {
+    "english": "dancer",
+    "turkish": "dancer",
+    "category": "Genel"
+  },
+  {
+    "english": "dancing",
+    "turkish": "dancing",
+    "category": "Genel"
+  },
+  {
+    "english": "danger",
+    "turkish": "danger",
+    "category": "Genel"
+  },
+  {
+    "english": "dangerous",
+    "turkish": "tehlikeli",
+    "category": "Genel"
+  },
+  {
+    "english": "dead",
+    "turkish": "ölü",
+    "category": "Genel"
+  },
+  {
+    "english": "deal",
+    "turkish": "deal",
+    "category": "Genel"
+  },
+  {
+    "english": "deal with",
+    "turkish": "deal with",
+    "category": "Genel"
+  },
+  {
+    "english": "dear",
+    "turkish": "dear",
+    "category": "Genel"
+  },
+  {
+    "english": "death",
+    "turkish": "death",
+    "category": "Genel"
+  },
+  {
+    "english": "decide",
+    "turkish": "decide",
+    "category": "Genel"
+  },
+  {
+    "english": "decision",
+    "turkish": "decision",
+    "category": "Genel"
+  },
+  {
+    "english": "declare",
+    "turkish": "declare",
+    "category": "Genel"
+  },
+  {
+    "english": "decorate",
+    "turkish": "decorate",
+    "category": "Genel"
+  },
+  {
+    "english": "decrease",
+    "turkish": "decrease",
+    "category": "Genel"
+  },
+  {
+    "english": "deep",
+    "turkish": "derin",
+    "category": "Genel"
+  },
+  {
+    "english": "defence",
+    "turkish": "defence",
+    "category": "Genel"
+  },
+  {
+    "english": "defend",
+    "turkish": "defend",
+    "category": "Genel"
+  },
+  {
+    "english": "definitely",
+    "turkish": "definitely",
+    "category": "Genel"
+  },
+  {
+    "english": "delay",
+    "turkish": "delay",
+    "category": "Genel"
+  },
+  {
+    "english": "delete",
+    "turkish": "delete",
+    "category": "Genel"
+  },
+  {
+    "english": "delicious",
+    "turkish": "lezzetli",
+    "category": "Genel"
+  },
+  {
+    "english": "deliver",
+    "turkish": "deliver",
+    "category": "Genel"
+  },
+  {
+    "english": "delivery",
+    "turkish": "delivery",
+    "category": "Genel"
+  },
+  {
+    "english": "demand",
+    "turkish": "demand",
+    "category": "Genel"
+  },
+  {
+    "english": "depart",
+    "turkish": "depart",
+    "category": "Genel"
+  },
+  {
+    "english": "department",
+    "turkish": "department",
+    "category": "Genel"
+  },
+  {
+    "english": "departure",
+    "turkish": "departure",
+    "category": "Genel"
+  },
+  {
+    "english": "depend",
+    "turkish": "depend",
+    "category": "Genel"
+  },
+  {
+    "english": "deposit",
+    "turkish": "deposit",
+    "category": "Genel"
+  },
+  {
+    "english": "depth",
+    "turkish": "depth",
+    "category": "Genel"
+  },
+  {
+    "english": "describe",
+    "turkish": "describe",
+    "category": "Genel"
+  },
+  {
+    "english": "description",
+    "turkish": "description",
+    "category": "Genel"
+  },
+  {
+    "english": "deserve",
+    "turkish": "deserve",
+    "category": "Genel"
+  },
+  {
+    "english": "design",
+    "turkish": "design",
+    "category": "Genel"
+  },
+  {
+    "english": "desk",
+    "turkish": "desk",
+    "category": "Genel"
+  },
+  {
+    "english": "despite",
+    "turkish": "despite",
+    "category": "Genel"
+  },
+  {
+    "english": "destination",
+    "turkish": "destination",
+    "category": "Genel"
+  },
+  {
+    "english": "destroy",
+    "turkish": "destroy",
+    "category": "Genel"
+  },
+  {
+    "english": "detail",
+    "turkish": "detail",
+    "category": "Genel"
+  },
+  {
+    "english": "develop",
+    "turkish": "develop",
+    "category": "Genel"
+  },
+  {
+    "english": "development",
+    "turkish": "development",
+    "category": "Genel"
+  },
+  {
+    "english": "diagram",
+    "turkish": "diagram",
+    "category": "Genel"
+  },
+  {
+    "english": "dial",
+    "turkish": "dial",
+    "category": "Genel"
+  },
+  {
+    "english": "diary",
+    "turkish": "diary",
+    "category": "Genel"
+  },
+  {
+    "english": "die",
+    "turkish": "die",
+    "category": "Genel"
+  },
+  {
+    "english": "difference",
+    "turkish": "difference",
+    "category": "Genel"
+  },
+  {
+    "english": "different",
+    "turkish": "farklı",
+    "category": "Genel"
+  },
+  {
+    "english": "difficult",
+    "turkish": "zor",
+    "category": "Genel"
+  },
+  {
+    "english": "difficulty",
+    "turkish": "difficulty",
+    "category": "Genel"
+  },
+  {
+    "english": "dig",
+    "turkish": "dig",
+    "category": "Genel"
+  },
+  {
+    "english": "dinosaur",
+    "turkish": "dinosaur",
+    "category": "Genel"
+  },
+  {
+    "english": "diploma",
+    "turkish": "diploma",
+    "category": "Genel"
+  },
+  {
+    "english": "direct",
+    "turkish": "direct",
+    "category": "Genel"
+  },
+  {
+    "english": "direction",
+    "turkish": "direction",
+    "category": "Genel"
+  },
+  {
+    "english": "directly",
+    "turkish": "directly",
+    "category": "Genel"
+  },
+  {
+    "english": "dirt",
+    "turkish": "dirt",
+    "category": "Genel"
+  },
+  {
+    "english": "dirty",
+    "turkish": "kirli",
+    "category": "Genel"
+  },
+  {
+    "english": "disabled",
+    "turkish": "disabled",
+    "category": "Genel"
+  },
+  {
+    "english": "disadvantage",
+    "turkish": "disadvantage",
+    "category": "Genel"
+  },
+  {
+    "english": "disagree",
+    "turkish": "disagree",
+    "category": "Genel"
+  },
+  {
+    "english": "disappear",
+    "turkish": "disappear",
+    "category": "Genel"
+  },
+  {
+    "english": "disappoint",
+    "turkish": "disappoint",
+    "category": "Genel"
+  },
+  {
+    "english": "disc jockey",
+    "turkish": "disc jockey",
+    "category": "Genel"
+  },
+  {
+    "english": "disc/disk",
+    "turkish": "disc/disk",
+    "category": "Genel"
+  },
+  {
+    "english": "disco",
+    "turkish": "disco",
+    "category": "Genel"
+  },
+  {
+    "english": "discover",
+    "turkish": "discover",
+    "category": "Genel"
+  },
+  {
+    "english": "discuss",
+    "turkish": "discuss",
+    "category": "Genel"
+  },
+  {
+    "english": "discussion",
+    "turkish": "discussion",
+    "category": "Genel"
+  },
+  {
+    "english": "disease",
+    "turkish": "disease",
+    "category": "Genel"
+  },
+  {
+    "english": "dislike",
+    "turkish": "dislike",
+    "category": "Genel"
+  },
+  {
+    "english": "display",
+    "turkish": "display",
+    "category": "Genel"
+  },
+  {
+    "english": "distance",
+    "turkish": "distance",
+    "category": "Genel"
+  },
+  {
+    "english": "district",
+    "turkish": "district",
+    "category": "Genel"
+  },
+  {
+    "english": "disturb",
+    "turkish": "disturb",
+    "category": "Genel"
+  },
+  {
+    "english": "divide",
+    "turkish": "divide",
+    "category": "Genel"
+  },
+  {
+    "english": "dj",
+    "turkish": "dj",
+    "category": "Genel"
+  },
+  {
+    "english": "do",
+    "turkish": "do",
+    "category": "Genel"
+  },
+  {
+    "english": "doll",
+    "turkish": "doll",
+    "category": "Genel"
+  },
+  {
+    "english": "dot",
+    "turkish": "dot",
+    "category": "Genel"
+  },
+  {
+    "english": "double",
+    "turkish": "double",
+    "category": "Genel"
+  },
+  {
+    "english": "doubt",
+    "turkish": "doubt",
+    "category": "Genel"
+  },
+  {
+    "english": "down",
+    "turkish": "aşağı",
+    "category": "Genel"
+  },
+  {
+    "english": "dozen",
+    "turkish": "dozen",
+    "category": "Genel"
+  },
+  {
+    "english": "dr",
+    "turkish": "dr",
+    "category": "Genel"
+  },
+  {
+    "english": "drag",
+    "turkish": "drag",
+    "category": "Genel"
+  },
+  {
+    "english": "drama",
+    "turkish": "drama",
+    "category": "Genel"
+  },
+  {
+    "english": "dream",
+    "turkish": "dream",
+    "category": "Genel"
+  },
+  {
+    "english": "drop",
+    "turkish": "drop",
+    "category": "Genel"
+  },
+  {
+    "english": "drugstore",
+    "turkish": "drugstore",
+    "category": "Genel"
+  },
+  {
+    "english": "dry",
+    "turkish": "dry",
+    "category": "Genel"
+  },
+  {
+    "english": "due",
+    "turkish": "due",
+    "category": "Genel"
+  },
+  {
+    "english": "due to",
+    "turkish": "due to",
+    "category": "Genel"
+  },
+  {
+    "english": "dull",
+    "turkish": "dull",
+    "category": "Genel"
+  },
+  {
+    "english": "during",
+    "turkish": "during",
+    "category": "Genel"
+  },
+  {
+    "english": "duty",
+    "turkish": "duty",
+    "category": "Genel"
+  },
+  {
+    "english": "duty-free",
+    "turkish": "duty-free",
+    "category": "Genel"
+  },
+  {
+    "english": "each",
+    "turkish": "each",
+    "category": "Genel"
+  },
+  {
+    "english": "earn",
+    "turkish": "earn",
+    "category": "Genel"
+  },
+  {
+    "english": "easily",
+    "turkish": "easily",
+    "category": "Genel"
+  },
+  {
+    "english": "easy",
+    "turkish": "kolay",
+    "category": "Genel"
+  },
+  {
+    "english": "easygoing",
+    "turkish": "easygoing",
+    "category": "Genel"
+  },
+  {
+    "english": "eat",
+    "turkish": "eat",
+    "category": "Genel"
+  },
+  {
+    "english": "edge",
+    "turkish": "edge",
+    "category": "Genel"
+  },
+  {
+    "english": "effect",
+    "turkish": "effect",
+    "category": "Genel"
+  },
+  {
+    "english": "efficient",
+    "turkish": "efficient",
+    "category": "Genel"
+  },
+  {
+    "english": "effort",
+    "turkish": "effort",
+    "category": "Genel"
+  },
+  {
+    "english": "either",
+    "turkish": "either",
+    "category": "Genel"
+  },
+  {
+    "english": "election",
+    "turkish": "election",
+    "category": "Genel"
+  },
+  {
+    "english": "electric",
+    "turkish": "elektrikli",
+    "category": "Genel"
+  },
+  {
+    "english": "elevator",
+    "turkish": "elevator",
+    "category": "Genel"
+  },
+  {
+    "english": "else",
+    "turkish": "else",
+    "category": "Genel"
+  },
+  {
+    "english": "embassy",
+    "turkish": "embassy",
+    "category": "Genel"
+  },
+  {
+    "english": "emergency",
+    "turkish": "emergency",
+    "category": "Genel"
+  },
+  {
+    "english": "employ",
+    "turkish": "employ",
+    "category": "Genel"
+  },
+  {
+    "english": "empty",
+    "turkish": "boş",
+    "category": "Genel"
+  },
+  {
+    "english": "encourage",
+    "turkish": "encourage",
+    "category": "Genel"
+  },
+  {
+    "english": "end",
+    "turkish": "end",
+    "category": "Genel"
+  },
+  {
+    "english": "end up",
+    "turkish": "end up",
+    "category": "Genel"
+  },
+  {
+    "english": "ending",
+    "turkish": "ending",
+    "category": "Genel"
+  },
+  {
+    "english": "enemy",
+    "turkish": "enemy",
+    "category": "Genel"
+  },
+  {
+    "english": "energy",
+    "turkish": "energy",
+    "category": "Genel"
+  },
+  {
+    "english": "enjoy",
+    "turkish": "enjoy",
+    "category": "Genel"
+  },
+  {
+    "english": "enormous",
+    "turkish": "büyük",
+    "category": "Genel"
+  },
+  {
+    "english": "enough",
+    "turkish": "enough",
+    "category": "Genel"
+  },
+  {
+    "english": "enquiry",
+    "turkish": "enquiry",
+    "category": "Genel"
+  },
+  {
+    "english": "enter",
+    "turkish": "enter",
+    "category": "Genel"
+  },
+  {
+    "english": "entertain",
+    "turkish": "entertain",
+    "category": "Genel"
+  },
+  {
+    "english": "entertainment",
+    "turkish": "entertainment",
+    "category": "Genel"
+  },
+  {
+    "english": "entry",
+    "turkish": "entry",
+    "category": "Genel"
+  },
+  {
+    "english": "envelope",
+    "turkish": "envelope",
+    "category": "Genel"
+  },
+  {
+    "english": "equal",
+    "turkish": "equal",
+    "category": "Genel"
+  },
+  {
+    "english": "equipment",
+    "turkish": "equipment",
+    "category": "Genel"
+  },
+  {
+    "english": "especially",
+    "turkish": "especially",
+    "category": "Genel"
+  },
+  {
+    "english": "essential",
+    "turkish": "essential",
+    "category": "Genel"
+  },
+  {
+    "english": "even",
+    "turkish": "bile",
+    "category": "Genel"
+  },
+  {
+    "english": "event",
+    "turkish": "event",
+    "category": "Genel"
+  },
+  {
+    "english": "ever",
+    "turkish": "ever",
+    "category": "Genel"
+  },
+  {
+    "english": "every",
+    "turkish": "every",
+    "category": "Genel"
+  },
+  {
+    "english": "everybody",
+    "turkish": "everybody",
+    "category": "Genel"
+  },
+  {
+    "english": "everyone",
+    "turkish": "everyone",
+    "category": "Genel"
+  },
+  {
+    "english": "everything",
+    "turkish": "everything",
+    "category": "Genel"
+  },
+  {
+    "english": "everywhere",
+    "turkish": "her yerde",
+    "category": "Genel"
+  },
+  {
+    "english": "exact",
+    "turkish": "exact",
+    "category": "Genel"
+  },
+  {
+    "english": "exactly",
+    "turkish": "exactly",
+    "category": "Genel"
+  },
+  {
+    "english": "examination/exam",
+    "turkish": "examination/exam",
+    "category": "Genel"
+  },
+  {
+    "english": "excellent",
+    "turkish": "mükemmel",
+    "category": "Genel"
+  },
+  {
+    "english": "except",
+    "turkish": "except",
+    "category": "Genel"
+  },
+  {
+    "english": "excuse",
+    "turkish": "excuse",
+    "category": "Genel"
+  },
+  {
+    "english": "exhibition",
+    "turkish": "exhibition",
+    "category": "Genel"
+  },
+  {
+    "english": "exist",
+    "turkish": "exist",
+    "category": "Genel"
+  },
+  {
+    "english": "exit",
+    "turkish": "exit",
+    "category": "Genel"
+  },
+  {
+    "english": "expect",
+    "turkish": "expect",
+    "category": "Genel"
+  },
+  {
+    "english": "expedition",
+    "turkish": "expedition",
+    "category": "Genel"
+  },
+  {
+    "english": "experienced",
+    "turkish": "experienced",
+    "category": "Genel"
+  },
+  {
+    "english": "experiment",
+    "turkish": "experiment",
+    "category": "Genel"
+  },
+  {
+    "english": "expert",
+    "turkish": "expert",
+    "category": "Genel"
+  },
+  {
+    "english": "explode",
+    "turkish": "explode",
+    "category": "Genel"
+  },
+  {
+    "english": "explore",
+    "turkish": "explore",
+    "category": "Genel"
+  },
+  {
+    "english": "extra",
+    "turkish": "extra",
+    "category": "Genel"
+  },
+  {
+    "english": "extraordinary",
+    "turkish": "extraordinary",
+    "category": "Genel"
+  },
+  {
+    "english": "extremely",
+    "turkish": "extremely",
+    "category": "Genel"
+  },
+  {
+    "english": "face to face",
+    "turkish": "face to face",
+    "category": "Genel"
+  },
+  {
+    "english": "face-to-face",
+    "turkish": "face-to-face",
+    "category": "Genel"
+  },
+  {
+    "english": "fact",
+    "turkish": "fact",
+    "category": "Genel"
+  },
+  {
+    "english": "factory",
+    "turkish": "factory",
+    "category": "Genel"
+  },
+  {
+    "english": "fail",
+    "turkish": "fail",
+    "category": "Genel"
+  },
+  {
+    "english": "fair",
+    "turkish": "adil",
+    "category": "Genel"
+  },
+  {
+    "english": "fairly",
+    "turkish": "fairly",
+    "category": "Genel"
+  },
+  {
+    "english": "fall",
+    "turkish": "fall",
+    "category": "Genel"
+  },
+  {
+    "english": "false",
+    "turkish": "false",
+    "category": "Genel"
+  },
+  {
+    "english": "familiar",
+    "turkish": "tanıdık",
+    "category": "Genel"
+  },
+  {
+    "english": "famous",
+    "turkish": "ünlü",
+    "category": "Genel"
+  },
+  {
+    "english": "fancy",
+    "turkish": "fancy",
+    "category": "Genel"
+  },
+  {
+    "english": "fantastic",
+    "turkish": "fantastic",
+    "category": "Genel"
+  },
+  {
+    "english": "far",
+    "turkish": "uzak",
+    "category": "Genel"
+  },
+  {
+    "english": "farm",
+    "turkish": "farm",
+    "category": "Genel"
+  },
+  {
+    "english": "fast food",
+    "turkish": "fast food",
+    "category": "Genel"
+  },
+  {
+    "english": "fasten",
+    "turkish": "fasten",
+    "category": "Genel"
+  },
+  {
+    "english": "fat",
+    "turkish": "şişman",
+    "category": "Genel"
+  },
+  {
+    "english": "fault",
+    "turkish": "fault",
+    "category": "Genel"
+  },
+  {
+    "english": "favour",
+    "turkish": "favour",
+    "category": "Genel"
+  },
+  {
+    "english": "favourite",
+    "turkish": "favourite",
+    "category": "Genel"
+  },
+  {
+    "english": "fax",
+    "turkish": "fax",
+    "category": "Genel"
+  },
+  {
+    "english": "feed",
+    "turkish": "feed",
+    "category": "Genel"
+  },
+  {
+    "english": "feel like",
+    "turkish": "feel like",
+    "category": "Genel"
+  },
+  {
+    "english": "female",
+    "turkish": "female",
+    "category": "Genel"
+  },
+  {
+    "english": "festival",
+    "turkish": "festival",
+    "category": "Genel"
+  },
+  {
+    "english": "fetch",
+    "turkish": "fetch",
+    "category": "Genel"
+  },
+  {
+    "english": "few",
+    "turkish": "few",
+    "category": "Genel"
+  },
+  {
+    "english": "fiction",
+    "turkish": "fiction",
+    "category": "Genel"
+  },
+  {
+    "english": "figure",
+    "turkish": "figure",
+    "category": "Genel"
+  },
+  {
+    "english": "fill",
+    "turkish": "fill",
+    "category": "Genel"
+  },
+  {
+    "english": "fill in",
+    "turkish": "fill in",
+    "category": "Genel"
+  },
+  {
+    "english": "fill up",
+    "turkish": "fill up",
+    "category": "Genel"
+  },
+  {
+    "english": "film",
+    "turkish": "film",
+    "category": "Genel"
+  },
+  {
+    "english": "film maker",
+    "turkish": "film maker",
+    "category": "Genel"
+  },
+  {
+    "english": "finally",
+    "turkish": "finally",
+    "category": "Genel"
+  },
+  {
+    "english": "financial",
+    "turkish": "financial",
+    "category": "Genel"
+  },
+  {
+    "english": "find",
+    "turkish": "find",
+    "category": "Genel"
+  },
+  {
+    "english": "find out",
+    "turkish": "find out",
+    "category": "Genel"
+  },
+  {
+    "english": "fine",
+    "turkish": "iyi",
+    "category": "Genel"
+  },
+  {
+    "english": "finish",
+    "turkish": "finish",
+    "category": "Genel"
+  },
+  {
+    "english": "fire",
+    "turkish": "fire",
+    "category": "Genel"
+  },
+  {
+    "english": "firework",
+    "turkish": "firework",
+    "category": "Genel"
+  },
+  {
+    "english": "firm",
+    "turkish": "firm",
+    "category": "Genel"
+  },
+  {
+    "english": "first name",
+    "turkish": "first name",
+    "category": "Genel"
+  },
+  {
+    "english": "fishing",
+    "turkish": "fishing",
+    "category": "Genel"
+  },
+  {
+    "english": "fix",
+    "turkish": "fix",
+    "category": "Genel"
+  },
+  {
+    "english": "flag",
+    "turkish": "flag",
+    "category": "Genel"
+  },
+  {
+    "english": "flat",
+    "turkish": "düz",
+    "category": "Genel"
+  },
+  {
+    "english": "flavour",
+    "turkish": "flavour",
+    "category": "Genel"
+  },
+  {
+    "english": "float",
+    "turkish": "float",
+    "category": "Genel"
+  },
+  {
+    "english": "fly",
+    "turkish": "fly",
+    "category": "Genel"
+  },
+  {
+    "english": "fold",
+    "turkish": "fold",
+    "category": "Genel"
+  },
+  {
+    "english": "follow",
+    "turkish": "follow",
+    "category": "Genel"
+  },
+  {
+    "english": "following",
+    "turkish": "following",
+    "category": "Genel"
+  },
+  {
+    "english": "fond",
+    "turkish": "fond",
+    "category": "Genel"
+  },
+  {
+    "english": "fool",
+    "turkish": "fool",
+    "category": "Genel"
+  },
+  {
+    "english": "footballer",
+    "turkish": "footballer",
+    "category": "Genel"
+  },
+  {
+    "english": "forbidden",
+    "turkish": "forbidden",
+    "category": "Genel"
+  },
+  {
+    "english": "forecast",
+    "turkish": "forecast",
+    "category": "Genel"
+  },
+  {
+    "english": "foreign",
+    "turkish": "yabancı",
+    "category": "Genel"
+  },
+  {
+    "english": "foreigner",
+    "turkish": "foreigner",
+    "category": "Genel"
+  },
+  {
+    "english": "forever",
+    "turkish": "forever",
+    "category": "Genel"
+  },
+  {
+    "english": "forget",
+    "turkish": "forget",
+    "category": "Genel"
+  },
+  {
+    "english": "forgive",
+    "turkish": "forgive",
+    "category": "Genel"
+  },
+  {
+    "english": "form",
+    "turkish": "form",
+    "category": "Genel"
+  },
+  {
+    "english": "former",
+    "turkish": "former",
+    "category": "Genel"
+  },
+  {
+    "english": "fortnight",
+    "turkish": "fortnight",
+    "category": "Genel"
+  },
+  {
+    "english": "fortunately",
+    "turkish": "fortunately",
+    "category": "Genel"
+  },
+  {
+    "english": "forward",
+    "turkish": "forward",
+    "category": "Genel"
+  },
+  {
+    "english": "freeze",
+    "turkish": "freeze",
+    "category": "Genel"
+  },
+  {
+    "english": "french fries",
+    "turkish": "french fries",
+    "category": "Genel"
+  },
+  {
+    "english": "frequent",
+    "turkish": "frequent",
+    "category": "Genel"
+  },
+  {
+    "english": "fresh",
+    "turkish": "taze",
+    "category": "Genel"
+  },
+  {
+    "english": "friend",
+    "turkish": "friend",
+    "category": "Genel"
+  },
+  {
+    "english": "friendly",
+    "turkish": "dost canlısı",
+    "category": "Genel"
+  },
+  {
+    "english": "friendship",
+    "turkish": "friendship",
+    "category": "Genel"
+  },
+  {
+    "english": "frighten",
+    "turkish": "frighten",
+    "category": "Genel"
+  },
+  {
+    "english": "full",
+    "turkish": "dolu",
+    "category": "Genel"
+  },
+  {
+    "english": "full stop",
+    "turkish": "full stop",
+    "category": "Genel"
+  },
+  {
+    "english": "full time",
+    "turkish": "full time",
+    "category": "Genel"
+  },
+  {
+    "english": "full-time",
+    "turkish": "full-time",
+    "category": "Genel"
+  },
+  {
+    "english": "fully",
+    "turkish": "fully",
+    "category": "Genel"
+  },
+  {
+    "english": "fun",
+    "turkish": "fun",
+    "category": "Genel"
+  },
+  {
+    "english": "funny",
+    "turkish": "komik",
+    "category": "Genel"
+  },
+  {
+    "english": "further",
+    "turkish": "further",
+    "category": "Genel"
+  },
+  {
+    "english": "furthest",
+    "turkish": "furthest",
+    "category": "Genel"
+  },
+  {
+    "english": "future",
+    "turkish": "future",
+    "category": "Genel"
+  },
+  {
+    "english": "gain",
+    "turkish": "gain",
+    "category": "Genel"
+  },
+  {
+    "english": "gap",
+    "turkish": "gap",
+    "category": "Genel"
+  },
+  {
+    "english": "general",
+    "turkish": "general",
+    "category": "Genel"
+  },
+  {
+    "english": "generally",
+    "turkish": "generally",
+    "category": "Genel"
+  },
+  {
+    "english": "generation",
+    "turkish": "generation",
+    "category": "Genel"
+  },
+  {
+    "english": "get",
+    "turkish": "get",
+    "category": "Genel"
+  },
+  {
+    "english": "get along",
+    "turkish": "get along",
+    "category": "Genel"
+  },
+  {
+    "english": "get back",
+    "turkish": "get back",
+    "category": "Genel"
+  },
+  {
+    "english": "get down",
+    "turkish": "get down",
+    "category": "Genel"
+  },
+  {
+    "english": "get fit",
+    "turkish": "get fit",
+    "category": "Genel"
+  },
+  {
+    "english": "get in",
+    "turkish": "get in",
+    "category": "Genel"
+  },
+  {
+    "english": "get off",
+    "turkish": "get off",
+    "category": "Genel"
+  },
+  {
+    "english": "get on",
+    "turkish": "get on",
+    "category": "Genel"
+  },
+  {
+    "english": "get on with",
+    "turkish": "get on with",
+    "category": "Genel"
+  },
+  {
+    "english": "get rid of",
+    "turkish": "get rid of",
+    "category": "Genel"
+  },
+  {
+    "english": "get up",
+    "turkish": "get up",
+    "category": "Genel"
+  },
+  {
+    "english": "giant",
+    "turkish": "giant",
+    "category": "Genel"
+  },
+  {
+    "english": "gift",
+    "turkish": "gift",
+    "category": "Genel"
+  },
+  {
+    "english": "girl",
+    "turkish": "girl",
+    "category": "Genel"
+  },
+  {
+    "english": "girlfriend",
+    "turkish": "girlfriend",
+    "category": "Genel"
+  },
+  {
+    "english": "give",
+    "turkish": "give",
+    "category": "Genel"
+  },
+  {
+    "english": "give back",
+    "turkish": "give back",
+    "category": "Genel"
+  },
+  {
+    "english": "give in",
+    "turkish": "give in",
+    "category": "Genel"
+  },
+  {
+    "english": "give out",
+    "turkish": "give out",
+    "category": "Genel"
+  },
+  {
+    "english": "give up",
+    "turkish": "give up",
+    "category": "Genel"
+  },
+  {
+    "english": "give way",
+    "turkish": "give way",
+    "category": "Genel"
+  },
+  {
+    "english": "glance",
+    "turkish": "glance",
+    "category": "Genel"
+  },
+  {
+    "english": "glass",
+    "turkish": "glass",
+    "category": "Genel"
+  },
+  {
+    "english": "glasses",
+    "turkish": "glasses",
+    "category": "Genel"
+  },
+  {
+    "english": "go",
+    "turkish": "go",
+    "category": "Genel"
+  },
+  {
+    "english": "go for",
+    "turkish": "go for",
+    "category": "Genel"
+  },
+  {
+    "english": "go off",
+    "turkish": "go off",
+    "category": "Genel"
+  },
+  {
+    "english": "go on",
+    "turkish": "go on",
+    "category": "Genel"
+  },
+  {
+    "english": "go with",
+    "turkish": "go with",
+    "category": "Genel"
+  },
+  {
+    "english": "gold",
+    "turkish": "gold",
+    "category": "Genel"
+  },
+  {
+    "english": "good afternoon",
+    "turkish": "good afternoon",
+    "category": "Genel"
+  },
+  {
+    "english": "good morning",
+    "turkish": "good morning",
+    "category": "Genel"
+  },
+  {
+    "english": "government",
+    "turkish": "government",
+    "category": "Genel"
+  },
+  {
+    "english": "grab",
+    "turkish": "grab",
+    "category": "Genel"
+  },
+  {
+    "english": "gram",
+    "turkish": "gram",
+    "category": "Genel"
+  },
+  {
+    "english": "grand",
+    "turkish": "grand",
+    "category": "Genel"
+  },
+  {
+    "english": "grant",
+    "turkish": "grant",
+    "category": "Genel"
+  },
+  {
+    "english": "grape",
+    "turkish": "grape",
+    "category": "Genel"
+  },
+  {
+    "english": "graphics",
+    "turkish": "graphics",
+    "category": "Genel"
+  },
+  {
+    "english": "great",
+    "turkish": "harika",
+    "category": "Genel"
+  },
+  {
+    "english": "greet",
+    "turkish": "greet",
+    "category": "Genel"
+  },
+  {
+    "english": "greeting",
+    "turkish": "greeting",
+    "category": "Genel"
+  },
+  {
+    "english": "group",
+    "turkish": "group",
+    "category": "Genel"
+  },
+  {
+    "english": "grow",
+    "turkish": "grow",
+    "category": "Genel"
+  },
+  {
+    "english": "grow up",
+    "turkish": "grow up",
+    "category": "Genel"
+  },
+  {
+    "english": "guess",
+    "turkish": "guess",
+    "category": "Genel"
+  },
+  {
+    "english": "guest",
+    "turkish": "guest",
+    "category": "Genel"
+  },
+  {
+    "english": "guide",
+    "turkish": "guide",
+    "category": "Genel"
+  },
+  {
+    "english": "guidebook",
+    "turkish": "guidebook",
+    "category": "Genel"
+  },
+  {
+    "english": "guilty",
+    "turkish": "guilty",
+    "category": "Genel"
+  },
+  {
+    "english": "gum",
+    "turkish": "gum",
+    "category": "Genel"
+  },
+  {
+    "english": "gun",
+    "turkish": "gun",
+    "category": "Genel"
+  },
+  {
+    "english": "guy",
+    "turkish": "guy",
+    "category": "Genel"
+  },
+  {
+    "english": "habit",
+    "turkish": "habit",
+    "category": "Genel"
+  },
+  {
+    "english": "haircut",
+    "turkish": "haircut",
+    "category": "Genel"
+  },
+  {
+    "english": "hairdryer",
+    "turkish": "hairdryer",
+    "category": "Genel"
+  },
+  {
+    "english": "half",
+    "turkish": "half",
+    "category": "Genel"
+  },
+  {
+    "english": "hand in",
+    "turkish": "hand in",
+    "category": "Genel"
+  },
+  {
+    "english": "hand out",
+    "turkish": "hand out",
+    "category": "Genel"
+  },
+  {
+    "english": "hand-held",
+    "turkish": "hand-held",
+    "category": "Genel"
+  },
+  {
+    "english": "handle",
+    "turkish": "handle",
+    "category": "Genel"
+  },
+  {
+    "english": "hang",
+    "turkish": "hang",
+    "category": "Genel"
+  },
+  {
+    "english": "hang out",
+    "turkish": "hang out",
+    "category": "Genel"
+  },
+  {
+    "english": "hang up",
+    "turkish": "hang up",
+    "category": "Genel"
+  },
+  {
+    "english": "happen",
+    "turkish": "happen",
+    "category": "Genel"
+  },
+  {
+    "english": "happily",
+    "turkish": "happily",
+    "category": "Genel"
+  },
+  {
+    "english": "hard",
+    "turkish": "zor",
+    "category": "Genel"
+  },
+  {
+    "english": "hardly",
+    "turkish": "hardly",
+    "category": "Genel"
+  },
+  {
+    "english": "hate",
+    "turkish": "hate",
+    "category": "Genel"
+  },
+  {
+    "english": "have",
+    "turkish": "have",
+    "category": "Genel"
+  },
+  {
+    "english": "have got to",
+    "turkish": "have got to",
+    "category": "Genel"
+  },
+  {
+    "english": "have to",
+    "turkish": "have to",
+    "category": "Genel"
+  },
+  {
+    "english": "he",
+    "turkish": "he",
+    "category": "Genel"
+  },
+  {
+    "english": "headline",
+    "turkish": "headline",
+    "category": "Genel"
+  },
+  {
+    "english": "hear",
+    "turkish": "hear",
+    "category": "Genel"
+  },
+  {
+    "english": "heat",
+    "turkish": "heat",
+    "category": "Genel"
+  },
+  {
+    "english": "heavy",
+    "turkish": "ağır",
+    "category": "Genel"
+  },
+  {
+    "english": "height",
+    "turkish": "height",
+    "category": "Genel"
+  },
+  {
+    "english": "hello",
+    "turkish": "hello",
+    "category": "Genel"
+  },
+  {
+    "english": "helmet",
+    "turkish": "helmet",
+    "category": "Genel"
+  },
+  {
+    "english": "help",
+    "turkish": "help",
+    "category": "Genel"
+  },
+  {
+    "english": "her",
+    "turkish": "her",
+    "category": "Genel"
+  },
+  {
+    "english": "herb",
+    "turkish": "herb",
+    "category": "Genel"
+  },
+  {
+    "english": "here",
+    "turkish": "burada",
+    "category": "Genel"
+  },
+  {
+    "english": "hero",
+    "turkish": "hero",
+    "category": "Genel"
+  },
+  {
+    "english": "heroine",
+    "turkish": "heroine",
+    "category": "Genel"
+  },
+  {
+    "english": "hers",
+    "turkish": "hers",
+    "category": "Genel"
+  },
+  {
+    "english": "herself",
+    "turkish": "herself",
+    "category": "Genel"
+  },
+  {
+    "english": "hey",
+    "turkish": "hey",
+    "category": "Genel"
+  },
+  {
+    "english": "hi",
+    "turkish": "hi",
+    "category": "Genel"
+  },
+  {
+    "english": "hidden",
+    "turkish": "hidden",
+    "category": "Genel"
+  },
+  {
+    "english": "high",
+    "turkish": "yüksek",
+    "category": "Genel"
+  },
+  {
+    "english": "him",
+    "turkish": "him",
+    "category": "Genel"
+  },
+  {
+    "english": "himself",
+    "turkish": "himself",
+    "category": "Genel"
+  },
+  {
+    "english": "hire",
+    "turkish": "hire",
+    "category": "Genel"
+  },
+  {
+    "english": "his",
+    "turkish": "his",
+    "category": "Genel"
+  },
+  {
+    "english": "historic",
+    "turkish": "historic",
+    "category": "Genel"
+  },
+  {
+    "english": "historical",
+    "turkish": "historical",
+    "category": "Genel"
+  },
+  {
+    "english": "hobby",
+    "turkish": "hobby",
+    "category": "Genel"
+  },
+  {
+    "english": "hold",
+    "turkish": "hold",
+    "category": "Genel"
+  },
+  {
+    "english": "hold up",
+    "turkish": "hold up",
+    "category": "Genel"
+  },
+  {
+    "english": "hole",
+    "turkish": "hole",
+    "category": "Genel"
+  },
+  {
+    "english": "holiday",
+    "turkish": "holiday",
+    "category": "Genel"
+  },
+  {
+    "english": "honest",
+    "turkish": "honest",
+    "category": "Genel"
+  },
+  {
+    "english": "honestly",
+    "turkish": "honestly",
+    "category": "Genel"
+  },
+  {
+    "english": "honeymoon",
+    "turkish": "honeymoon",
+    "category": "Genel"
+  },
+  {
+    "english": "hope",
+    "turkish": "hope",
+    "category": "Genel"
+  },
+  {
+    "english": "hopeless",
+    "turkish": "hopeless",
+    "category": "Genel"
+  },
+  {
+    "english": "horror",
+    "turkish": "horror",
+    "category": "Genel"
+  },
+  {
+    "english": "housewife",
+    "turkish": "housewife",
+    "category": "Genel"
+  },
+  {
+    "english": "how",
+    "turkish": "how",
+    "category": "Genel"
+  },
+  {
+    "english": "how much",
+    "turkish": "how much",
+    "category": "Genel"
+  },
+  {
+    "english": "however",
+    "turkish": "however",
+    "category": "Genel"
+  },
+  {
+    "english": "hug",
+    "turkish": "hug",
+    "category": "Genel"
+  },
+  {
+    "english": "huge",
+    "turkish": "büyük",
+    "category": "Genel"
+  },
+  {
+    "english": "human",
+    "turkish": "human",
+    "category": "Genel"
+  },
+  {
+    "english": "humid",
+    "turkish": "humid",
+    "category": "Genel"
+  },
+  {
+    "english": "hunger",
+    "turkish": "hunger",
+    "category": "Genel"
+  },
+  {
+    "english": "hungry",
+    "turkish": "aç",
+    "category": "Genel"
+  },
+  {
+    "english": "hunt",
+    "turkish": "hunt",
+    "category": "Genel"
+  },
+  {
+    "english": "hurry",
+    "turkish": "hurry",
+    "category": "Genel"
+  },
+  {
+    "english": "id",
+    "turkish": "id",
+    "category": "Genel"
+  },
+  {
+    "english": "id card",
+    "turkish": "id card",
+    "category": "Genel"
+  },
+  {
+    "english": "idea",
+    "turkish": "idea",
+    "category": "Genel"
+  },
+  {
+    "english": "identification",
+    "turkish": "identification",
+    "category": "Genel"
+  },
+  {
+    "english": "identity card",
+    "turkish": "identity card",
+    "category": "Genel"
+  },
+  {
+    "english": "imagination",
+    "turkish": "imagination",
+    "category": "Genel"
+  },
+  {
+    "english": "imagine",
+    "turkish": "imagine",
+    "category": "Genel"
+  },
+  {
+    "english": "immediately",
+    "turkish": "immediately",
+    "category": "Genel"
+  },
+  {
+    "english": "immigration",
+    "turkish": "immigration",
+    "category": "Genel"
+  },
+  {
+    "english": "importance",
+    "turkish": "importance",
+    "category": "Genel"
+  },
+  {
+    "english": "important",
+    "turkish": "önemli",
+    "category": "Genel"
+  },
+  {
+    "english": "impossible",
+    "turkish": "imkansız",
+    "category": "Genel"
+  },
+  {
+    "english": "improve",
+    "turkish": "improve",
+    "category": "Genel"
+  },
+  {
+    "english": "improvement",
+    "turkish": "improvement",
+    "category": "Genel"
+  },
+  {
+    "english": "in advance",
+    "turkish": "in advance",
+    "category": "Genel"
+  },
+  {
+    "english": "in fact",
+    "turkish": "in fact",
+    "category": "Genel"
+  },
+  {
+    "english": "in front of",
+    "turkish": "in front of",
+    "category": "Genel"
+  },
+  {
+    "english": "in half",
+    "turkish": "in half",
+    "category": "Genel"
+  },
+  {
+    "english": "in ink",
+    "turkish": "in ink",
+    "category": "Genel"
+  },
+  {
+    "english": "in love",
+    "turkish": "in love",
+    "category": "Genel"
+  },
+  {
+    "english": "in order",
+    "turkish": "in order",
+    "category": "Genel"
+  },
+  {
+    "english": "in order to",
+    "turkish": "in order to",
+    "category": "Genel"
+  },
+  {
+    "english": "in pencil",
+    "turkish": "in pencil",
+    "category": "Genel"
+  },
+  {
+    "english": "in the end",
+    "turkish": "in the end",
+    "category": "Genel"
+  },
+  {
+    "english": "in time",
+    "turkish": "in time",
+    "category": "Genel"
+  },
+  {
+    "english": "in two",
+    "turkish": "in two",
+    "category": "Genel"
+  },
+  {
+    "english": "inch",
+    "turkish": "inch",
+    "category": "Genel"
+  },
+  {
+    "english": "include",
+    "turkish": "include",
+    "category": "Genel"
+  },
+  {
+    "english": "including",
+    "turkish": "including",
+    "category": "Genel"
+  },
+  {
+    "english": "incorrect",
+    "turkish": "incorrect",
+    "category": "Genel"
+  },
+  {
+    "english": "increase",
+    "turkish": "increase",
+    "category": "Genel"
+  },
+  {
+    "english": "incredible",
+    "turkish": "inanılmaz",
+    "category": "Genel"
+  },
+  {
+    "english": "indeed",
+    "turkish": "indeed",
+    "category": "Genel"
+  },
+  {
+    "english": "individual",
+    "turkish": "individual",
+    "category": "Genel"
+  },
+  {
+    "english": "indoor",
+    "turkish": "indoor",
+    "category": "Genel"
+  },
+  {
+    "english": "indoors",
+    "turkish": "indoors",
+    "category": "Genel"
+  },
+  {
+    "english": "industry",
+    "turkish": "industry",
+    "category": "Genel"
+  },
+  {
+    "english": "inform",
+    "turkish": "inform",
+    "category": "Genel"
+  },
+  {
+    "english": "information",
+    "turkish": "information",
+    "category": "Genel"
+  },
+  {
+    "english": "initial",
+    "turkish": "initial",
+    "category": "Genel"
+  },
+  {
+    "english": "injure",
+    "turkish": "injure",
+    "category": "Genel"
+  },
+  {
+    "english": "inquiry",
+    "turkish": "inquiry",
+    "category": "Genel"
+  },
+  {
+    "english": "insect",
+    "turkish": "insect",
+    "category": "Genel"
+  },
+  {
+    "english": "inside",
+    "turkish": "inside",
+    "category": "Genel"
+  },
+  {
+    "english": "insist",
+    "turkish": "insist",
+    "category": "Genel"
+  },
+  {
+    "english": "instance",
+    "turkish": "instance",
+    "category": "Genel"
+  },
+  {
+    "english": "instead",
+    "turkish": "instead",
+    "category": "Genel"
+  },
+  {
+    "english": "instructions",
+    "turkish": "instructions",
+    "category": "Genel"
+  },
+  {
+    "english": "intelligent",
+    "turkish": "zeki",
+    "category": "Genel"
+  },
+  {
+    "english": "intend",
+    "turkish": "intend",
+    "category": "Genel"
+  },
+  {
+    "english": "intermediate",
+    "turkish": "intermediate",
+    "category": "Genel"
+  },
+  {
+    "english": "international",
+    "turkish": "international",
+    "category": "Genel"
+  },
+  {
+    "english": "interrupt",
+    "turkish": "interrupt",
+    "category": "Genel"
+  },
+  {
+    "english": "interval",
+    "turkish": "interval",
+    "category": "Genel"
+  },
+  {
+    "english": "interview",
+    "turkish": "interview",
+    "category": "Genel"
+  },
+  {
+    "english": "into",
+    "turkish": "into",
+    "category": "Genel"
+  },
+  {
+    "english": "introduce",
+    "turkish": "introduce",
+    "category": "Genel"
+  },
+  {
+    "english": "introduction",
+    "turkish": "introduction",
+    "category": "Genel"
+  },
+  {
+    "english": "invent",
+    "turkish": "invent",
+    "category": "Genel"
+  },
+  {
+    "english": "invention",
+    "turkish": "invention",
+    "category": "Genel"
+  },
+  {
+    "english": "invitation",
+    "turkish": "invitation",
+    "category": "Genel"
+  },
+  {
+    "english": "invite",
+    "turkish": "invite",
+    "category": "Genel"
+  },
+  {
+    "english": "involve",
+    "turkish": "involve",
+    "category": "Genel"
+  },
+  {
+    "english": "issue",
+    "turkish": "issue",
+    "category": "Genel"
+  },
+  {
+    "english": "its",
+    "turkish": "its",
+    "category": "Genel"
+  },
+  {
+    "english": "itself",
+    "turkish": "itself",
+    "category": "Genel"
+  },
+  {
+    "english": "jail",
+    "turkish": "jail",
+    "category": "Genel"
+  },
+  {
+    "english": "jet",
+    "turkish": "jet",
+    "category": "Genel"
+  },
+  {
+    "english": "join",
+    "turkish": "join",
+    "category": "Genel"
+  },
+  {
+    "english": "joke",
+    "turkish": "joke",
+    "category": "Genel"
+  },
+  {
+    "english": "jungle",
+    "turkish": "jungle",
+    "category": "Genel"
+  },
+  {
+    "english": "just",
+    "turkish": "just",
+    "category": "Genel"
+  },
+  {
+    "english": "keep",
+    "turkish": "keep",
+    "category": "Genel"
+  },
+  {
+    "english": "keep in",
+    "turkish": "keep in",
+    "category": "Genel"
+  },
+  {
+    "english": "keep on",
+    "turkish": "keep on",
+    "category": "Genel"
+  },
+  {
+    "english": "keep up",
+    "turkish": "keep up",
+    "category": "Genel"
+  },
+  {
+    "english": "keeper",
+    "turkish": "keeper",
+    "category": "Genel"
+  },
+  {
+    "english": "key",
+    "turkish": "key",
+    "category": "Genel"
+  },
+  {
+    "english": "kid",
+    "turkish": "kid",
+    "category": "Genel"
+  },
+  {
+    "english": "kill",
+    "turkish": "kill",
+    "category": "Genel"
+  },
+  {
+    "english": "kilogramme",
+    "turkish": "kilogramme",
+    "category": "Genel"
+  },
+  {
+    "english": "kilometre",
+    "turkish": "kilometre",
+    "category": "Genel"
+  },
+  {
+    "english": "king",
+    "turkish": "king",
+    "category": "Genel"
+  },
+  {
+    "english": "kiss",
+    "turkish": "kiss",
+    "category": "Genel"
+  },
+  {
+    "english": "kit",
+    "turkish": "kit",
+    "category": "Genel"
+  },
+  {
+    "english": "kite",
+    "turkish": "kite",
+    "category": "Genel"
+  },
+  {
+    "english": "knit",
+    "turkish": "knit",
+    "category": "Genel"
+  },
+  {
+    "english": "knock",
+    "turkish": "knock",
+    "category": "Genel"
+  },
+  {
+    "english": "knock down",
+    "turkish": "knock down",
+    "category": "Genel"
+  },
+  {
+    "english": "know",
+    "turkish": "know",
+    "category": "Genel"
+  },
+  {
+    "english": "knowledge",
+    "turkish": "knowledge",
+    "category": "Genel"
+  },
+  {
+    "english": "label",
+    "turkish": "label",
+    "category": "Genel"
+  },
+  {
+    "english": "lack",
+    "turkish": "lack",
+    "category": "Genel"
+  },
+  {
+    "english": "ladder",
+    "turkish": "ladder",
+    "category": "Genel"
+  },
+  {
+    "english": "lady",
+    "turkish": "lady",
+    "category": "Genel"
+  },
+  {
+    "english": "language",
+    "turkish": "language",
+    "category": "Genel"
+  },
+  {
+    "english": "large",
+    "turkish": "büyük",
+    "category": "Genel"
+  },
+  {
+    "english": "last",
+    "turkish": "son",
+    "category": "Genel"
+  },
+  {
+    "english": "laugh",
+    "turkish": "laugh",
+    "category": "Genel"
+  },
+  {
+    "english": "law",
+    "turkish": "law",
+    "category": "Genel"
+  },
+  {
+    "english": "lay",
+    "turkish": "lay",
+    "category": "Genel"
+  },
+  {
+    "english": "lead",
+    "turkish": "lead",
+    "category": "Genel"
+  },
+  {
+    "english": "leader",
+    "turkish": "leader",
+    "category": "Genel"
+  },
+  {
+    "english": "least",
+    "turkish": "least",
+    "category": "Genel"
+  },
+  {
+    "english": "leave",
+    "turkish": "leave",
+    "category": "Genel"
+  },
+  {
+    "english": "left",
+    "turkish": "sol",
+    "category": "Genel"
+  },
+  {
+    "english": "left-hand",
+    "turkish": "left-hand",
+    "category": "Genel"
+  },
+  {
+    "english": "leisure",
+    "turkish": "leisure",
+    "category": "Genel"
+  },
+  {
+    "english": "lend",
+    "turkish": "lend",
+    "category": "Genel"
+  },
+  {
+    "english": "length",
+    "turkish": "length",
+    "category": "Genel"
+  },
+  {
+    "english": "less",
+    "turkish": "less",
+    "category": "Genel"
+  },
+  {
+    "english": "let",
+    "turkish": "let",
+    "category": "Genel"
+  },
+  {
+    "english": "letter",
+    "turkish": "letter",
+    "category": "Genel"
+  },
+  {
+    "english": "level",
+    "turkish": "level",
+    "category": "Genel"
+  },
+  {
+    "english": "licence",
+    "turkish": "licence",
+    "category": "Genel"
+  },
+  {
+    "english": "lie",
+    "turkish": "lie",
+    "category": "Genel"
+  },
+  {
+    "english": "lie down",
+    "turkish": "lie down",
+    "category": "Genel"
+  },
+  {
+    "english": "life",
+    "turkish": "life",
+    "category": "Genel"
+  },
+  {
+    "english": "light",
+    "turkish": "light",
+    "category": "Genel"
+  },
+  {
+    "english": "lighter",
+    "turkish": "lighter",
+    "category": "Genel"
+  },
+  {
+    "english": "like",
+    "turkish": "like",
+    "category": "Genel"
+  },
+  {
+    "english": "likely",
+    "turkish": "likely",
+    "category": "Genel"
+  },
+  {
+    "english": "limit",
+    "turkish": "limit",
+    "category": "Genel"
+  },
+  {
+    "english": "limited",
+    "turkish": "limited",
+    "category": "Genel"
+  },
+  {
+    "english": "liquid",
+    "turkish": "liquid",
+    "category": "Genel"
+  },
+  {
+    "english": "list",
+    "turkish": "list",
+    "category": "Genel"
+  },
+  {
+    "english": "listen",
+    "turkish": "listen",
+    "category": "Genel"
+  },
+  {
+    "english": "litre",
+    "turkish": "litre",
+    "category": "Genel"
+  },
+  {
+    "english": "litter",
+    "turkish": "litter",
+    "category": "Genel"
+  },
+  {
+    "english": "little",
+    "turkish": "küçük",
+    "category": "Genel"
+  },
+  {
+    "english": "live",
+    "turkish": "canlı",
+    "category": "Genel"
+  },
+  {
+    "english": "lively",
+    "turkish": "lively",
+    "category": "Genel"
+  },
+  {
+    "english": "load",
+    "turkish": "load",
+    "category": "Genel"
+  },
+  {
+    "english": "loan",
+    "turkish": "loan",
+    "category": "Genel"
+  },
+  {
+    "english": "local",
+    "turkish": "yerel",
+    "category": "Genel"
+  },
+  {
+    "english": "locate",
+    "turkish": "locate",
+    "category": "Genel"
+  },
+  {
+    "english": "location",
+    "turkish": "location",
+    "category": "Genel"
+  },
+  {
+    "english": "lock",
+    "turkish": "lock",
+    "category": "Genel"
+  },
+  {
+    "english": "logo",
+    "turkish": "logo",
+    "category": "Genel"
+  },
+  {
+    "english": "lonely",
+    "turkish": "yalnız",
+    "category": "Genel"
+  },
+  {
+    "english": "long",
+    "turkish": "uzun",
+    "category": "Genel"
+  },
+  {
+    "english": "look",
+    "turkish": "look",
+    "category": "Genel"
+  },
+  {
+    "english": "look after",
+    "turkish": "look after",
+    "category": "Genel"
+  },
+  {
+    "english": "look at",
+    "turkish": "look at",
+    "category": "Genel"
+  },
+  {
+    "english": "look for",
+    "turkish": "look for",
+    "category": "Genel"
+  },
+  {
+    "english": "look forward to",
+    "turkish": "look forward to",
+    "category": "Genel"
+  },
+  {
+    "english": "look like",
+    "turkish": "look like",
+    "category": "Genel"
+  },
+  {
+    "english": "look out",
+    "turkish": "look out",
+    "category": "Genel"
+  },
+  {
+    "english": "look up",
+    "turkish": "look up",
+    "category": "Genel"
+  },
+  {
+    "english": "loose",
+    "turkish": "loose",
+    "category": "Genel"
+  },
+  {
+    "english": "lose",
+    "turkish": "lose",
+    "category": "Genel"
+  },
+  {
+    "english": "lost",
+    "turkish": "lost",
+    "category": "Genel"
+  },
+  {
+    "english": "lots",
+    "turkish": "lots",
+    "category": "Genel"
+  },
+  {
+    "english": "loud",
+    "turkish": "yüksek sesli",
+    "category": "Genel"
+  },
+  {
+    "english": "low",
+    "turkish": "alçak",
+    "category": "Genel"
+  },
+  {
+    "english": "luck",
+    "turkish": "luck",
+    "category": "Genel"
+  },
+  {
+    "english": "luggage",
+    "turkish": "luggage",
+    "category": "Genel"
+  },
+  {
+    "english": "lunchtime",
+    "turkish": "lunchtime",
+    "category": "Genel"
+  },
+  {
+    "english": "luxury",
+    "turkish": "luxury",
+    "category": "Genel"
+  },
+  {
+    "english": "machine",
+    "turkish": "machine",
+    "category": "Genel"
+  },
+  {
+    "english": "madam",
+    "turkish": "madam",
+    "category": "Genel"
+  },
+  {
+    "english": "made of",
+    "turkish": "made of",
+    "category": "Genel"
+  },
+  {
+    "english": "magazine",
+    "turkish": "magazine",
+    "category": "Genel"
+  },
+  {
+    "english": "magic",
+    "turkish": "magic",
+    "category": "Genel"
+  },
+  {
+    "english": "magnificent",
+    "turkish": "magnificent",
+    "category": "Genel"
+  },
+  {
+    "english": "mail",
+    "turkish": "mail",
+    "category": "Genel"
+  },
+  {
+    "english": "main",
+    "turkish": "ana",
+    "category": "Genel"
+  },
+  {
+    "english": "make",
+    "turkish": "make",
+    "category": "Genel"
+  },
+  {
+    "english": "make sure",
+    "turkish": "make sure",
+    "category": "Genel"
+  },
+  {
+    "english": "make-up",
+    "turkish": "make-up",
+    "category": "Genel"
+  },
+  {
+    "english": "male",
+    "turkish": "male",
+    "category": "Genel"
+  },
+  {
+    "english": "man",
+    "turkish": "man",
+    "category": "Genel"
+  },
+  {
+    "english": "manage",
+    "turkish": "manage",
+    "category": "Genel"
+  },
+  {
+    "english": "many",
+    "turkish": "many",
+    "category": "Genel"
+  },
+  {
+    "english": "map",
+    "turkish": "map",
+    "category": "Genel"
+  },
+  {
+    "english": "marvellous",
+    "turkish": "marvellous",
+    "category": "Genel"
+  },
+  {
+    "english": "mate",
+    "turkish": "mate",
+    "category": "Genel"
+  },
+  {
+    "english": "material",
+    "turkish": "material",
+    "category": "Genel"
+  },
+  {
+    "english": "matter",
+    "turkish": "matter",
+    "category": "Genel"
+  },
+  {
+    "english": "maximum",
+    "turkish": "maximum",
+    "category": "Genel"
+  },
+  {
+    "english": "may",
+    "turkish": "may",
+    "category": "Genel"
+  },
+  {
+    "english": "maybe",
+    "turkish": "maybe",
+    "category": "Genel"
+  },
+  {
+    "english": "me",
+    "turkish": "me",
+    "category": "Genel"
+  },
+  {
+    "english": "mean",
+    "turkish": "mean",
+    "category": "Genel"
+  },
+  {
+    "english": "meaning",
+    "turkish": "meaning",
+    "category": "Genel"
+  },
+  {
+    "english": "meanwhile",
+    "turkish": "meanwhile",
+    "category": "Genel"
+  },
+  {
+    "english": "medium",
+    "turkish": "medium",
+    "category": "Genel"
+  },
+  {
+    "english": "meet",
+    "turkish": "meet",
+    "category": "Genel"
+  },
+  {
+    "english": "meeting",
+    "turkish": "meeting",
+    "category": "Genel"
+  },
+  {
+    "english": "member",
+    "turkish": "member",
+    "category": "Genel"
+  },
+  {
+    "english": "membership",
+    "turkish": "membership",
+    "category": "Genel"
+  },
+  {
+    "english": "memory",
+    "turkish": "memory",
+    "category": "Genel"
+  },
+  {
+    "english": "mend",
+    "turkish": "mend",
+    "category": "Genel"
+  },
+  {
+    "english": "mention",
+    "turkish": "mention",
+    "category": "Genel"
+  },
+  {
+    "english": "message",
+    "turkish": "message",
+    "category": "Genel"
+  },
+  {
+    "english": "metal",
+    "turkish": "metal",
+    "category": "Genel"
+  },
+  {
+    "english": "metre",
+    "turkish": "metre",
+    "category": "Genel"
+  },
+  {
+    "english": "microwave",
+    "turkish": "microwave",
+    "category": "Genel"
+  },
+  {
+    "english": "middle",
+    "turkish": "middle",
+    "category": "Genel"
+  },
+  {
+    "english": "middle-aged",
+    "turkish": "middle-aged",
+    "category": "Genel"
+  },
+  {
+    "english": "might",
+    "turkish": "might",
+    "category": "Genel"
+  },
+  {
+    "english": "mild",
+    "turkish": "mild",
+    "category": "Genel"
+  },
+  {
+    "english": "mile",
+    "turkish": "mile",
+    "category": "Genel"
+  },
+  {
+    "english": "millimetre",
+    "turkish": "millimetre",
+    "category": "Genel"
+  },
+  {
+    "english": "million",
+    "turkish": "million",
+    "category": "Genel"
+  },
+  {
+    "english": "mind",
+    "turkish": "mind",
+    "category": "Genel"
+  },
+  {
+    "english": "mine",
+    "turkish": "mine",
+    "category": "Genel"
+  },
+  {
+    "english": "minimum",
+    "turkish": "minimum",
+    "category": "Genel"
+  },
+  {
+    "english": "minus",
+    "turkish": "minus",
+    "category": "Genel"
+  },
+  {
+    "english": "miss",
+    "turkish": "miss",
+    "category": "Genel"
+  },
+  {
+    "english": "missing",
+    "turkish": "missing",
+    "category": "Genel"
+  },
+  {
+    "english": "model",
+    "turkish": "model",
+    "category": "Genel"
+  },
+  {
+    "english": "modern",
+    "turkish": "modern",
+    "category": "Genel"
+  },
+  {
+    "english": "monument",
+    "turkish": "monument",
+    "category": "Genel"
+  },
+  {
+    "english": "more",
+    "turkish": "more",
+    "category": "Genel"
+  },
+  {
+    "english": "mosquito",
+    "turkish": "mosquito",
+    "category": "Genel"
+  },
+  {
+    "english": "most",
+    "turkish": "most",
+    "category": "Genel"
+  },
+  {
+    "english": "moustache",
+    "turkish": "moustache",
+    "category": "Genel"
+  },
+  {
+    "english": "move",
+    "turkish": "move",
+    "category": "Genel"
+  },
+  {
+    "english": "movie",
+    "turkish": "movie",
+    "category": "Genel"
+  },
+  {
+    "english": "movie star",
+    "turkish": "movie star",
+    "category": "Genel"
+  },
+  {
+    "english": "movie theater",
+    "turkish": "movie theater",
+    "category": "Genel"
+  },
+  {
+    "english": "mr",
+    "turkish": "mr",
+    "category": "Genel"
+  },
+  {
+    "english": "mrs",
+    "turkish": "mrs",
+    "category": "Genel"
+  },
+  {
+    "english": "ms",
+    "turkish": "ms",
+    "category": "Genel"
+  },
+  {
+    "english": "much",
+    "turkish": "much",
+    "category": "Genel"
+  },
+  {
+    "english": "mug",
+    "turkish": "mug",
+    "category": "Genel"
+  },
+  {
+    "english": "multiply",
+    "turkish": "multiply",
+    "category": "Genel"
+  },
+  {
+    "english": "mum",
+    "turkish": "mum",
+    "category": "Genel"
+  },
+  {
+    "english": "museum",
+    "turkish": "museum",
+    "category": "Genel"
+  },
+  {
+    "english": "must",
+    "turkish": "must",
+    "category": "Genel"
+  },
+  {
+    "english": "my",
+    "turkish": "my",
+    "category": "Genel"
+  },
+  {
+    "english": "myself",
+    "turkish": "myself",
+    "category": "Genel"
+  },
+  {
+    "english": "mystery",
+    "turkish": "mystery",
+    "category": "Genel"
+  },
+  {
+    "english": "name",
+    "turkish": "name",
+    "category": "Genel"
+  },
+  {
+    "english": "narrow",
+    "turkish": "dar",
+    "category": "Genel"
+  },
+  {
+    "english": "nasty",
+    "turkish": "kötü",
+    "category": "Genel"
+  },
+  {
+    "english": "national",
+    "turkish": "ulusal",
+    "category": "Genel"
+  },
+  {
+    "english": "nationality",
+    "turkish": "nationality",
+    "category": "Genel"
+  },
+  {
+    "english": "natural",
+    "turkish": "doğal",
+    "category": "Genel"
+  },
+  {
+    "english": "near",
+    "turkish": "near",
+    "category": "Genel"
+  },
+  {
+    "english": "nearby",
+    "turkish": "yakında",
+    "category": "Genel"
+  },
+  {
+    "english": "nearly",
+    "turkish": "nearly",
+    "category": "Genel"
+  },
+  {
+    "english": "neat",
+    "turkish": "neat",
+    "category": "Genel"
+  },
+  {
+    "english": "necessary",
+    "turkish": "gerekli",
+    "category": "Genel"
+  },
+  {
+    "english": "need",
+    "turkish": "need",
+    "category": "Genel"
+  },
+  {
+    "english": "negative",
+    "turkish": "negative",
+    "category": "Genel"
+  },
+  {
+    "english": "neighbour",
+    "turkish": "neighbour",
+    "category": "Genel"
+  },
+  {
+    "english": "neighbourhood",
+    "turkish": "neighbourhood",
+    "category": "Genel"
+  },
+  {
+    "english": "net",
+    "turkish": "net",
+    "category": "Genel"
+  },
+  {
+    "english": "never",
+    "turkish": "never",
+    "category": "Genel"
+  },
+  {
+    "english": "new",
+    "turkish": "yeni",
+    "category": "Genel"
+  },
+  {
+    "english": "news",
+    "turkish": "news",
+    "category": "Genel"
+  },
+  {
+    "english": "newspaper",
+    "turkish": "newspaper",
+    "category": "Genel"
+  },
+  {
+    "english": "next",
+    "turkish": "sonraki",
+    "category": "Genel"
+  },
+  {
+    "english": "next to",
+    "turkish": "next to",
+    "category": "Genel"
+  },
+  {
+    "english": "nightclub",
+    "turkish": "nightclub",
+    "category": "Genel"
+  },
+  {
+    "english": "nightlife",
+    "turkish": "nightlife",
+    "category": "Genel"
+  },
+  {
+    "english": "nightmare",
+    "turkish": "nightmare",
+    "category": "Genel"
+  },
+  {
+    "english": "no",
+    "turkish": "no",
+    "category": "Genel"
+  },
+  {
+    "english": "no one",
+    "turkish": "no one",
+    "category": "Genel"
+  },
+  {
+    "english": "nobody",
+    "turkish": "nobody",
+    "category": "Genel"
+  },
+  {
+    "english": "noise",
+    "turkish": "noise",
+    "category": "Genel"
+  },
+  {
+    "english": "noisy",
+    "turkish": "noisy",
+    "category": "Genel"
+  },
+  {
+    "english": "none",
+    "turkish": "none",
+    "category": "Genel"
+  },
+  {
+    "english": "normal",
+    "turkish": "normal",
+    "category": "Genel"
+  },
+  {
+    "english": "normally",
+    "turkish": "normally",
+    "category": "Genel"
+  },
+  {
+    "english": "not",
+    "turkish": "not",
+    "category": "Genel"
+  },
+  {
+    "english": "note",
+    "turkish": "note",
+    "category": "Genel"
+  },
+  {
+    "english": "nothing",
+    "turkish": "nothing",
+    "category": "Genel"
+  },
+  {
+    "english": "notice",
+    "turkish": "notice",
+    "category": "Genel"
+  },
+  {
+    "english": "noticeboard",
+    "turkish": "noticeboard",
+    "category": "Genel"
+  },
+  {
+    "english": "novel",
+    "turkish": "novel",
+    "category": "Genel"
+  },
+  {
+    "english": "now",
+    "turkish": "now",
+    "category": "Genel"
+  },
+  {
+    "english": "nowadays",
+    "turkish": "nowadays",
+    "category": "Genel"
+  },
+  {
+    "english": "nowhere",
+    "turkish": "hiçbir yerde",
+    "category": "Genel"
+  },
+  {
+    "english": "o'clock",
+    "turkish": "o'clock",
+    "category": "Genel"
+  },
+  {
+    "english": "object",
+    "turkish": "object",
+    "category": "Genel"
+  },
+  {
+    "english": "obvious",
+    "turkish": "obvious",
+    "category": "Genel"
+  },
+  {
+    "english": "obviously",
+    "turkish": "obviously",
+    "category": "Genel"
+  },
+  {
+    "english": "occasion",
+    "turkish": "occasion",
+    "category": "Genel"
+  },
+  {
+    "english": "occupation",
+    "turkish": "occupation",
+    "category": "Genel"
+  },
+  {
+    "english": "of course",
+    "turkish": "of course",
+    "category": "Genel"
+  },
+  {
+    "english": "off",
+    "turkish": "off",
+    "category": "Genel"
+  },
+  {
+    "english": "offer",
+    "turkish": "offer",
+    "category": "Genel"
+  },
+  {
+    "english": "often",
+    "turkish": "often",
+    "category": "Genel"
+  },
+  {
+    "english": "oh",
+    "turkish": "oh",
+    "category": "Genel"
+  },
+  {
+    "english": "ok",
+    "turkish": "ok",
+    "category": "Genel"
+  },
+  {
+    "english": "old",
+    "turkish": "yaşlı",
+    "category": "Genel"
+  },
+  {
+    "english": "old-fashioned",
+    "turkish": "old-fashioned",
+    "category": "Genel"
+  },
+  {
+    "english": "on board",
+    "turkish": "on board",
+    "category": "Genel"
+  },
+  {
+    "english": "on business",
+    "turkish": "on business",
+    "category": "Genel"
+  },
+  {
+    "english": "on fire",
+    "turkish": "on fire",
+    "category": "Genel"
+  },
+  {
+    "english": "on foot",
+    "turkish": "on foot",
+    "category": "Genel"
+  },
+  {
+    "english": "on holiday",
+    "turkish": "on holiday",
+    "category": "Genel"
+  },
+  {
+    "english": "on purpose",
+    "turkish": "on purpose",
+    "category": "Genel"
+  },
+  {
+    "english": "on request",
+    "turkish": "on request",
+    "category": "Genel"
+  },
+  {
+    "english": "on time",
+    "turkish": "on time",
+    "category": "Genel"
+  },
+  {
+    "english": "once",
+    "turkish": "once",
+    "category": "Genel"
+  },
+  {
+    "english": "only",
+    "turkish": "only",
+    "category": "Genel"
+  },
+  {
+    "english": "onto",
+    "turkish": "onto",
+    "category": "Genel"
+  },
+  {
+    "english": "open",
+    "turkish": "açık",
+    "category": "Genel"
+  },
+  {
+    "english": "opening hours",
+    "turkish": "opening hours",
+    "category": "Genel"
+  },
+  {
+    "english": "operate",
+    "turkish": "operate",
+    "category": "Genel"
+  },
+  {
+    "english": "opinion",
+    "turkish": "opinion",
+    "category": "Genel"
+  },
+  {
+    "english": "opportunity",
+    "turkish": "opportunity",
+    "category": "Genel"
+  },
+  {
+    "english": "opposite",
+    "turkish": "opposite",
+    "category": "Genel"
+  },
+  {
+    "english": "option",
+    "turkish": "option",
+    "category": "Genel"
+  },
+  {
+    "english": "or",
+    "turkish": "or",
+    "category": "Genel"
+  },
+  {
+    "english": "order",
+    "turkish": "order",
+    "category": "Genel"
+  },
+  {
+    "english": "ordinary",
+    "turkish": "sıradan",
+    "category": "Genel"
+  },
+  {
+    "english": "organisation",
+    "turkish": "organisation",
+    "category": "Genel"
+  },
+  {
+    "english": "organise",
+    "turkish": "organise",
+    "category": "Genel"
+  },
+  {
+    "english": "original",
+    "turkish": "original",
+    "category": "Genel"
+  },
+  {
+    "english": "other",
+    "turkish": "other",
+    "category": "Genel"
+  },
+  {
+    "english": "otherwise",
+    "turkish": "otherwise",
+    "category": "Genel"
+  },
+  {
+    "english": "ought",
+    "turkish": "ought",
+    "category": "Genel"
+  },
+  {
+    "english": "our",
+    "turkish": "our",
+    "category": "Genel"
+  },
+  {
+    "english": "ours",
+    "turkish": "ours",
+    "category": "Genel"
+  },
+  {
+    "english": "ourselves",
+    "turkish": "ourselves",
+    "category": "Genel"
+  },
+  {
+    "english": "out",
+    "turkish": "out",
+    "category": "Genel"
+  },
+  {
+    "english": "out of",
+    "turkish": "out of",
+    "category": "Genel"
+  },
+  {
+    "english": "out of date",
+    "turkish": "out of date",
+    "category": "Genel"
+  },
+  {
+    "english": "out of order",
+    "turkish": "out of order",
+    "category": "Genel"
+  },
+  {
+    "english": "out of work",
+    "turkish": "out of work",
+    "category": "Genel"
+  },
+  {
+    "english": "outdoor",
+    "turkish": "outdoor",
+    "category": "Genel"
+  },
+  {
+    "english": "outside",
+    "turkish": "outside",
+    "category": "Genel"
+  },
+  {
+    "english": "oven",
+    "turkish": "oven",
+    "category": "Genel"
+  },
+  {
+    "english": "over",
+    "turkish": "over",
+    "category": "Genel"
+  },
+  {
+    "english": "overnight",
+    "turkish": "overnight",
+    "category": "Genel"
+  },
+  {
+    "english": "owe",
+    "turkish": "owe",
+    "category": "Genel"
+  },
+  {
+    "english": "own",
+    "turkish": "own",
+    "category": "Genel"
+  },
+  {
+    "english": "owner",
+    "turkish": "owner",
+    "category": "Genel"
+  },
+  {
+    "english": "p.m.",
+    "turkish": "p.m.",
+    "category": "Genel"
+  },
+  {
+    "english": "pack",
+    "turkish": "pack",
+    "category": "Genel"
+  },
+  {
+    "english": "packet",
+    "turkish": "packet",
+    "category": "Genel"
+  },
+  {
+    "english": "painful",
+    "turkish": "painful",
+    "category": "Genel"
+  },
+  {
+    "english": "paint",
+    "turkish": "paint",
+    "category": "Genel"
+  },
+  {
+    "english": "painting",
+    "turkish": "painting",
+    "category": "Genel"
+  },
+  {
+    "english": "pair",
+    "turkish": "pair",
+    "category": "Genel"
+  },
+  {
+    "english": "pants",
+    "turkish": "pants",
+    "category": "Genel"
+  },
+  {
+    "english": "parcel",
+    "turkish": "parcel",
+    "category": "Genel"
+  },
+  {
+    "english": "pardon",
+    "turkish": "pardon",
+    "category": "Genel"
+  },
+  {
+    "english": "part",
+    "turkish": "part",
+    "category": "Genel"
+  },
+  {
+    "english": "part time",
+    "turkish": "part time",
+    "category": "Genel"
+  },
+  {
+    "english": "part-time",
+    "turkish": "part-time",
+    "category": "Genel"
+  },
+  {
+    "english": "particular",
+    "turkish": "particular",
+    "category": "Genel"
+  },
+  {
+    "english": "partly",
+    "turkish": "partly",
+    "category": "Genel"
+  },
+  {
+    "english": "partner",
+    "turkish": "partner",
+    "category": "Genel"
+  },
+  {
+    "english": "party",
+    "turkish": "party",
+    "category": "Genel"
+  },
+  {
+    "english": "pass",
+    "turkish": "pass",
+    "category": "Genel"
+  },
+  {
+    "english": "past",
+    "turkish": "past",
+    "category": "Genel"
+  },
+  {
+    "english": "pattern",
+    "turkish": "pattern",
+    "category": "Genel"
+  },
+  {
+    "english": "pause",
+    "turkish": "pause",
+    "category": "Genel"
+  },
+  {
+    "english": "pavement",
+    "turkish": "pavement",
+    "category": "Genel"
+  },
+  {
+    "english": "pea",
+    "turkish": "pea",
+    "category": "Genel"
+  },
+  {
+    "english": "peace",
+    "turkish": "peace",
+    "category": "Genel"
+  },
+  {
+    "english": "peaceful",
+    "turkish": "peaceful",
+    "category": "Genel"
+  },
+  {
+    "english": "pedestrian",
+    "turkish": "pedestrian",
+    "category": "Genel"
+  },
+  {
+    "english": "penfriend",
+    "turkish": "penfriend",
+    "category": "Genel"
+  },
+  {
+    "english": "people",
+    "turkish": "people",
+    "category": "Genel"
+  },
+  {
+    "english": "per",
+    "turkish": "per",
+    "category": "Genel"
+  },
+  {
+    "english": "percent",
+    "turkish": "percent",
+    "category": "Genel"
+  },
+  {
+    "english": "perfect",
+    "turkish": "mükemmel",
+    "category": "Genel"
+  },
+  {
+    "english": "perform",
+    "turkish": "perform",
+    "category": "Genel"
+  },
+  {
+    "english": "perfume",
+    "turkish": "perfume",
+    "category": "Genel"
+  },
+  {
+    "english": "perhaps",
+    "turkish": "perhaps",
+    "category": "Genel"
+  },
+  {
+    "english": "permanent",
+    "turkish": "permanent",
+    "category": "Genel"
+  },
+  {
+    "english": "permission",
+    "turkish": "permission",
+    "category": "Genel"
+  },
+  {
+    "english": "permit",
+    "turkish": "permit",
+    "category": "Genel"
+  },
+  {
+    "english": "permitted",
+    "turkish": "permitted",
+    "category": "Genel"
+  },
+  {
+    "english": "person",
+    "turkish": "person",
+    "category": "Genel"
+  },
+  {
+    "english": "personal",
+    "turkish": "personal",
+    "category": "Genel"
+  },
+  {
+    "english": "personally",
+    "turkish": "personally",
+    "category": "Genel"
+  },
+  {
+    "english": "persuade",
+    "turkish": "persuade",
+    "category": "Genel"
+  },
+  {
+    "english": "pet",
+    "turkish": "pet",
+    "category": "Genel"
+  },
+  {
+    "english": "photo",
+    "turkish": "photo",
+    "category": "Genel"
+  },
+  {
+    "english": "photocopy",
+    "turkish": "photocopy",
+    "category": "Genel"
+  },
+  {
+    "english": "pick",
+    "turkish": "pick",
+    "category": "Genel"
+  },
+  {
+    "english": "pick up",
+    "turkish": "pick up",
+    "category": "Genel"
+  },
+  {
+    "english": "picture",
+    "turkish": "picture",
+    "category": "Genel"
+  },
+  {
+    "english": "piece",
+    "turkish": "piece",
+    "category": "Genel"
+  },
+  {
+    "english": "pile",
+    "turkish": "pile",
+    "category": "Genel"
+  },
+  {
+    "english": "pin",
+    "turkish": "pin",
+    "category": "Genel"
+  },
+  {
+    "english": "pipe",
+    "turkish": "pipe",
+    "category": "Genel"
+  },
+  {
+    "english": "pirate",
+    "turkish": "pirate",
+    "category": "Genel"
+  },
+  {
+    "english": "pity",
+    "turkish": "pity",
+    "category": "Genel"
+  },
+  {
+    "english": "place",
+    "turkish": "place",
+    "category": "Genel"
+  },
+  {
+    "english": "plain",
+    "turkish": "plain",
+    "category": "Genel"
+  },
+  {
+    "english": "plan",
+    "turkish": "plan",
+    "category": "Genel"
+  },
+  {
+    "english": "plastic",
+    "turkish": "plastic",
+    "category": "Genel"
+  },
+  {
+    "english": "platform",
+    "turkish": "platform",
+    "category": "Genel"
+  },
+  {
+    "english": "pleasant",
+    "turkish": "pleasant",
+    "category": "Genel"
+  },
+  {
+    "english": "please",
+    "turkish": "please",
+    "category": "Genel"
+  },
+  {
+    "english": "plenty",
+    "turkish": "plenty",
+    "category": "Genel"
+  },
+  {
+    "english": "plus",
+    "turkish": "plus",
+    "category": "Genel"
+  },
+  {
+    "english": "pocket money",
+    "turkish": "pocket money",
+    "category": "Genel"
+  },
+  {
+    "english": "point",
+    "turkish": "point",
+    "category": "Genel"
+  },
+  {
+    "english": "police station",
+    "turkish": "police station",
+    "category": "Genel"
+  },
+  {
+    "english": "political",
+    "turkish": "political",
+    "category": "Genel"
+  },
+  {
+    "english": "politics",
+    "turkish": "politics",
+    "category": "Genel"
+  },
+  {
+    "english": "pollution",
+    "turkish": "pollution",
+    "category": "Genel"
+  },
+  {
+    "english": "pool",
+    "turkish": "pool",
+    "category": "Genel"
+  },
+  {
+    "english": "poor",
+    "turkish": "fakir",
+    "category": "Genel"
+  },
+  {
+    "english": "population",
+    "turkish": "population",
+    "category": "Genel"
+  },
+  {
+    "english": "position",
+    "turkish": "position",
+    "category": "Genel"
+  },
+  {
+    "english": "possibility",
+    "turkish": "possibility",
+    "category": "Genel"
+  },
+  {
+    "english": "possible",
+    "turkish": "mümkün",
+    "category": "Genel"
+  },
+  {
+    "english": "possibly",
+    "turkish": "possibly",
+    "category": "Genel"
+  },
+  {
+    "english": "post",
+    "turkish": "post",
+    "category": "Genel"
+  },
+  {
+    "english": "post office",
+    "turkish": "post office",
+    "category": "Genel"
+  },
+  {
+    "english": "postcard",
+    "turkish": "postcard",
+    "category": "Genel"
+  },
+  {
+    "english": "poster",
+    "turkish": "poster",
+    "category": "Genel"
+  },
+  {
+    "english": "postpone",
+    "turkish": "postpone",
+    "category": "Genel"
+  },
+  {
+    "english": "pot",
+    "turkish": "pot",
+    "category": "Genel"
+  },
+  {
+    "english": "pour",
+    "turkish": "pour",
+    "category": "Genel"
+  },
+  {
+    "english": "power",
+    "turkish": "power",
+    "category": "Genel"
+  },
+  {
+    "english": "powerful",
+    "turkish": "güçlü",
+    "category": "Genel"
+  },
+  {
+    "english": "practice",
+    "turkish": "practice",
+    "category": "Genel"
+  },
+  {
+    "english": "practise",
+    "turkish": "practise",
+    "category": "Genel"
+  },
+  {
+    "english": "pray",
+    "turkish": "pray",
+    "category": "Genel"
+  },
+  {
+    "english": "prayer",
+    "turkish": "prayer",
+    "category": "Genel"
+  },
+  {
+    "english": "predict",
+    "turkish": "predict",
+    "category": "Genel"
+  },
+  {
+    "english": "prefer",
+    "turkish": "prefer",
+    "category": "Genel"
+  },
+  {
+    "english": "pregnant",
+    "turkish": "pregnant",
+    "category": "Genel"
+  },
+  {
+    "english": "preparation",
+    "turkish": "preparation",
+    "category": "Genel"
+  },
+  {
+    "english": "prepare",
+    "turkish": "prepare",
+    "category": "Genel"
+  },
+  {
+    "english": "prepared",
+    "turkish": "prepared",
+    "category": "Genel"
+  },
+  {
+    "english": "present",
+    "turkish": "present",
+    "category": "Genel"
+  },
+  {
+    "english": "presentation",
+    "turkish": "presentation",
+    "category": "Genel"
+  },
+  {
+    "english": "press",
+    "turkish": "press",
+    "category": "Genel"
+  },
+  {
+    "english": "pretty",
+    "turkish": "güzel",
+    "category": "Genel"
+  },
+  {
+    "english": "prevent",
+    "turkish": "prevent",
+    "category": "Genel"
+  },
+  {
+    "english": "previous",
+    "turkish": "previous",
+    "category": "Genel"
+  },
+  {
+    "english": "previously",
+    "turkish": "previously",
+    "category": "Genel"
+  },
+  {
+    "english": "prince",
+    "turkish": "prince",
+    "category": "Genel"
+  },
+  {
+    "english": "princess",
+    "turkish": "princess",
+    "category": "Genel"
+  },
+  {
+    "english": "prison",
+    "turkish": "prison",
+    "category": "Genel"
+  },
+  {
+    "english": "prisoner",
+    "turkish": "prisoner",
+    "category": "Genel"
+  },
+  {
+    "english": "private",
+    "turkish": "özel",
+    "category": "Genel"
+  },
+  {
+    "english": "prize",
+    "turkish": "prize",
+    "category": "Genel"
+  },
+  {
+    "english": "probably",
+    "turkish": "probably",
+    "category": "Genel"
+  },
+  {
+    "english": "problem",
+    "turkish": "problem",
+    "category": "Genel"
+  },
+  {
+    "english": "profession",
+    "turkish": "profession",
+    "category": "Genel"
+  },
+  {
+    "english": "programme",
+    "turkish": "programme",
+    "category": "Genel"
+  },
+  {
+    "english": "progress",
+    "turkish": "progress",
+    "category": "Genel"
+  },
+  {
+    "english": "promise",
+    "turkish": "promise",
+    "category": "Genel"
+  },
+  {
+    "english": "promote",
+    "turkish": "promote",
+    "category": "Genel"
+  },
+  {
+    "english": "pronounce",
+    "turkish": "pronounce",
+    "category": "Genel"
+  },
+  {
+    "english": "proper",
+    "turkish": "uygun",
+    "category": "Genel"
+  },
+  {
+    "english": "property",
+    "turkish": "property",
+    "category": "Genel"
+  },
+  {
+    "english": "protect",
+    "turkish": "protect",
+    "category": "Genel"
+  },
+  {
+    "english": "prove",
+    "turkish": "prove",
+    "category": "Genel"
+  },
+  {
+    "english": "provide",
+    "turkish": "provide",
+    "category": "Genel"
+  },
+  {
+    "english": "public",
+    "turkish": "halka açık",
+    "category": "Genel"
+  },
+  {
+    "english": "public transport",
+    "turkish": "public transport",
+    "category": "Genel"
+  },
+  {
+    "english": "publish",
+    "turkish": "publish",
+    "category": "Genel"
+  },
+  {
+    "english": "pull",
+    "turkish": "pull",
+    "category": "Genel"
+  },
+  {
+    "english": "pump",
+    "turkish": "pump",
+    "category": "Genel"
+  },
+  {
+    "english": "punish",
+    "turkish": "punish",
+    "category": "Genel"
+  },
+  {
+    "english": "pure",
+    "turkish": "saf",
+    "category": "Genel"
+  },
+  {
+    "english": "purpose",
+    "turkish": "purpose",
+    "category": "Genel"
+  },
+  {
+    "english": "push",
+    "turkish": "push",
+    "category": "Genel"
+  },
+  {
+    "english": "put",
+    "turkish": "put",
+    "category": "Genel"
+  },
+  {
+    "english": "put away",
+    "turkish": "put away",
+    "category": "Genel"
+  },
+  {
+    "english": "put down",
+    "turkish": "put down",
+    "category": "Genel"
+  },
+  {
+    "english": "put off",
+    "turkish": "put off",
+    "category": "Genel"
+  },
+  {
+    "english": "put on",
+    "turkish": "put on",
+    "category": "Genel"
+  },
+  {
+    "english": "put out",
+    "turkish": "put out",
+    "category": "Genel"
+  },
+  {
+    "english": "put through",
+    "turkish": "put through",
+    "category": "Genel"
+  },
+  {
+    "english": "put up",
+    "turkish": "put up",
+    "category": "Genel"
+  },
+  {
+    "english": "puzzle",
+    "turkish": "puzzle",
+    "category": "Genel"
+  },
+  {
+    "english": "quality",
+    "turkish": "quality",
+    "category": "Genel"
+  },
+  {
+    "english": "quantity",
+    "turkish": "quantity",
+    "category": "Genel"
+  },
+  {
+    "english": "quarter",
+    "turkish": "quarter",
+    "category": "Genel"
+  },
+  {
+    "english": "queen",
+    "turkish": "queen",
+    "category": "Genel"
+  },
+  {
+    "english": "queue",
+    "turkish": "queue",
+    "category": "Genel"
+  },
+  {
+    "english": "quick",
+    "turkish": "hızlı",
+    "category": "Genel"
+  },
+  {
+    "english": "quickly",
+    "turkish": "quickly",
+    "category": "Genel"
+  },
+  {
+    "english": "quiet",
+    "turkish": "sessiz",
+    "category": "Genel"
+  },
+  {
+    "english": "quit",
+    "turkish": "quit",
+    "category": "Genel"
+  },
+  {
+    "english": "quite",
+    "turkish": "quite",
+    "category": "Genel"
+  },
+  {
+    "english": "rail",
+    "turkish": "rail",
+    "category": "Genel"
+  },
+  {
+    "english": "raise",
+    "turkish": "raise",
+    "category": "Genel"
+  },
+  {
+    "english": "range",
+    "turkish": "range",
+    "category": "Genel"
+  },
+  {
+    "english": "rare",
+    "turkish": "nadir",
+    "category": "Genel"
+  },
+  {
+    "english": "rarely",
+    "turkish": "rarely",
+    "category": "Genel"
+  },
+  {
+    "english": "rather",
+    "turkish": "rather",
+    "category": "Genel"
+  },
+  {
+    "english": "reach",
+    "turkish": "reach",
+    "category": "Genel"
+  },
+  {
+    "english": "ready",
+    "turkish": "hazır",
+    "category": "Genel"
+  },
+  {
+    "english": "real",
+    "turkish": "gerçek",
+    "category": "Genel"
+  },
+  {
+    "english": "realise",
+    "turkish": "realise",
+    "category": "Genel"
+  },
+  {
+    "english": "realistic",
+    "turkish": "realistic",
+    "category": "Genel"
+  },
+  {
+    "english": "really",
+    "turkish": "really",
+    "category": "Genel"
+  },
+  {
+    "english": "reason",
+    "turkish": "reason",
+    "category": "Genel"
+  },
+  {
+    "english": "reasonable",
+    "turkish": "reasonable",
+    "category": "Genel"
+  },
+  {
+    "english": "reasonably",
+    "turkish": "reasonably",
+    "category": "Genel"
+  },
+  {
+    "english": "rebuild",
+    "turkish": "rebuild",
+    "category": "Genel"
+  },
+  {
+    "english": "receive",
+    "turkish": "receive",
+    "category": "Genel"
+  },
+  {
+    "english": "recent",
+    "turkish": "recent",
+    "category": "Genel"
+  },
+  {
+    "english": "reception",
+    "turkish": "reception",
+    "category": "Genel"
+  },
+  {
+    "english": "recognise",
+    "turkish": "recognise",
+    "category": "Genel"
+  },
+  {
+    "english": "recommend",
+    "turkish": "recommend",
+    "category": "Genel"
+  },
+  {
+    "english": "recycle",
+    "turkish": "recycle",
+    "category": "Genel"
+  },
+  {
+    "english": "recycled",
+    "turkish": "recycled",
+    "category": "Genel"
+  },
+  {
+    "english": "recycling",
+    "turkish": "recycling",
+    "category": "Genel"
+  },
+  {
+    "english": "reduce",
+    "turkish": "reduce",
+    "category": "Genel"
+  },
+  {
+    "english": "refuse",
+    "turkish": "refuse",
+    "category": "Genel"
+  },
+  {
+    "english": "regarding",
+    "turkish": "regarding",
+    "category": "Genel"
+  },
+  {
+    "english": "regards",
+    "turkish": "regards",
+    "category": "Genel"
+  },
+  {
+    "english": "region",
+    "turkish": "region",
+    "category": "Genel"
+  },
+  {
+    "english": "regret",
+    "turkish": "regret",
+    "category": "Genel"
+  },
+  {
+    "english": "regular",
+    "turkish": "regular",
+    "category": "Genel"
+  },
+  {
+    "english": "relation",
+    "turkish": "relation",
+    "category": "Genel"
+  },
+  {
+    "english": "relationship",
+    "turkish": "relationship",
+    "category": "Genel"
+  },
+  {
+    "english": "relax",
+    "turkish": "relax",
+    "category": "Genel"
+  },
+  {
+    "english": "relaxation",
+    "turkish": "relaxation",
+    "category": "Genel"
+  },
+  {
+    "english": "reliable",
+    "turkish": "reliable",
+    "category": "Genel"
+  },
+  {
+    "english": "religion",
+    "turkish": "religion",
+    "category": "Genel"
+  },
+  {
+    "english": "remain",
+    "turkish": "remain",
+    "category": "Genel"
+  },
+  {
+    "english": "remember",
+    "turkish": "remember",
+    "category": "Genel"
+  },
+  {
+    "english": "remind",
+    "turkish": "remind",
+    "category": "Genel"
+  },
+  {
+    "english": "remote control",
+    "turkish": "remote control",
+    "category": "Genel"
+  },
+  {
+    "english": "remove",
+    "turkish": "remove",
+    "category": "Genel"
+  },
+  {
+    "english": "rent",
+    "turkish": "rent",
+    "category": "Genel"
+  },
+  {
+    "english": "repair",
+    "turkish": "repair",
+    "category": "Genel"
+  },
+  {
+    "english": "repeat",
+    "turkish": "repeat",
+    "category": "Genel"
+  },
+  {
+    "english": "replace",
+    "turkish": "replace",
+    "category": "Genel"
+  },
+  {
+    "english": "reply",
+    "turkish": "reply",
+    "category": "Genel"
+  },
+  {
+    "english": "report",
+    "turkish": "report",
+    "category": "Genel"
+  },
+  {
+    "english": "request",
+    "turkish": "request",
+    "category": "Genel"
+  },
+  {
+    "english": "require",
+    "turkish": "require",
+    "category": "Genel"
+  },
+  {
+    "english": "rescue",
+    "turkish": "rescue",
+    "category": "Genel"
+  },
+  {
+    "english": "research",
+    "turkish": "research",
+    "category": "Genel"
+  },
+  {
+    "english": "reservation",
+    "turkish": "reservation",
+    "category": "Genel"
+  },
+  {
+    "english": "reserve",
+    "turkish": "reserve",
+    "category": "Genel"
+  },
+  {
+    "english": "resort",
+    "turkish": "resort",
+    "category": "Genel"
+  },
+  {
+    "english": "respect",
+    "turkish": "respect",
+    "category": "Genel"
+  },
+  {
+    "english": "responsible",
+    "turkish": "responsible",
+    "category": "Genel"
+  },
+  {
+    "english": "rest",
+    "turkish": "rest",
+    "category": "Genel"
+  },
+  {
+    "english": "result",
+    "turkish": "result",
+    "category": "Genel"
+  },
+  {
+    "english": "retire",
+    "turkish": "retire",
+    "category": "Genel"
+  },
+  {
+    "english": "return",
+    "turkish": "return",
+    "category": "Genel"
+  },
+  {
+    "english": "review",
+    "turkish": "review",
+    "category": "Genel"
+  },
+  {
+    "english": "revise",
+    "turkish": "revise",
+    "category": "Genel"
+  },
+  {
+    "english": "reward",
+    "turkish": "reward",
+    "category": "Genel"
+  },
+  {
+    "english": "rich",
+    "turkish": "zengin",
+    "category": "Genel"
+  },
+  {
+    "english": "ride",
+    "turkish": "ride",
+    "category": "Genel"
+  },
+  {
+    "english": "right",
+    "turkish": "doğru",
+    "category": "Genel"
+  },
+  {
+    "english": "right-hand",
+    "turkish": "right-hand",
+    "category": "Genel"
+  },
+  {
+    "english": "ring back",
+    "turkish": "ring back",
+    "category": "Genel"
+  },
+  {
+    "english": "ring up",
+    "turkish": "ring up",
+    "category": "Genel"
+  },
+  {
+    "english": "rob",
+    "turkish": "rob",
+    "category": "Genel"
+  },
+  {
+    "english": "role",
+    "turkish": "role",
+    "category": "Genel"
+  },
+  {
+    "english": "romance",
+    "turkish": "romance",
+    "category": "Genel"
+  },
+  {
+    "english": "rose",
+    "turkish": "rose",
+    "category": "Genel"
+  },
+  {
+    "english": "rough",
+    "turkish": "pürüzlü",
+    "category": "Genel"
+  },
+  {
+    "english": "round",
+    "turkish": "yuvarlak",
+    "category": "Genel"
+  },
+  {
+    "english": "roundabout",
+    "turkish": "roundabout",
+    "category": "Genel"
+  },
+  {
+    "english": "routine",
+    "turkish": "routine",
+    "category": "Genel"
+  },
+  {
+    "english": "row",
+    "turkish": "row",
+    "category": "Genel"
+  },
+  {
+    "english": "rubbish",
+    "turkish": "rubbish",
+    "category": "Genel"
+  },
+  {
+    "english": "ruin",
+    "turkish": "ruin",
+    "category": "Genel"
+  },
+  {
+    "english": "rule",
+    "turkish": "rule",
+    "category": "Genel"
+  },
+  {
+    "english": "run out",
+    "turkish": "run out",
+    "category": "Genel"
+  },
+  {
+    "english": "safe",
+    "turkish": "güvenli",
+    "category": "Genel"
+  },
+  {
+    "english": "safely",
+    "turkish": "safely",
+    "category": "Genel"
+  },
+  {
+    "english": "sale",
+    "turkish": "sale",
+    "category": "Genel"
+  },
+  {
+    "english": "salesman/saleswoman",
+    "turkish": "salesman/saleswoman",
+    "category": "Genel"
+  },
+  {
+    "english": "same",
+    "turkish": "aynı",
+    "category": "Genel"
+  },
+  {
+    "english": "satisfactory",
+    "turkish": "satisfactory",
+    "category": "Genel"
+  },
+  {
+    "english": "say",
+    "turkish": "say",
+    "category": "Genel"
+  },
+  {
+    "english": "scene",
+    "turkish": "scene",
+    "category": "Genel"
+  },
+  {
+    "english": "schoolchild",
+    "turkish": "schoolchild",
+    "category": "Genel"
+  },
+  {
+    "english": "science fiction",
+    "turkish": "science fiction",
+    "category": "Genel"
+  },
+  {
+    "english": "scissors",
+    "turkish": "scissors",
+    "category": "Genel"
+  },
+  {
+    "english": "scream",
+    "turkish": "scream",
+    "category": "Genel"
+  },
+  {
+    "english": "search",
+    "turkish": "search",
+    "category": "Genel"
+  },
+  {
+    "english": "seat",
+    "turkish": "seat",
+    "category": "Genel"
+  },
+  {
+    "english": "second-hand",
+    "turkish": "second-hand",
+    "category": "Genel"
+  },
+  {
+    "english": "secret",
+    "turkish": "gizli",
+    "category": "Genel"
+  },
+  {
+    "english": "section",
+    "turkish": "section",
+    "category": "Genel"
+  },
+  {
+    "english": "security",
+    "turkish": "security",
+    "category": "Genel"
+  },
+  {
+    "english": "see",
+    "turkish": "see",
+    "category": "Genel"
+  },
+  {
+    "english": "seem",
+    "turkish": "seem",
+    "category": "Genel"
+  },
+  {
+    "english": "select",
+    "turkish": "select",
+    "category": "Genel"
+  },
+  {
+    "english": "self-service",
+    "turkish": "self-service",
+    "category": "Genel"
+  },
+  {
+    "english": "send",
+    "turkish": "send",
+    "category": "Genel"
+  },
+  {
+    "english": "sense",
+    "turkish": "sense",
+    "category": "Genel"
+  },
+  {
+    "english": "separate",
+    "turkish": "separate",
+    "category": "Genel"
+  },
+  {
+    "english": "series",
+    "turkish": "series",
+    "category": "Genel"
+  },
+  {
+    "english": "serve",
+    "turkish": "serve",
+    "category": "Genel"
+  },
+  {
+    "english": "service",
+    "turkish": "service",
+    "category": "Genel"
+  },
+  {
+    "english": "session",
+    "turkish": "session",
+    "category": "Genel"
+  },
+  {
+    "english": "set",
+    "turkish": "set",
+    "category": "Genel"
+  },
+  {
+    "english": "set off",
+    "turkish": "set off",
+    "category": "Genel"
+  },
+  {
+    "english": "set up",
+    "turkish": "set up",
+    "category": "Genel"
+  },
+  {
+    "english": "several",
+    "turkish": "several",
+    "category": "Genel"
+  },
+  {
+    "english": "sew",
+    "turkish": "sew",
+    "category": "Genel"
+  },
+  {
+    "english": "sex",
+    "turkish": "sex",
+    "category": "Genel"
+  },
+  {
+    "english": "shake",
+    "turkish": "shake",
+    "category": "Genel"
+  },
+  {
+    "english": "shall",
+    "turkish": "shall",
+    "category": "Genel"
+  },
+  {
+    "english": "shame",
+    "turkish": "shame",
+    "category": "Genel"
+  },
+  {
+    "english": "shampoo",
+    "turkish": "shampoo",
+    "category": "Genel"
+  },
+  {
+    "english": "shape",
+    "turkish": "shape",
+    "category": "Genel"
+  },
+  {
+    "english": "share",
+    "turkish": "share",
+    "category": "Genel"
+  },
+  {
+    "english": "sharp",
+    "turkish": "keskin",
+    "category": "Genel"
+  },
+  {
+    "english": "shave",
+    "turkish": "shave",
+    "category": "Genel"
+  },
+  {
+    "english": "she",
+    "turkish": "she",
+    "category": "Genel"
+  },
+  {
+    "english": "shock",
+    "turkish": "shock",
+    "category": "Genel"
+  },
+  {
+    "english": "shoot",
+    "turkish": "shoot",
+    "category": "Genel"
+  },
+  {
+    "english": "short",
+    "turkish": "kısa",
+    "category": "Genel"
+  },
+  {
+    "english": "shorts",
+    "turkish": "shorts",
+    "category": "Genel"
+  },
+  {
+    "english": "should",
+    "turkish": "should",
+    "category": "Genel"
+  },
+  {
+    "english": "shout",
+    "turkish": "shout",
+    "category": "Genel"
+  },
+  {
+    "english": "show",
+    "turkish": "show",
+    "category": "Genel"
+  },
+  {
+    "english": "shut",
+    "turkish": "shut",
+    "category": "Genel"
+  },
+  {
+    "english": "side",
+    "turkish": "side",
+    "category": "Genel"
+  },
+  {
+    "english": "sight",
+    "turkish": "sight",
+    "category": "Genel"
+  },
+  {
+    "english": "sightseeing",
+    "turkish": "sightseeing",
+    "category": "Genel"
+  },
+  {
+    "english": "sign",
+    "turkish": "sign",
+    "category": "Genel"
+  },
+  {
+    "english": "signal",
+    "turkish": "signal",
+    "category": "Genel"
+  },
+  {
+    "english": "signpost",
+    "turkish": "signpost",
+    "category": "Genel"
+  },
+  {
+    "english": "silence",
+    "turkish": "silence",
+    "category": "Genel"
+  },
+  {
+    "english": "silent",
+    "turkish": "silent",
+    "category": "Genel"
+  },
+  {
+    "english": "silly",
+    "turkish": "aptal",
+    "category": "Genel"
+  },
+  {
+    "english": "silver",
+    "turkish": "silver",
+    "category": "Genel"
+  },
+  {
+    "english": "similar",
+    "turkish": "benzer",
+    "category": "Genel"
+  },
+  {
+    "english": "simple",
+    "turkish": "basit",
+    "category": "Genel"
+  },
+  {
+    "english": "sincerely",
+    "turkish": "sincerely",
+    "category": "Genel"
+  },
+  {
+    "english": "single",
+    "turkish": "tek",
+    "category": "Genel"
+  },
+  {
+    "english": "sir",
+    "turkish": "sir",
+    "category": "Genel"
+  },
+  {
+    "english": "sit",
+    "turkish": "sit",
+    "category": "Genel"
+  },
+  {
+    "english": "sit down",
+    "turkish": "sit down",
+    "category": "Genel"
+  },
+  {
+    "english": "site",
+    "turkish": "site",
+    "category": "Genel"
+  },
+  {
+    "english": "situated",
+    "turkish": "situated",
+    "category": "Genel"
+  },
+  {
+    "english": "situation",
+    "turkish": "situation",
+    "category": "Genel"
+  },
+  {
+    "english": "skate",
+    "turkish": "skate",
+    "category": "Genel"
+  },
+  {
+    "english": "sleep",
+    "turkish": "sleep",
+    "category": "Genel"
+  },
+  {
+    "english": "slim",
+    "turkish": "slim",
+    "category": "Genel"
+  },
+  {
+    "english": "slip",
+    "turkish": "slip",
+    "category": "Genel"
+  },
+  {
+    "english": "slow",
+    "turkish": "yavaş",
+    "category": "Genel"
+  },
+  {
+    "english": "slowly",
+    "turkish": "slowly",
+    "category": "Genel"
+  },
+  {
+    "english": "smell",
+    "turkish": "smell",
+    "category": "Genel"
+  },
+  {
+    "english": "smoke",
+    "turkish": "smoke",
+    "category": "Genel"
+  },
+  {
+    "english": "smoking",
+    "turkish": "smoking",
+    "category": "Genel"
+  },
+  {
+    "english": "smooth",
+    "turkish": "pürüzsüz",
+    "category": "Genel"
+  },
+  {
+    "english": "so",
+    "turkish": "so",
+    "category": "Genel"
+  },
+  {
+    "english": "so-so",
+    "turkish": "so-so",
+    "category": "Genel"
+  },
+  {
+    "english": "soap",
+    "turkish": "soap",
+    "category": "Genel"
+  },
+  {
+    "english": "soap opera",
+    "turkish": "soap opera",
+    "category": "Genel"
+  },
+  {
+    "english": "sociable",
+    "turkish": "sociable",
+    "category": "Genel"
+  },
+  {
+    "english": "social",
+    "turkish": "social",
+    "category": "Genel"
+  },
+  {
+    "english": "society",
+    "turkish": "society",
+    "category": "Genel"
+  },
+  {
+    "english": "sofa",
+    "turkish": "sofa",
+    "category": "Genel"
+  },
+  {
+    "english": "soft",
+    "turkish": "yumuşak",
+    "category": "Genel"
+  },
+  {
+    "english": "solution",
+    "turkish": "solution",
+    "category": "Genel"
+  },
+  {
+    "english": "solve",
+    "turkish": "solve",
+    "category": "Genel"
+  },
+  {
+    "english": "some",
+    "turkish": "some",
+    "category": "Genel"
+  },
+  {
+    "english": "somebody",
+    "turkish": "somebody",
+    "category": "Genel"
+  },
+  {
+    "english": "somehow",
+    "turkish": "somehow",
+    "category": "Genel"
+  },
+  {
+    "english": "someone",
+    "turkish": "someone",
+    "category": "Genel"
+  },
+  {
+    "english": "something",
+    "turkish": "something",
+    "category": "Genel"
+  },
+  {
+    "english": "sometimes",
+    "turkish": "sometimes",
+    "category": "Genel"
+  },
+  {
+    "english": "somewhere",
+    "turkish": "bir yerde",
+    "category": "Genel"
+  },
+  {
+    "english": "sore",
+    "turkish": "sore",
+    "category": "Genel"
+  },
+  {
+    "english": "sorry",
+    "turkish": "sorry",
+    "category": "Genel"
+  },
+  {
+    "english": "sort",
+    "turkish": "sort",
+    "category": "Genel"
+  },
+  {
+    "english": "sound",
+    "turkish": "sound",
+    "category": "Genel"
+  },
+  {
+    "english": "souvenir",
+    "turkish": "souvenir",
+    "category": "Genel"
+  },
+  {
+    "english": "space",
+    "turkish": "space",
+    "category": "Genel"
+  },
+  {
+    "english": "spare",
+    "turkish": "spare",
+    "category": "Genel"
+  },
+  {
+    "english": "speak",
+    "turkish": "speak",
+    "category": "Genel"
+  },
+  {
+    "english": "speaker",
+    "turkish": "speaker",
+    "category": "Genel"
+  },
+  {
+    "english": "special",
+    "turkish": "özel",
+    "category": "Genel"
+  },
+  {
+    "english": "spectacular",
+    "turkish": "spectacular",
+    "category": "Genel"
+  },
+  {
+    "english": "speech",
+    "turkish": "speech",
+    "category": "Genel"
+  },
+  {
+    "english": "speed",
+    "turkish": "speed",
+    "category": "Genel"
+  },
+  {
+    "english": "spite",
+    "turkish": "spite",
+    "category": "Genel"
+  },
+  {
+    "english": "split up",
+    "turkish": "split up",
+    "category": "Genel"
+  },
+  {
+    "english": "spoil",
+    "turkish": "spoil",
+    "category": "Genel"
+  },
+  {
+    "english": "spot",
+    "turkish": "spot",
+    "category": "Genel"
+  },
+  {
+    "english": "spy",
+    "turkish": "spy",
+    "category": "Genel"
+  },
+  {
+    "english": "square",
+    "turkish": "square",
+    "category": "Genel"
+  },
+  {
+    "english": "staff",
+    "turkish": "staff",
+    "category": "Genel"
+  },
+  {
+    "english": "stage",
+    "turkish": "stage",
+    "category": "Genel"
+  },
+  {
+    "english": "stall",
+    "turkish": "stall",
+    "category": "Genel"
+  },
+  {
+    "english": "stamp",
+    "turkish": "stamp",
+    "category": "Genel"
+  },
+  {
+    "english": "stand",
+    "turkish": "stand",
+    "category": "Genel"
+  },
+  {
+    "english": "start",
+    "turkish": "start",
+    "category": "Genel"
+  },
+  {
+    "english": "statue",
+    "turkish": "statue",
+    "category": "Genel"
+  },
+  {
+    "english": "stay",
+    "turkish": "stay",
+    "category": "Genel"
+  },
+  {
+    "english": "stay behind",
+    "turkish": "stay behind",
+    "category": "Genel"
+  },
+  {
+    "english": "steal",
+    "turkish": "steal",
+    "category": "Genel"
+  },
+  {
+    "english": "steep",
+    "turkish": "steep",
+    "category": "Genel"
+  },
+  {
+    "english": "step",
+    "turkish": "step",
+    "category": "Genel"
+  },
+  {
+    "english": "stick",
+    "turkish": "stick",
+    "category": "Genel"
+  },
+  {
+    "english": "sticky",
+    "turkish": "sticky",
+    "category": "Genel"
+  },
+  {
+    "english": "still",
+    "turkish": "still",
+    "category": "Genel"
+  },
+  {
+    "english": "stone",
+    "turkish": "stone",
+    "category": "Genel"
+  },
+  {
+    "english": "stop",
+    "turkish": "stop",
+    "category": "Genel"
+  },
+  {
+    "english": "story",
+    "turkish": "story",
+    "category": "Genel"
+  },
+  {
+    "english": "straight",
+    "turkish": "düz",
+    "category": "Genel"
+  },
+  {
+    "english": "strange",
+    "turkish": "garip",
+    "category": "Genel"
+  },
+  {
+    "english": "stranger",
+    "turkish": "stranger",
+    "category": "Genel"
+  },
+  {
+    "english": "street",
+    "turkish": "street",
+    "category": "Genel"
+  },
+  {
+    "english": "stress",
+    "turkish": "stress",
+    "category": "Genel"
+  },
+  {
+    "english": "strike",
+    "turkish": "strike",
+    "category": "Genel"
+  },
+  {
+    "english": "stripe",
+    "turkish": "stripe",
+    "category": "Genel"
+  },
+  {
+    "english": "strong",
+    "turkish": "güçlü",
+    "category": "Genel"
+  },
+  {
+    "english": "stuff",
+    "turkish": "stuff",
+    "category": "Genel"
+  },
+  {
+    "english": "succeed",
+    "turkish": "succeed",
+    "category": "Genel"
+  },
+  {
+    "english": "success",
+    "turkish": "success",
+    "category": "Genel"
+  },
+  {
+    "english": "successful",
+    "turkish": "successful",
+    "category": "Genel"
+  },
+  {
+    "english": "such",
+    "turkish": "such",
+    "category": "Genel"
+  },
+  {
+    "english": "sudden",
+    "turkish": "sudden",
+    "category": "Genel"
+  },
+  {
+    "english": "suddenly",
+    "turkish": "suddenly",
+    "category": "Genel"
+  },
+  {
+    "english": "suggest",
+    "turkish": "suggest",
+    "category": "Genel"
+  },
+  {
+    "english": "suggestion",
+    "turkish": "suggestion",
+    "category": "Genel"
+  },
+  {
+    "english": "suitable",
+    "turkish": "suitable",
+    "category": "Genel"
+  },
+  {
+    "english": "sum",
+    "turkish": "sum",
+    "category": "Genel"
+  },
+  {
+    "english": "support",
+    "turkish": "support",
+    "category": "Genel"
+  },
+  {
+    "english": "suppose",
+    "turkish": "suppose",
+    "category": "Genel"
+  },
+  {
+    "english": "sure",
+    "turkish": "sure",
+    "category": "Genel"
+  },
+  {
+    "english": "surname",
+    "turkish": "surname",
+    "category": "Genel"
+  },
+  {
+    "english": "surprise",
+    "turkish": "surprise",
+    "category": "Genel"
+  },
+  {
+    "english": "surround",
+    "turkish": "surround",
+    "category": "Genel"
+  },
+  {
+    "english": "switch",
+    "turkish": "switch",
+    "category": "Genel"
+  },
+  {
+    "english": "table-cloth",
+    "turkish": "table-cloth",
+    "category": "Genel"
+  },
+  {
+    "english": "tablet",
+    "turkish": "tablet",
+    "category": "Genel"
+  },
+  {
+    "english": "take",
+    "turkish": "take",
+    "category": "Genel"
+  },
+  {
+    "english": "take away",
+    "turkish": "take away",
+    "category": "Genel"
+  },
+  {
+    "english": "take care of",
+    "turkish": "take care of",
+    "category": "Genel"
+  },
+  {
+    "english": "take off",
+    "turkish": "take off",
+    "category": "Genel"
+  },
+  {
+    "english": "take part",
+    "turkish": "take part",
+    "category": "Genel"
+  },
+  {
+    "english": "take place",
+    "turkish": "take place",
+    "category": "Genel"
+  },
+  {
+    "english": "take up",
+    "turkish": "take up",
+    "category": "Genel"
+  },
+  {
+    "english": "takeaway",
+    "turkish": "takeaway",
+    "category": "Genel"
+  },
+  {
+    "english": "talent",
+    "turkish": "talent",
+    "category": "Genel"
+  },
+  {
+    "english": "talented",
+    "turkish": "talented",
+    "category": "Genel"
+  },
+  {
+    "english": "talk",
+    "turkish": "talk",
+    "category": "Genel"
+  },
+  {
+    "english": "talk show",
+    "turkish": "talk show",
+    "category": "Genel"
+  },
+  {
+    "english": "tall",
+    "turkish": "uzun boylu",
+    "category": "Genel"
+  },
+  {
+    "english": "tap",
+    "turkish": "tap",
+    "category": "Genel"
+  },
+  {
+    "english": "teach",
+    "turkish": "teach",
+    "category": "Genel"
+  },
+  {
+    "english": "teaching",
+    "turkish": "teaching",
+    "category": "Genel"
+  },
+  {
+    "english": "tear",
+    "turkish": "tear",
+    "category": "Genel"
+  },
+  {
+    "english": "technique",
+    "turkish": "technique",
+    "category": "Genel"
+  },
+  {
+    "english": "teenager",
+    "turkish": "teenager",
+    "category": "Genel"
+  },
+  {
+    "english": "tell",
+    "turkish": "tell",
+    "category": "Genel"
+  },
+  {
+    "english": "temporary",
+    "turkish": "temporary",
+    "category": "Genel"
+  },
+  {
+    "english": "tent",
+    "turkish": "tent",
+    "category": "Genel"
+  },
+  {
+    "english": "terrible",
+    "turkish": "korkunç",
+    "category": "Genel"
+  },
+  {
+    "english": "terribly",
+    "turkish": "terribly",
+    "category": "Genel"
+  },
+  {
+    "english": "test",
+    "turkish": "test",
+    "category": "Genel"
+  },
+  {
+    "english": "than",
+    "turkish": "than",
+    "category": "Genel"
+  },
+  {
+    "english": "thank",
+    "turkish": "thank",
+    "category": "Genel"
+  },
+  {
+    "english": "thank you",
+    "turkish": "thank you",
+    "category": "Genel"
+  },
+  {
+    "english": "thanks",
+    "turkish": "thanks",
+    "category": "Genel"
+  },
+  {
+    "english": "that",
+    "turkish": "that",
+    "category": "Genel"
+  },
+  {
+    "english": "their",
+    "turkish": "their",
+    "category": "Genel"
+  },
+  {
+    "english": "theirs",
+    "turkish": "theirs",
+    "category": "Genel"
+  },
+  {
+    "english": "them",
+    "turkish": "them",
+    "category": "Genel"
+  },
+  {
+    "english": "themselves",
+    "turkish": "themselves",
+    "category": "Genel"
+  },
+  {
+    "english": "then",
+    "turkish": "then",
+    "category": "Genel"
+  },
+  {
+    "english": "there",
+    "turkish": "orada",
+    "category": "Genel"
+  },
+  {
+    "english": "therefore",
+    "turkish": "therefore",
+    "category": "Genel"
+  },
+  {
+    "english": "these",
+    "turkish": "these",
+    "category": "Genel"
+  },
+  {
+    "english": "they",
+    "turkish": "they",
+    "category": "Genel"
+  },
+  {
+    "english": "thick",
+    "turkish": "kalın",
+    "category": "Genel"
+  },
+  {
+    "english": "thief",
+    "turkish": "thief",
+    "category": "Genel"
+  },
+  {
+    "english": "thin",
+    "turkish": "ince",
+    "category": "Genel"
+  },
+  {
+    "english": "thing",
+    "turkish": "thing",
+    "category": "Genel"
+  },
+  {
+    "english": "think",
+    "turkish": "think",
+    "category": "Genel"
+  },
+  {
+    "english": "thirsty",
+    "turkish": "thirsty",
+    "category": "Genel"
+  },
+  {
+    "english": "this",
+    "turkish": "this",
+    "category": "Genel"
+  },
+  {
+    "english": "those",
+    "turkish": "those",
+    "category": "Genel"
+  },
+  {
+    "english": "though",
+    "turkish": "though",
+    "category": "Genel"
+  },
+  {
+    "english": "thought",
+    "turkish": "thought",
+    "category": "Genel"
+  },
+  {
+    "english": "thriller",
+    "turkish": "thriller",
+    "category": "Genel"
+  },
+  {
+    "english": "through",
+    "turkish": "through",
+    "category": "Genel"
+  },
+  {
+    "english": "throw",
+    "turkish": "throw",
+    "category": "Genel"
+  },
+  {
+    "english": "throw away",
+    "turkish": "throw away",
+    "category": "Genel"
+  },
+  {
+    "english": "tick",
+    "turkish": "tick",
+    "category": "Genel"
+  },
+  {
+    "english": "tidy up",
+    "turkish": "tidy up",
+    "category": "Genel"
+  },
+  {
+    "english": "tight",
+    "turkish": "tight",
+    "category": "Genel"
+  },
+  {
+    "english": "tin",
+    "turkish": "tin",
+    "category": "Genel"
+  },
+  {
+    "english": "tiny",
+    "turkish": "küçücük",
+    "category": "Genel"
+  },
+  {
+    "english": "tissue",
+    "turkish": "tissue",
+    "category": "Genel"
+  },
+  {
+    "english": "together",
+    "turkish": "birlikte",
+    "category": "Genel"
+  },
+  {
+    "english": "too",
+    "turkish": "too",
+    "category": "Genel"
+  },
+  {
+    "english": "tooth/teeth",
+    "turkish": "tooth/teeth",
+    "category": "Genel"
+  },
+  {
+    "english": "top",
+    "turkish": "top",
+    "category": "Genel"
+  },
+  {
+    "english": "topic",
+    "turkish": "topic",
+    "category": "Genel"
+  },
+  {
+    "english": "total",
+    "turkish": "total",
+    "category": "Genel"
+  },
+  {
+    "english": "totally",
+    "turkish": "totally",
+    "category": "Genel"
+  },
+  {
+    "english": "touch",
+    "turkish": "touch",
+    "category": "Genel"
+  },
+  {
+    "english": "tour",
+    "turkish": "tour",
+    "category": "Genel"
+  },
+  {
+    "english": "tour guide",
+    "turkish": "tour guide",
+    "category": "Genel"
+  },
+  {
+    "english": "tourist",
+    "turkish": "tourist",
+    "category": "Genel"
+  },
+  {
+    "english": "tourist information centre",
+    "turkish": "tourist information centre",
+    "category": "Genel"
+  },
+  {
+    "english": "toward",
+    "turkish": "toward",
+    "category": "Genel"
+  },
+  {
+    "english": "towel",
+    "turkish": "towel",
+    "category": "Genel"
+  },
+  {
+    "english": "town",
+    "turkish": "town",
+    "category": "Genel"
+  },
+  {
+    "english": "toy",
+    "turkish": "toy",
+    "category": "Genel"
+  },
+  {
+    "english": "traditional",
+    "turkish": "traditional",
+    "category": "Genel"
+  },
+  {
+    "english": "transfer",
+    "turkish": "transfer",
+    "category": "Genel"
+  },
+  {
+    "english": "trash can",
+    "turkish": "trash can",
+    "category": "Genel"
+  },
+  {
+    "english": "travel agent",
+    "turkish": "travel agent",
+    "category": "Genel"
+  },
+  {
+    "english": "trend",
+    "turkish": "trend",
+    "category": "Genel"
+  },
+  {
+    "english": "trick",
+    "turkish": "trick",
+    "category": "Genel"
+  },
+  {
+    "english": "trip",
+    "turkish": "trip",
+    "category": "Genel"
+  },
+  {
+    "english": "trouble",
+    "turkish": "trouble",
+    "category": "Genel"
+  },
+  {
+    "english": "trousers",
+    "turkish": "trousers",
+    "category": "Genel"
+  },
+  {
+    "english": "true",
+    "turkish": "doğru",
+    "category": "Genel"
+  },
+  {
+    "english": "trunk",
+    "turkish": "trunk",
+    "category": "Genel"
+  },
+  {
+    "english": "trust",
+    "turkish": "trust",
+    "category": "Genel"
+  },
+  {
+    "english": "truth",
+    "turkish": "truth",
+    "category": "Genel"
+  },
+  {
+    "english": "try",
+    "turkish": "try",
+    "category": "Genel"
+  },
+  {
+    "english": "try on",
+    "turkish": "try on",
+    "category": "Genel"
+  },
+  {
+    "english": "tube",
+    "turkish": "tube",
+    "category": "Genel"
+  },
+  {
+    "english": "tunnel",
+    "turkish": "tunnel",
+    "category": "Genel"
+  },
+  {
+    "english": "turn",
+    "turkish": "turn",
+    "category": "Genel"
+  },
+  {
+    "english": "turn down",
+    "turkish": "turn down",
+    "category": "Genel"
+  },
+  {
+    "english": "turn into",
+    "turkish": "turn into",
+    "category": "Genel"
+  },
+  {
+    "english": "turn off",
+    "turkish": "turn off",
+    "category": "Genel"
+  },
+  {
+    "english": "turn on",
+    "turkish": "turn on",
+    "category": "Genel"
+  },
+  {
+    "english": "turn up",
+    "turkish": "turn up",
+    "category": "Genel"
+  },
+  {
+    "english": "turning",
+    "turkish": "turning",
+    "category": "Genel"
+  },
+  {
+    "english": "twin",
+    "turkish": "twin",
+    "category": "Genel"
+  },
+  {
+    "english": "typical",
+    "turkish": "typical",
+    "category": "Genel"
+  },
+  {
+    "english": "typically",
+    "turkish": "typically",
+    "category": "Genel"
+  },
+  {
+    "english": "tyre",
+    "turkish": "tyre",
+    "category": "Genel"
+  },
+  {
+    "english": "ugly",
+    "turkish": "çirkin",
+    "category": "Genel"
+  },
+  {
+    "english": "umbrella",
+    "turkish": "umbrella",
+    "category": "Genel"
+  },
+  {
+    "english": "unable",
+    "turkish": "unable",
+    "category": "Genel"
+  },
+  {
+    "english": "unbelievable",
+    "turkish": "unbelievable",
+    "category": "Genel"
+  },
+  {
+    "english": "uncomfortable",
+    "turkish": "uncomfortable",
+    "category": "Genel"
+  },
+  {
+    "english": "under",
+    "turkish": "under",
+    "category": "Genel"
+  },
+  {
+    "english": "underneath",
+    "turkish": "underneath",
+    "category": "Genel"
+  },
+  {
+    "english": "understand",
+    "turkish": "understand",
+    "category": "Genel"
+  },
+  {
+    "english": "undress",
+    "turkish": "undress",
+    "category": "Genel"
+  },
+  {
+    "english": "unemployed",
+    "turkish": "unemployed",
+    "category": "Genel"
+  },
+  {
+    "english": "unemployment",
+    "turkish": "unemployment",
+    "category": "Genel"
+  },
+  {
+    "english": "unexpected",
+    "turkish": "unexpected",
+    "category": "Genel"
+  },
+  {
+    "english": "unfair",
+    "turkish": "unfair",
+    "category": "Genel"
+  },
+  {
+    "english": "unfit",
+    "turkish": "unfit",
+    "category": "Genel"
+  },
+  {
+    "english": "unforgettable",
+    "turkish": "unforgettable",
+    "category": "Genel"
+  },
+  {
+    "english": "unfortunately",
+    "turkish": "unfortunately",
+    "category": "Genel"
+  },
+  {
+    "english": "unfriendly",
+    "turkish": "unfriendly",
+    "category": "Genel"
+  },
+  {
+    "english": "unhappy",
+    "turkish": "unhappy",
+    "category": "Genel"
+  },
+  {
+    "english": "unhealthy",
+    "turkish": "unhealthy",
+    "category": "Genel"
+  },
+  {
+    "english": "unimportant",
+    "turkish": "unimportant",
+    "category": "Genel"
+  },
+  {
+    "english": "uninterested",
+    "turkish": "uninterested",
+    "category": "Genel"
+  },
+  {
+    "english": "uninteresting",
+    "turkish": "uninteresting",
+    "category": "Genel"
+  },
+  {
+    "english": "union",
+    "turkish": "union",
+    "category": "Genel"
+  },
+  {
+    "english": "unit",
+    "turkish": "unit",
+    "category": "Genel"
+  },
+  {
+    "english": "universe",
+    "turkish": "universe",
+    "category": "Genel"
+  },
+  {
+    "english": "unknown",
+    "turkish": "unknown",
+    "category": "Genel"
+  },
+  {
+    "english": "unless",
+    "turkish": "unless",
+    "category": "Genel"
+  },
+  {
+    "english": "unlikey",
+    "turkish": "unlikey",
+    "category": "Genel"
+  },
+  {
+    "english": "unlucky",
+    "turkish": "unlucky",
+    "category": "Genel"
+  },
+  {
+    "english": "unnecessary",
+    "turkish": "unnecessary",
+    "category": "Genel"
+  },
+  {
+    "english": "unpack",
+    "turkish": "unpack",
+    "category": "Genel"
+  },
+  {
+    "english": "until",
+    "turkish": "until",
+    "category": "Genel"
+  },
+  {
+    "english": "unusual",
+    "turkish": "unusual",
+    "category": "Genel"
+  },
+  {
+    "english": "up",
+    "turkish": "up",
+    "category": "Genel"
+  },
+  {
+    "english": "up to",
+    "turkish": "up to",
+    "category": "Genel"
+  },
+  {
+    "english": "up to date",
+    "turkish": "up to date",
+    "category": "Genel"
+  },
+  {
+    "english": "upon",
+    "turkish": "upon",
+    "category": "Genel"
+  },
+  {
+    "english": "upper",
+    "turkish": "upper",
+    "category": "Genel"
+  },
+  {
+    "english": "urgent",
+    "turkish": "urgent",
+    "category": "Genel"
+  },
+  {
+    "english": "urgently",
+    "turkish": "urgently",
+    "category": "Genel"
+  },
+  {
+    "english": "us",
+    "turkish": "us",
+    "category": "Genel"
+  },
+  {
+    "english": "use",
+    "turkish": "use",
+    "category": "Genel"
+  },
+  {
+    "english": "used to",
+    "turkish": "used to",
+    "category": "Genel"
+  },
+  {
+    "english": "useful",
+    "turkish": "faydalı",
+    "category": "Genel"
+  },
+  {
+    "english": "usual",
+    "turkish": "usual",
+    "category": "Genel"
+  },
+  {
+    "english": "usually",
+    "turkish": "usually",
+    "category": "Genel"
+  },
+  {
+    "english": "valuable",
+    "turkish": "valuable",
+    "category": "Genel"
+  },
+  {
+    "english": "van",
+    "turkish": "van",
+    "category": "Genel"
+  },
+  {
+    "english": "variety",
+    "turkish": "variety",
+    "category": "Genel"
+  },
+  {
+    "english": "various",
+    "turkish": "various",
+    "category": "Genel"
+  },
+  {
+    "english": "vase",
+    "turkish": "vase",
+    "category": "Genel"
+  },
+  {
+    "english": "very",
+    "turkish": "very",
+    "category": "Genel"
+  },
+  {
+    "english": "via",
+    "turkish": "via",
+    "category": "Genel"
+  },
+  {
+    "english": "view",
+    "turkish": "view",
+    "category": "Genel"
+  },
+  {
+    "english": "village",
+    "turkish": "village",
+    "category": "Genel"
+  },
+  {
+    "english": "visa",
+    "turkish": "visa",
+    "category": "Genel"
+  },
+  {
+    "english": "visit",
+    "turkish": "visit",
+    "category": "Genel"
+  },
+  {
+    "english": "visitor",
+    "turkish": "visitor",
+    "category": "Genel"
+  },
+  {
+    "english": "voice",
+    "turkish": "voice",
+    "category": "Genel"
+  },
+  {
+    "english": "volume",
+    "turkish": "volume",
+    "category": "Genel"
+  },
+  {
+    "english": "vote",
+    "turkish": "vote",
+    "category": "Genel"
+  },
+  {
+    "english": "wait",
+    "turkish": "wait",
+    "category": "Genel"
+  },
+  {
+    "english": "waiting room",
+    "turkish": "waiting room",
+    "category": "Genel"
+  },
+  {
+    "english": "wake",
+    "turkish": "wake",
+    "category": "Genel"
+  },
+  {
+    "english": "wake up",
+    "turkish": "wake up",
+    "category": "Genel"
+  },
+  {
+    "english": "walk",
+    "turkish": "walk",
+    "category": "Genel"
+  },
+  {
+    "english": "walking",
+    "turkish": "walking",
+    "category": "Genel"
+  },
+  {
+    "english": "want",
+    "turkish": "want",
+    "category": "Genel"
+  },
+  {
+    "english": "war",
+    "turkish": "war",
+    "category": "Genel"
+  },
+  {
+    "english": "warm",
+    "turkish": "sıcak",
+    "category": "Genel"
+  },
+  {
+    "english": "warn",
+    "turkish": "warn",
+    "category": "Genel"
+  },
+  {
+    "english": "warning",
+    "turkish": "warning",
+    "category": "Genel"
+  },
+  {
+    "english": "wash up",
+    "turkish": "wash up",
+    "category": "Genel"
+  },
+  {
+    "english": "waste",
+    "turkish": "waste",
+    "category": "Genel"
+  },
+  {
+    "english": "watch",
+    "turkish": "watch",
+    "category": "Genel"
+  },
+  {
+    "english": "way",
+    "turkish": "way",
+    "category": "Genel"
+  },
+  {
+    "english": "wear out",
+    "turkish": "wear out",
+    "category": "Genel"
+  },
+  {
+    "english": "weather forecast",
+    "turkish": "weather forecast",
+    "category": "Genel"
+  },
+  {
+    "english": "weekly",
+    "turkish": "weekly",
+    "category": "Genel"
+  },
+  {
+    "english": "weigh",
+    "turkish": "weigh",
+    "category": "Genel"
+  },
+  {
+    "english": "weight",
+    "turkish": "weight",
+    "category": "Genel"
+  },
+  {
+    "english": "welcome",
+    "turkish": "welcome",
+    "category": "Genel"
+  },
+  {
+    "english": "well",
+    "turkish": "well",
+    "category": "Genel"
+  },
+  {
+    "english": "well made",
+    "turkish": "well made",
+    "category": "Genel"
+  },
+  {
+    "english": "well-dressed",
+    "turkish": "well-dressed",
+    "category": "Genel"
+  },
+  {
+    "english": "well-known",
+    "turkish": "well-known",
+    "category": "Genel"
+  },
+  {
+    "english": "what",
+    "turkish": "what",
+    "category": "Genel"
+  },
+  {
+    "english": "whatever",
+    "turkish": "whatever",
+    "category": "Genel"
+  },
+  {
+    "english": "wheel",
+    "turkish": "wheel",
+    "category": "Genel"
+  },
+  {
+    "english": "wheelchair",
+    "turkish": "wheelchair",
+    "category": "Genel"
+  },
+  {
+    "english": "when",
+    "turkish": "when",
+    "category": "Genel"
+  },
+  {
+    "english": "whenever",
+    "turkish": "whenever",
+    "category": "Genel"
+  },
+  {
+    "english": "where",
+    "turkish": "where",
+    "category": "Genel"
+  },
+  {
+    "english": "wherever",
+    "turkish": "wherever",
+    "category": "Genel"
+  },
+  {
+    "english": "whether",
+    "turkish": "whether",
+    "category": "Genel"
+  },
+  {
+    "english": "which",
+    "turkish": "which",
+    "category": "Genel"
+  },
+  {
+    "english": "who",
+    "turkish": "who",
+    "category": "Genel"
+  },
+  {
+    "english": "whole",
+    "turkish": "whole",
+    "category": "Genel"
+  },
+  {
+    "english": "whose",
+    "turkish": "whose",
+    "category": "Genel"
+  },
+  {
+    "english": "why",
+    "turkish": "why",
+    "category": "Genel"
+  },
+  {
+    "english": "wide",
+    "turkish": "geniş",
+    "category": "Genel"
+  },
+  {
+    "english": "will",
+    "turkish": "will",
+    "category": "Genel"
+  },
+  {
+    "english": "willing",
+    "turkish": "willing",
+    "category": "Genel"
+  },
+  {
+    "english": "windscreen",
+    "turkish": "windscreen",
+    "category": "Genel"
+  },
+  {
+    "english": "wing",
+    "turkish": "wing",
+    "category": "Genel"
+  },
+  {
+    "english": "wish",
+    "turkish": "wish",
+    "category": "Genel"
+  },
+  {
+    "english": "woman",
+    "turkish": "woman",
+    "category": "Genel"
+  },
+  {
+    "english": "wonder",
+    "turkish": "wonder",
+    "category": "Genel"
+  },
+  {
+    "english": "wood",
+    "turkish": "wood",
+    "category": "Genel"
+  },
+  {
+    "english": "wooden",
+    "turkish": "wooden",
+    "category": "Genel"
+  },
+  {
+    "english": "word",
+    "turkish": "word",
+    "category": "Genel"
+  },
+  {
+    "english": "work out",
+    "turkish": "work out",
+    "category": "Genel"
+  },
+  {
+    "english": "working",
+    "turkish": "working",
+    "category": "Genel"
+  },
+  {
+    "english": "world",
+    "turkish": "world",
+    "category": "Genel"
+  },
+  {
+    "english": "worse",
+    "turkish": "worse",
+    "category": "Genel"
+  },
+  {
+    "english": "worst",
+    "turkish": "worst",
+    "category": "Genel"
+  },
+  {
+    "english": "worth",
+    "turkish": "worth",
+    "category": "Genel"
+  },
+  {
+    "english": "would",
+    "turkish": "would",
+    "category": "Genel"
+  },
+  {
+    "english": "wow",
+    "turkish": "wow",
+    "category": "Genel"
+  },
+  {
+    "english": "wrap",
+    "turkish": "wrap",
+    "category": "Genel"
+  },
+  {
+    "english": "write down",
+    "turkish": "write down",
+    "category": "Genel"
+  },
+  {
+    "english": "wrong",
+    "turkish": "yanlış",
+    "category": "Genel"
+  },
+  {
+    "english": "yard",
+    "turkish": "yard",
+    "category": "Genel"
+  },
+  {
+    "english": "yeah",
+    "turkish": "yeah",
+    "category": "Genel"
+  },
+  {
+    "english": "yes",
+    "turkish": "yes",
+    "category": "Genel"
+  },
+  {
+    "english": "yoga",
+    "turkish": "yoga",
+    "category": "Genel"
+  },
+  {
+    "english": "yoghurt",
+    "turkish": "yoghurt",
+    "category": "Genel"
+  },
+  {
+    "english": "you",
+    "turkish": "you",
+    "category": "Genel"
+  },
+  {
+    "english": "you know",
+    "turkish": "you know",
+    "category": "Genel"
+  },
+  {
+    "english": "young",
+    "turkish": "genç",
+    "category": "Genel"
+  },
+  {
+    "english": "your",
+    "turkish": "your",
+    "category": "Genel"
+  },
+  {
+    "english": "yours",
+    "turkish": "yours",
+    "category": "Genel"
+  },
+  {
+    "english": "yourself",
+    "turkish": "yourself",
+    "category": "Genel"
+  },
+  {
+    "english": "zero",
+    "turkish": "zero",
+    "category": "Genel"
+  },
+  {
+    "english": "zone",
+    "turkish": "zone",
+    "category": "Genel"
+  },
+  {
+    "english": "zoo",
+    "turkish": "zoo",
+    "category": "Genel"
+  },
+  {
+    "english": "access",
+    "turkish": "erişim",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "ad",
+    "turkish": "reklam",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "advert",
+    "turkish": "reklam",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "advertisement",
+    "turkish": "reklam",
+    "category": "Teknoloji"
+  },
+  {
+    "english": "bad",
+    "turkish": "kötü",
+    "category": "Sıfatlar"
+  },
+  {
+    "english": "beautiful",
+    "turkish": "güzel",
+    "category": "Sıfatlar"
+  },
+  {
+    "english": "big",
+    "turkish": "büyük",
+    "category": "Sıfatlar"
+  },
+  {
+    "english": "cold",
+    "turkish": "soğuk",
+    "category": "Sıfatlar"
+  },
+  {
+    "english": "good",
+    "turkish": "iyi",
+    "category": "Sıfatlar"
+  },
+  {
+    "english": "hot",
+    "turkish": "sıcak",
+    "category": "Sıfatlar"
+  },
+  {
+    "english": "nice",
+    "turkish": "güzel",
+    "category": "Sıfatlar"
+  },
+  {
+    "english": "small",
+    "turkish": "küçük",
+    "category": "Sıfatlar"
+  },
+  {
+    "english": "bag",
+    "turkish": "çanta",
+    "category": "Nesneler ve Objeler"
+  },
+  {
+    "english": "balloon",
+    "turkish": "balon",
+    "category": "Nesneler ve Objeler"
+  },
+  {
+    "english": "bandage",
+    "turkish": "bandaj",
+    "category": "Nesneler ve Objeler"
+  },
+  {
+    "english": "basin",
+    "turkish": "leğen",
+    "category": "Nesneler ve Objeler"
+  },
+  {
+    "english": "basket",
+    "turkish": "sepet",
+    "category": "Nesneler ve Objeler"
+  },
+  {
+    "english": "battery",
+    "turkish": "pil",
+    "category": "Nesneler ve Objeler"
+  },
+  {
+    "english": "box",
+    "turkish": "kutu",
+    "category": "Nesneler ve Objeler"
+  },
+  {
+    "english": "brush",
+    "turkish": "fırça",
+    "category": "Nesneler ve Objeler"
+  },
+  {
+    "english": "bake",
+    "turkish": "pişirmek",
+    "category": "Fiiller ve Eylemler"
+  },
+  {
+    "english": "bite",
+    "turkish": "ısırmak",
+    "category": "Fiiller ve Eylemler"
+  },
+  {
+    "english": "blow",
+    "turkish": "üflemek",
+    "category": "Fiiller ve Eylemler"
+  },
+  {
+    "english": "boil",
+    "turkish": "kaynatmak",
+    "category": "Fiiller ve Eylemler"
+  },
+  {
+    "english": "borrow",
+    "turkish": "ödünç almak",
+    "category": "Fiiller ve Eylemler"
+  },
+  {
+    "english": "breathe",
+    "turkish": "nefes almak",
+    "category": "Fiiller ve Eylemler"
+  },
+  {
+    "english": "bring",
+    "turkish": "getirmek",
+    "category": "Fiiller ve Eylemler"
+  },
+  {
+    "english": "carry",
+    "turkish": "taşımak",
+    "category": "Fiiller ve Eylemler"
+  },
+  {
+    "english": "catch",
+    "turkish": "yakalamak",
+    "category": "Fiiller ve Eylemler"
+  }
+]
