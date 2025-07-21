@@ -1,6 +1,6 @@
 # 🎯 Flashcard Uygulaması
 
-Modern ve interaktif bir İngilizce-Türkçe kelime öğrenme uygulaması. Cambridge kelime listesi ile desteklenen bu uygulama, etkili kelime öğrenimi için tasarlandı.
+Modern ve interaktif bir İngilizce-Türkçe kelime öğrenme uygulaması. Tamamen kişisel olarak hazırladım büyük bölümünü yapay zeka kullanarak geliştridim
 
 ![React](https://img.shields.io/badge/React-19.1.0-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)
@@ -227,12 +227,7 @@ python upload_cambridge_words.py
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasını inceleyebilirsiniz.
 
-## 📞 İletişim
 
-Sorularınız veya önerileriniz için:
-
-- Issue açın
-- Pull request gönderin
 
 ---
 
